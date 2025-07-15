@@ -1,0 +1,1649 @@
+{
+  "nodes": [
+    {
+      "id": "set_concepts_and_representation",
+      "label": "集合的概念与表示",
+      "properties": {
+        "description": "介绍现代数学的基础概念——集合。主要包括集合的定义、集合的表示方法，以及作为集合论基本元素的特殊集合，如空集和全集。这是理解集合论后续内容（如集合间关系与运算）的基石。",
+        "course_nature": "Compulsory",
+        "subject": "Mathematics",
+        "category": "集合",
+        "theme": "预备知识",
+        "cultivated_abilities": ["数学抽象", "逻辑推理"]
+      }
+    },
+    {
+      "id": "set_definition",
+      "label": "集合的含义",
+      "properties": {
+        "description": "集合是具有某种特定性质的事物的总体。组成集合的事物称为该集合的元素。集合具有三个核心特性：确定性（元素必须是明确的）、互异性（任意两个元素都不能相同）和无序性（元素的排列顺序无关紧要）。"
+      }
+    },
+    {
+      "id": "element_set_membership",
+      "label": "元素与集合的属于关系",
+      "properties": {
+        "description": "描述元素与集合之间的基本关系。如果元素a是集合A的成员，则称a属于A，记作 a∈A。反之，如果a不是集合A的成员，则称a不属于A，记作 a∉A。"
+      }
+    },
+    {
+      "id": "set_representation_methods",
+      "label": "集合的表示方法",
+      "properties": {
+        "description": "用于明确表达一个集合所包含元素的两种主要方式：列举法和描述法。"
+      }
+    },
+    {
+      "id": "roster_method",
+      "label": "列举法",
+      "properties": {
+        "description": "将集合中的所有元素一一列举出来，并用花括号括起来的表示方法。例如，{1, 2, 3} 表示包含1, 2, 3三个元素的集合。"
+      }
+    },
+    {
+      "id": "set_builder_notation",
+      "label": "描述法",
+      "properties": {
+        "description": "通过描述集合中元素所共有的特征来表示集合的方法。其标准形式为 {x | P(x)}，其中x是集合的代表元素，P(x)是该元素应满足的性质。例如，{x | x > 0} 表示所有正数的集合。"
+      }
+    },
+    {
+      "id": "special_sets",
+      "label": "特殊集合",
+      "properties": {
+        "description": "在集合论中具有基础性地位的两个特殊集合：空集和全集。"
+      }
+    },
+    {
+      "id": "empty_set",
+      "label": "空集",
+      "properties": {
+        "description": "不包含任何元素的集合，记作 ∅。空集是任何非空集合的真子集，是任何集合的子集。"
+      }
+    },
+    {
+      "id": "universal_set",
+      "label": "全集",
+      "properties": {
+        "description": "在一个特定的数学问题中，包含了我们所研究的所有元素和集合的那个最大的集合。通常记作 U。"
+      }
+    },
+    {
+      "id": "set_relations_and_operations",
+      "label": "集合的基本关系与运算",
+      "properties": {
+        "description": "研究集合之间的相互关系以及如何通过基本运算从已知集合构造新集合。主要包括包含、相等两种关系，以及并、交、补三种基本运算。这些是进行更复杂集合论证和计算的基础。",
+        "course_nature": "Compulsory",
+        "subject": "Mathematics",
+        "category": "集合",
+        "theme": "预备知识",
+        "cultivated_abilities": ["逻辑推理", "数学运算"]
+      }
+    },
+    {
+      "id": "set_relations",
+      "label": "集合关系",
+      "properties": {
+        "description": "描述两个或多个集合之间相互关联的方式，主要包括包含关系和相等关系。"
+      }
+    },
+    {
+      "id": "subset_relation",
+      "label": "子集（包含关系）",
+      "properties": {
+        "description": "如果集合A的任何一个元素都是集合B的元素，我们就说这两个集合有包含关系，称集合A是集合B的子集。记作 A ⊆ B。"
+      }
+    },
+    {
+      "id": "proper_subset_relation",
+      "label": "真子集",
+      "properties": {
+        "description": "如果集合A是集合B的子集，并且B中至少有一个元素不属于A，那么集合A称为集合B的真子集。记作 A ⊂ B 或 A ⊊ B。"
+      }
+    },
+    {
+      "id": "set_equality",
+      "label": "集合相等",
+      "properties": {
+        "description": "如果两个集合的元素完全相同，则称这两个集合相等。即若 A ⊆ B 且 B ⊆ A，则 A = B。"
+      }
+    },
+    {
+      "id": "set_operations",
+      "label": "集合运算",
+      "properties": {
+        "description": "通过已知的集合来构造新集合的过程。基本运算包括并集、交集和补集。"
+      }
+    },
+    {
+      "id": "union_operation",
+      "label": "并集",
+      "properties": {
+        "description": "由所有属于集合A或属于集合B的元素所组成的集合，称为集合A与集合B的并集。记作 A∪B。"
+      }
+    },
+    {
+      "id": "intersection_operation",
+      "label": "交集",
+      "properties": {
+        "description": "由所有既属于集合A又属于集合B的元素组成的集合，叫做A与B的交集。记作 A∩B。"
+      }
+    },
+    {
+      "id": "complement_operation",
+      "label": "补集",
+      "properties": {
+        "description": "在给定全集U的前提下，一个集合A的补集是指U中所有不属于A的元素组成的集合。记作 ∁U(A) 或 A'。"
+      }
+    },
+    {
+      "id": "venn_diagram",
+      "label": "韦恩图",
+      "properties": {
+        "description": "使用平面上的封闭图形（通常是圆形）来表示集合及其关系的图形。韦恩图直观地展示了集合的包含关系以及并、交、补等运算的结果。"
+      }
+    },
+    {
+      "id": "preparatory_knowledge",
+      "label": "预备知识",
+      "properties": {
+        "description": "高中数学的基础模块，为后续所有主题（如函数、几何、概率统计）的学习奠定核心的语言、工具和思维方式。主要包含集合论、常用逻辑用语和基本不等式等内容。"
+      }
+    },
+    {
+        "id": "common_logical_language",
+        "label": "常用逻辑用语",
+        "properties": {
+            "description": "构建数学论证和进行严密推理的基础。它提供了一套精确的语言和符号来表达数学思想，主要包括命题及其真伪、条件关系和量词的使用。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "常用逻辑用语",
+            "theme": "预备知识",
+            "cultivated_abilities": ["逻辑推理", "数学抽象"]
+        }
+    },
+    {
+        "id": "proposition",
+        "label": "命题",
+        "properties": {
+            "description": "一个可以判断其真假的陈述句。命题是逻辑推理的基本单元，必须具有明确的真值（真或假）。"
+        }
+    },
+    {
+        "id": "proposition_truth_value",
+        "label": "命题的真假判断",
+        "properties": {
+            "description": "确定一个命题是真的（True）还是假的（False）的过程。这是所有逻辑运算和推理的出发点。"
+        }
+    },
+    {
+        "id": "conditional_statements",
+        "label": "条件叙述",
+        "properties": {
+            "description": "描述两个命题p和q之间逻辑蕴含关系的陈述，是构建复杂数学证明的关键部分。主要形式包括充分条件、必要条件和充要条件。"
+        }
+    },
+    {
+        "id": "sufficient_condition",
+        "label": "充分条件",
+        "properties": {
+            "description": "如果命题p成立能推导出命题q成立（若p则q），则称p是q的充分条件。这意味着p的成立足以保证q的成立。"
+        }
+    },
+    {
+        "id": "necessary_condition",
+        "label": "必要条件",
+        "properties": {
+            "description": "如果命题q成立能推导出命题p成立（若q则p），则称p是q的必要条件。这意味着p的成立是q成立所必需的，没有p就一定没有q。"
+        }
+    },
+    {
+        "id": "biconditional_statement",
+        "label": "充要条件",
+        "properties": {
+            "description": "如果p是q的充分条件，同时p也是q的必要条件，则称p是q的充分必要条件（简称充要条件）。记作 p ⇔ q，意味着p和q完全等价，同真同假。"
+        }
+    },
+    {
+        "id": "quantifiers",
+        "label": "量词",
+        "properties": {
+            "description": "用于指明一个陈述所涉及的范围的逻辑符号。量词将谓词（含有变量的陈述）转化为可以判断真假的命题。主要分为全称量词和存在量词。"
+        }
+    },
+    {
+        "id": "universal_quantifier",
+        "label": "全称量词",
+        "properties": {
+            "description": "表示\"对所有的\"或\"任意一个\"的逻辑符号，记作∀。它断言其后的谓词对于论域中的所有元素都为真。"
+        }
+    },
+    {
+        "id": "existential_quantifier",
+        "label": "存在量词",
+        "properties": {
+            "description": "表示\"存在一个\"或\"至少有一个\"的逻辑符号，记作∃。它断言其后的谓词对于论域中至少一个元素为真。"
+        }
+    },
+    {
+        "id": "basic_properties_of_inequalities",
+        "label": "不等式的基本性质",
+        "properties": {
+            "description": "对不等关系进行等价变形和逻辑推导时必须遵循的一系列基本法则。这些性质是求解不等式和证明不等式的基础。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "等与不等",
+            "theme": "预备知识",
+            "cultivated_abilities": ["数学运算", "逻辑推理"]
+        }
+    },
+    {
+        "id": "inequality_symmetry",
+        "label": "对称性",
+        "properties": {
+            "description": "描述不等号方向改变的规则。如果 a > b，那么 b < a；反之亦然。这是最基本的不等式性质之一。"
+        }
+    },
+    {
+        "id": "inequality_transitivity",
+        "label": "传递性",
+        "properties": {
+            "description": "建立多个不等关系之间联系的桥梁。如果 a > b 且 b > c，那么可以推断出 a > c。"
+        }
+    },
+    {
+        "id": "inequality_additivity",
+        "label": "加法性质",
+        "properties": {
+            "description": "不等式两边可以同时加上（或减去）同一个实数，不等号的方向不变。即若 a > b，则对任意实数c，都有 a + c > b + c。"
+        }
+    },
+    {
+        "id": "inequality_multiplicativity",
+        "label": "乘法性质",
+        "properties": {
+            "description": "不等式两边同乘以一个正数，不等号方向不变；若乘以一个负数，不等号方向必须改变。这是不等式变形中极易出错的关键点。"
+        }
+    },
+    {
+        "id": "inequality_division",
+        "label": "除法性质",
+        "properties": {
+            "description": "作为乘法性质的推论，不等式两边同除以一个正数，不等号方向不变；若除以一个负数，不等号方向必须改变。"
+        }
+    },
+    {
+        "id": "am_gm_inequality",
+        "label": "基本不等式（均值不等式）",
+        "properties": {
+            "description": "对于任意两个非负实数a和b，它们的算术平均值大于或等于几何平均值，即 (a+b)/2 ≥ √(ab)，当且仅当 a=b 时取等号。这是求函数最值和证明不等式的重要工具。"
+        }
+    },
+    {
+        "id": "quadratic_equation_and_inequality",
+        "label": "一元二次方程与不等式",
+        "properties": {
+            "description": "从函数的视角，利用二次函数的图像来分析和解决一元二次方程的根的问题以及一元二次不等式的求解问题。这是数形结合思想的重要体现。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "等与不等",
+            "theme": "预备知识",
+            "cultivated_abilities": ["数学建模", "直观想象"]
+        }
+    },
+    {
+        "id": "quadratic_equation_analysis",
+        "label": "一元二次方程分析",
+        "properties": {
+            "description": "研究形如 ax²+bx+c=0 (a≠0) 的方程的解（根）的个数和求解方法。核心在于理解判别式与根的关系。"
+        }
+    },
+    {
+        "id": "quadratic_inequality_solving",
+        "label": "一元二次不等式求解",
+        "properties": {
+            "description": "求解形如 ax²+bx+c > 0 或 ax²+bx+c < 0 (a≠0) 的不等式。其解集通常是一个或多个区间的并集。"
+        }
+    },
+    {
+        "id": "quadratic_function_perspective",
+        "label": "二次函数视角",
+        "properties": {
+            "description": "将一元二次方程和不等式问题转化为研究对应的二次函数 y=ax²+bx+c 的图像特征（如开口方向、与x轴的交点、对称轴等）。"
+        }
+    },
+    {
+        "id": "equation_roots_and_graph_intercepts",
+        "label": "方程根与图像交点",
+        "properties": {
+            "description": "一元二次方程 ax²+bx+c=0 的实数根，等价于其对应的二次函数 y=ax²+bx+c 的图像与x轴交点的横坐标。"
+        }
+    },
+    {
+        "id": "solve_inequality_by_graph_position",
+        "label": "通过图像位置关系解不等式",
+        "properties": {
+            "description": "不等式 ax²+bx+c > 0 的解集对应于二次函数 y=ax²+bx+c 图像位于x轴上方的部分的x取值范围；ax²+bx+c < 0 的解集则对应于图像位于x轴下方的部分。"
+        }
+    },
+    {
+        "id": "equation_function_connection",
+        "label": "方程与函数的联系",
+        "properties": {
+            "description": "将求解方程 f(x)=0 的问题，转化为研究函数 y=f(x) 的性质，特别是其零点问题。这种思想是连接代数与分析的核心桥梁。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "数学符号语言与表达规范",
+            "theme": "预备知识",
+            "cultivated_abilities": ["数学抽象", "数学建模"]
+        }
+    },
+    {
+        "id": "function_zero",
+        "label": "函数零点",
+        "properties": {
+            "description": "对于函数 y=f(x)，使函数值f(x)等于0的实数x被称为该函数的零点。函数的零点不是一个点，而是一个数值。"
+        }
+    },
+    {
+        "id": "intermediate_value_theorem",
+        "label": "介值定理",
+        "properties": {
+            "description": "若函数 y=f(x) 在闭区间 [a, b] 上连续，且 f(a) 与 f(b) 异号（即 f(a)f(b) < 0），则在开区间 (a, b) 内至少存在一个零点。该定理是判断根存在性的重要理论依据。"
+        }
+    },
+    {
+        "id": "monotonicity_and_solution_uniqueness",
+        "label": "函数单调性与解的唯一性",
+        "properties": {
+            "description": "如果函数 y=f(x) 在其定义域内是严格单调的（严格增或严格减），那么方程 f(x)=0 至多有一个解。这是判断方程根个数的有效方法。"
+        }
+    },
+    {
+        "id": "proposition_negation_and_contrapositive",
+        "label": "命题的否定与逆否命题",
+        "properties": {
+            "description": "研究如何变换一个命题以获得逻辑上相关的新命题。主要包括对原命题真值的直接取反（否定），以及在条件命题中，通过改变条件和结论并同时否定它们来构造等价命题（逆否命题）。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "常用逻辑用语",
+            "theme": "预备知识",
+            "cultivated_abilities": ["逻辑推理", "数学抽象"]
+        }
+    },
+    {
+        "id": "negation_of_a_proposition",
+        "label": "命题的否定",
+        "properties": {
+            "description": "对一个命题p内容的否定，记作'非p'或'¬p'。它的真值与原命题p的真值恰好相反。例如，'p: 2是偶数'（真）的否定是'¬p: 2不是偶数'（假）。"
+        }
+    },
+    {
+        "id": "negation_of_quantified_propositions",
+        "label": "量化命题的否定",
+        "properties": {
+            "description": "对含有量词的命题进行否定的特定规则。全称命题的否定是存在命题：¬(∀x, P(x)) 等价于 ∃x, ¬P(x)；存在命题的否定是全称命题：¬(∃x, P(x)) 等价于 ∀x, ¬P(x)。"
+        }
+    },
+    {
+        "id": "contrapositive_proposition",
+        "label": "逆否命题",
+        "properties": {
+            "description": "对于一个形式为\"若p,则q\"的条件命题，其逆否命题是\"若非q,则非p\"。例如，\"若x=2,则x²=4\"的逆否命题是\"若x²≠4,则x≠2\"。"
+        }
+    },
+    {
+        "id": "contrapositive_equivalence",
+        "label": "逆否等价性",
+        "properties": {
+            "description": "一个条件命题与其逆否命题具有完全相同的真值，它们是逻辑等价的。这一性质是反证法的重要理论基础。"
+        }
+    },
+    {
+        "id": "symbolic_language_and_expression_standards",
+        "label": "数学符号语言与表达规范",
+        "properties": {
+            "description": "在数学交流中，确保准确性、清晰性和无歧义性的元技能。它涉及正确使用标准数学符号以及在自然语言和形式化的符号语言之间进行精确转换的能力。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "数学符号语言与表达规范",
+            "theme": "预备知识",
+            "cultivated_abilities": ["数学抽象", "逻辑推理"]
+        }
+    },
+    {
+        "id": "correct_symbol_writing",
+        "label": "数学符号的正确书写",
+        "properties": {
+            "description": "准确无误地书写和区分外形相似但含义不同的数学符号。例如，正确区分集合的子集符号'⊆'和真子集符号'⫋'。"
+        }
+    },
+    {
+        "id": "natural_symbolic_language_conversion",
+        "label": "自然语言与符号语言的转换",
+        "properties": {
+            "description": "将日常语言描述的数学思想，准确地翻译成由逻辑符号、集合符号等组成的精确数学语言，反之亦然。例如，将\"方程f(x)=0至少有一个解\"转换为\"∃x, f(x)=0\"。"
+        }
+    },
+    {
+        "id": "function_theme",
+        "label": "函数",
+        "properties": {
+            "description": "数学的核心研究对象之一，描述了变量之间依赖关系的数学模型。函数思想是连接代数、几何和微积分等分支的中心思想。"
+        }
+    },
+    {
+        "id": "function_definition_and_elements",
+        "label": "函数定义与三要素",
+        "properties": {
+            "description": "从集合与映射的角度精确定义函数，并明确指出构成一个函数的三个不可或缺的要素：定义域、值域和对应法则。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "函数概念与性质",
+            "theme": "函数",
+            "cultivated_abilities": ["数学抽象", "逻辑推理"]
+        }
+    },
+    {
+        "id": "mapping_concept",
+        "label": "映射",
+        "properties": {
+            "description": "设A、B是两个非空集合，如果存在一个法则f，使得对A中的每个元素x，在B中都有唯一确定的元素y与之对应，那么就称f为从A到B的一个映射。函数是定义在数集上的映射。"
+        }
+    },
+    {
+        "id": "function_three_elements",
+        "label": "函数三要素",
+        "properties": {
+            "description": "一个函数由定义域、值域和对应法则三个部分唯一确定。只有当这三要素完全相同时，两个函数才能被认为是同一个函数。"
+        }
+    },
+    {
+        "id": "domain",
+        "label": "定义域",
+        "properties": {
+            "description": "自变量x的取值范围，是函数赖以存在的基础。通常由函数的解析式、实际问题的背景或人为指定来确定。"
+        }
+    },
+    {
+        "id": "range",
+        "label": "值域",
+        "properties": {
+            "description": "函数值的集合，即所有因变量y的取值构成的集合。值域由函数的定义域和对应法则共同决定。"
+        }
+    },
+    {
+        "id": "correspondence_rule",
+        "label": "对应法则",
+        "properties": {
+            "description": "建立定义域中每个自变量x与值域中唯一确定的因变量y之间对应关系的规则，通常用解析式、图像或表格来表示。"
+        }
+    },
+    {
+        "id": "function_representation_methods",
+        "label": "函数的表示方法",
+        "properties": {
+            "description": "用于具体表达函数三要素中\"对应法则\"的三种主要方式。它们各自有不同的优缺点，适用于不同的问题情境，并且可以相互转换。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "函数概念与性质",
+            "theme": "函数",
+            "cultivated_abilities": ["数学建模", "直观想象"]
+        }
+    },
+    {
+        "id": "analytical_method",
+        "label": "解析式法",
+        "properties": {
+            "description": "用一个数学等式（解析式）来表示两个变量之间的函数关系，如 f(x) = x²。这种方法精确、简洁，便于进行代数运算和理论分析。"
+        }
+    },
+    {
+        "id": "tabular_method",
+        "label": "列表法",
+        "properties": {
+            "description": "通过列出两行或两列表格，分别表示自变量和对应的因变量的值。这种方法直观明了，常用于表示离散数据或实验数据，但无法显示非数据点的函数行为。"
+        }
+    },
+    {
+        "id": "graphical_method",
+        "label": "图像法",
+        "properties": {
+            "description": "在直角坐标系中，将函数定义域中的每个值x作为点的横坐标，对应的函数值y作为纵坐标，描出所有这些点形成的图形。这种方法能直观地展现函数的整体性质，如单调性、周期性、零点等。"
+        }
+    },
+    {
+        "id": "piecewise_function",
+        "label": "分段函数及其应用",
+        "properties": {
+            "description": "在函数的定义域内，对于自变量x的不同取值范围，有着不同的对应法则。这种函数是数学建模中描述具有\"跳变\"或\"转折\"特性的现实问题的有力工具。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "函数概念与性质",
+            "theme": "函数",
+            "cultivated_abilities": ["数学建模", "逻辑推理"]
+        }
+    },
+    {
+        "id": "piecewise_function_definition",
+        "label": "分段函数的定义",
+        "properties": {
+            "description": "一个函数由两个或多个子函数组成，每个子函数都有其特定的定义域区间。求解分段函数的值时，必须先判断自变量所属的区间，再选择对应的解析式。"
+        }
+    },
+    {
+        "id": "piecewise_function_application",
+        "label": "分段函数的应用",
+        "properties": {
+            "description": "广泛应用于根据不同标准收费或计量的实际问题，如个人所得税的阶梯税率、出租车计费模型、阶梯电价/水价等。"
+        }
+    },
+    {
+        "id": "function_properties",
+        "label": "函数的基本性质",
+        "properties": {
+            "description": "描述函数整体或局部行为特征的固有属性，是分析和应用函数的基础。主要包括单调性、奇偶性、周期性、最值等。"
+        }
+    },
+    {
+        "id": "monotonicity_and_extrema",
+        "label": "函数单调性与极值",
+        "properties": {
+            "description": "研究函数值随自变量变化的趋势（单调性），并基于此寻找函数在特定区间内的局部最大值或最小值（极值）。这是优化问题（如利润最大化）的数学基础。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "函数概念与性质",
+            "theme": "函数",
+            "cultivated_abilities": ["逻辑推理", "数学运算"]
+        }
+    },
+    {
+        "id": "monotonicity",
+        "label": "单调性",
+        "properties": {
+            "description": "描述函数图像在特定区间内是\"上升\"还是\"下降\"的性质。一个函数在某个区间上可以是单调递增、单调递减或非单调的。"
+        }
+    },
+    {
+        "id": "increasing_function",
+        "label": "增函数",
+        "properties": {
+            "description": "在给定区间内，如果对于任意两个自变量x1和x2，当x1 < x2时，总有f(x1) < f(x2)，则称f(x)在该区间上是增函数。"
+        }
+    },
+    {
+        "id": "decreasing_function",
+        "label": "减函数",
+        "properties": {
+            "description": "在给定区间内，如果对于任意两个自变量x1和x2，当x1 < x2时，总有f(x1) > f(x2)，则称f(x)在该区间上是减函数。"
+        }
+    },
+    {
+        "id": "extrema",
+        "label": "极值",
+        "properties": {
+            "description": "函数在一个邻域内的局部最大值（极大值）或局部最小值（极小值）。极值点通常出现在函数的单调性发生改变的地方。"
+        }
+    },
+    {
+        "id": "maximum_value",
+        "label": "最大值",
+        "properties": {
+            "description": "在整个定义域内，函数所能取到的最大函数值。它可能是某个极大值，也可能在定义域的端点取到。"
+        }
+    },
+    {
+        "id": "minimum_value",
+        "label": "最小值",
+        "properties": {
+            "description": "在整个定义域内，函数所能取到的最小函数值。它可能是某个极小值，也可能在定义域的端点取到。"
+        }
+    },
+    {
+        "id": "parity_and_periodicity",
+        "label": "奇偶性与周期性",
+        "properties": {
+            "description": "描述函数图像的对称性（奇偶性）与重复性（周期性）的性质。这些性质可以极大简化函数的研究，是分析三角函数等周期现象的基础。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "函数概念与性质",
+            "theme": "函数",
+            "cultivated_abilities": ["数学抽象", "直观想象"]
+        }
+    },
+    {
+        "id": "parity",
+        "label": "奇偶性",
+        "properties": {
+            "description": "描述函数f(x)的图像是否关于y轴或原点对称的性质。前提是函数的定义域必须关于原点对称。"
+        }
+    },
+    {
+        "id": "even_function",
+        "label": "偶函数",
+        "properties": {
+            "description": "如果对于定义域内的任意x，恒有f(-x) = f(x)，则称f(x)为偶函数。其图像关于y轴对称。"
+        }
+    },
+    {
+        "id": "odd_function",
+        "label": "奇函数",
+        "properties": {
+            "description": "如果对于定义域内的任意x，恒有f(-x) = -f(x)，则称f(x)为奇函数。其图像关于原点对称。"
+        }
+    },
+    {
+        "id": "graphical_symmetry",
+        "label": "图像的对称性",
+        "properties": {
+            "description": "函数奇偶性在几何上的直观体现。偶函数图像沿y轴对折后重合，奇函数图像绕原点旋转180度后重合。"
+        }
+    },
+    {
+        "id": "periodicity",
+        "label": "周期性",
+        "properties": {
+            "description": "描述函数值呈规律性重复出现的性质。如果存在一个非零常数T，使得对定义域内的任意x，恒有f(x+T)=f(x)，则称该函数为周期函数。"
+        }
+    },
+    {
+        "id": "period",
+        "label": "周期",
+        "properties": {
+            "description": "对于周期函数，能使f(x+T)=f(x)成立的最小正数T称为该函数的最小正周期，简称周期。"
+        }
+    },
+    {
+        "id": "elementary_functions",
+        "label": "基本初等函数",
+        "properties": {
+            "description": "构成更复杂函数的基本模块，包括幂函数、指数函数、对数函数、三角函数等。它们的性质是整个函数理论的基石。"
+        }
+    },
+    {
+        "id": "power_function",
+        "label": "幂函数",
+        "properties": {
+            "description": "形如 y = x^α (α为常数) 的函数。其性质由指数α决定，是描述比例、面积、体积等关系的基础数学模型。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "幂函数、指数函数、对数函数",
+            "theme": "函数",
+            "cultivated_abilities": ["直观想象", "数学运算"]
+        }
+    },
+    {
+        "id": "power_function_graph_and_properties",
+        "label": "幂函数图像与性质",
+        "properties": {
+            "description": "研究不同指数α下幂函数图像的共性（如都过点(1,1)）和特性（如在第一象限的凹凸性和增长速度）。典型的例子包括 y=x, y=x², y=x³, y=x^(1/2), y=x⁻¹。"
+        }
+    },
+    {
+        "id": "exponential_and_logarithmic_functions",
+        "label": "指数函数与对数函数",
+        "properties": {
+            "description": "研究形如 y=a^x (a>0, a≠1) 的指数函数和形如 y=log_a(x) (a>0, a≠1) 的对数函数。它们是描述增长、衰变、标度等现象的重要模型，并互为反函数关系。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "幂函数、指数函数、对数函数",
+            "theme": "函数",
+            "cultivated_abilities": ["数学建模", "数据分析"]
+        }
+    },
+    {
+        "id": "exponential_function",
+        "label": "指数函数",
+        "properties": {
+            "description": "形如 y=a^x (a>0, a≠1) 的函数。其图像恒过点(0,1)，当a>1时单调递增，当0<a<1时单调递减。"
+        }
+    },
+    {
+        "id": "logarithmic_function",
+        "label": "对数函数",
+        "properties": {
+            "description": "形如 y=log_a(x) (a>0, a≠1) 的函数。其图像恒过点(1,0)，当a>1时单调递增，当0<a<1时单调递减。"
+        }
+    },
+    {
+        "id": "inverse_function_relationship",
+        "label": "互为反函数关系",
+        "properties": {
+            "description": "指数函数 y=a^x 和对数函数 y=log_a(x) 互为反函数。它们的定义域和值域相互交换，图像关于直线 y=x 对称。"
+        }
+    },
+    {
+        "id": "exponential_growth_decay_model",
+        "label": "指数增长/衰减模型",
+        "properties": {
+            "description": "指数函数在现实世界中的应用，用于模拟人口增长、放射性元素衰变、复利计算等现象。"
+        }
+    },
+    {
+        "id": "trigonometric_functions_and_identities",
+        "label": "三角函数定义与恒等变换",
+        "properties": {
+            "description": "基于角和单位圆定义正弦、余弦、正切等函数，并研究它们之间恒成立的等式关系（恒等变换）。这是描述周期性现象（如波、振动）的数学语言。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "三角函数",
+            "theme": "函数",
+            "cultivated_abilities": ["数学运算", "逻辑推理"]
+        }
+    },
+    {
+        "id": "angle_and_radian_measure",
+        "label": "角与弧度制",
+        "properties": {
+            "description": "将角的度量从传统的角度制扩展到与圆的半径和弧长直接关联的弧度制。弧度制是高等数学中分析三角函数的标准单位。"
+        }
+    },
+    {
+        "id": "unit_circle_definition",
+        "label": "单位圆定义",
+        "properties": {
+            "description": "在直角坐标系中，利用单位圆（半径为1的圆）上点的坐标来定义任意角的三角函数值。角的终边与单位圆的交点P(x,y)的坐标即为(cosθ, sinθ)。"
+        }
+    },
+    {
+        "id": "sine_cosine_tangent",
+        "label": "正弦、余弦、正切函数",
+        "properties": {
+            "description": "三个最基本的三角函数，是构成其他三角函数的基础。它们都具有周期性。"
+        }
+    },
+    {
+        "id": "trigonometric_identities",
+        "label": "三角恒等变换",
+        "properties": {
+            "description": "对复杂的三角函数表达式进行化简、求值或证明恒等式的过程。其核心工具是各种三角恒等式，如和差角公式、二倍角公式、诱导公式等。"
+        }
+    },
+    {
+        "id": "sum_and_difference_formulas",
+        "label": "和差角公式",
+        "properties": {
+            "description": "用于计算两个角和或差的三角函数值的公式，例如 sin(α±β) = sinαcosβ ± cosαsinβ。是所有三角恒等变换的基础。"
+        }
+    },
+    {
+        "id": "double_angle_formulas",
+        "label": "二倍角公式",
+        "properties": {
+            "description": "由和角公式推导出的特殊情况，用于计算一个角的两倍的三角函数值，例如 sin(2α) = 2sinαcosα。"
+        }
+    },
+    {
+        "id": "bisection_method",
+        "label": "二分法求方程近似解",
+        "properties": {
+            "description": "一种基于介值定理的、用于逼近函数零点的数值算法。通过反复将有根区间一分为二，并根据端点函数值的符号判断根在哪一侧，逐步缩小解的范围，以获得满足精度要求的近似解。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "函数概念与性质",
+            "theme": "函数",
+            "cultivated_abilities": ["数学建模", "逻辑推理"]
+        }
+    },
+    {
+        "id": "trigonometric_function_graphs_and_properties",
+        "label": "三角函数的图像与性质",
+        "properties": {
+            "description": "研究正弦、余弦、正切等基本三角函数的图像形态及其周期性、单调性、奇偶性、最值等核心性质。这是利用三角函数解决实际周期性问题的基础。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "三角函数",
+            "theme": "函数",
+            "cultivated_abilities": ["直观想象", "数据分析"]
+        }
+    },
+    {
+        "id": "sine_function_graph_properties",
+        "label": "正弦函数 y=sin(x) 的图像与性质",
+        "properties": {
+            "description": "正弦曲线，或称正弦波。其图像关于原点对称（奇函数），周期为2π，值域为[-1, 1]。在[ -π/2+2kπ, π/2+2kπ]上单调递增，在[π/2+2kπ, 3π/2+2kπ]上单调递减。"
+        }
+    },
+    {
+        "id": "cosine_function_graph_properties",
+        "label": "余弦函数 y=cos(x) 的图像与性质",
+        "properties": {
+            "description": "余弦曲线。其图像关于y轴对称（偶函数），周期为2π，值域为[-1, 1]。可通过将正弦曲线向左平移π/2个单位得到。"
+        }
+    },
+    {
+        "id": "tangent_function_graph_properties",
+        "label": "正切函数 y=tan(x) 的图像与性质",
+        "properties": {
+            "description": "正切曲线。其图像关于原点对称（奇函数），周期为π，有垂直渐近线 x=π/2+kπ。在每个周期内单调递增。"
+        }
+    },
+    {
+        "id": "function_y_Asin_omega_x_phi",
+        "label": "函数 y=Asin(ωx+φ) 的图像与性质",
+        "properties": {
+            "description": "由基本正弦函数通过振幅变换(A)、周期变换(ω)和相位变换(φ)得到的复合函数。广泛用于描述简谐运动等物理现象。参数A控制振幅，ω控制周期(T=2π/|ω|)，φ控制相移。",
+            "course_nature": "Elective",
+            "subject": "Mathematics",
+            "category": "三角函数",
+            "theme": "函数",
+            "cultivated_abilities": ["数学建模", "直观想象"]
+        }
+    }
+  ],
+  "edges": [
+    {
+        "source": "set_concepts_and_representation",
+        "target": "preparatory_knowledge",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "集合的概念与表示是预备知识的一个重要组成部分。" }
+    },
+    {
+        "source": "set_relations_and_operations",
+        "target": "preparatory_knowledge",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "集合的基本关系与运算是预备知识的一个重要组成部分。" }
+    },
+    {
+        "source": "common_logical_language",
+        "target": "preparatory_knowledge",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "常用逻辑用语是预备知识的一个重要组成部分。" }
+    },
+    {
+        "source": "basic_properties_of_inequalities",
+        "target": "preparatory_knowledge",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "不等式的基本性质是预备知识的一个重要组成部分。" }
+    },
+    {
+        "source": "quadratic_equation_and_inequality",
+        "target": "preparatory_knowledge",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "一元二次方程与不等式是预备知识的一个重要组成部分。" }
+    },
+    {
+        "source": "equation_function_connection",
+        "target": "preparatory_knowledge",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "方程与函数的联系是预备知识的一个重要组成部分。" }
+    },
+    {
+        "source": "proposition_negation_and_contrapositive",
+        "target": "common_logical_language",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "命题的否定与逆否命题是常用逻辑用语的一个重要组成部分。" }
+    },
+    {
+        "source": "symbolic_language_and_expression_standards",
+        "target": "preparatory_knowledge",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "数学符号语言与表达规范是预备知识的一个重要组成部分。" }
+    },
+    {
+        "source": "function_definition_and_elements",
+        "target": "function_theme",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "函数定义与三要素是函数主题的一个重要组成部分。" }
+    },
+    {
+        "source": "function_representation_methods",
+        "target": "function_theme",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "函数的表示方法是函数主题的一个重要组成部分。" }
+    },
+    {
+        "source": "piecewise_function",
+        "target": "function_theme",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "分段函数是函数主题的一个重要组成部分。" }
+    },
+    {
+        "source": "function_properties",
+        "target": "function_theme",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "函数性质是函数主题的一个重要组成部分。" }
+    },
+    {
+        "source": "monotonicity_and_extrema",
+        "target": "function_properties",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "函数单调性与极值是函数性质的一个重要组成部分。" }
+    },
+    {
+        "source": "parity_and_periodicity",
+        "target": "function_properties",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "奇偶性与周期性是函数性质的一个重要组成部分。" }
+    },
+    {
+        "source": "elementary_functions",
+        "target": "function_theme",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "基本初等函数是函数主题的一个重要组成部分。" }
+    },
+    {
+        "source": "power_function",
+        "target": "elementary_functions",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "幂函数是基本初等函数的一个重要组成部分。" }
+    },
+    {
+        "source": "exponential_and_logarithmic_functions",
+        "target": "elementary_functions",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "指数函数与对数函数是基本初等函数的一个重要组成部分。" }
+    },
+    {
+        "source": "trigonometric_functions_and_identities",
+        "target": "elementary_functions",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "三角函数定义与恒等变换是基本初等函数的一个重要组成部分。" }
+    },
+    {
+        "source": "bisection_method",
+        "target": "function_theme",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "二分法求方程近似解是函数主题的一个重要组成部分。" }
+    },
+    {
+        "source": "trigonometric_function_graphs_and_properties",
+        "target": "elementary_functions",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "三角函数的图像与性质是基本初等函数研究的重要组成部分。" }
+    },
+    {
+        "source": "trigonometric_function_graphs_and_properties",
+        "target": "trigonometric_functions_and_identities",
+        "label": "is_based_on",
+        "properties": { "description": "三角函数的图像与性质是建立在其基本定义和恒等变换之上的。" }
+    },
+    {
+        "source": "sine_function_graph_properties",
+        "target": "trigonometric_function_graphs_and_properties",
+        "label": "is_part_of",
+        "properties": { "description": "正弦函数的图像性质是三角函数图像性质研究的核心内容。" }
+    },
+    {
+        "source": "cosine_function_graph_properties",
+        "target": "trigonometric_function_graphs_and_properties",
+        "label": "is_part_of",
+        "properties": { "description": "余弦函数的图像性质是三角函数图像性质研究的核心内容。" }
+    },
+    {
+        "source": "tangent_function_graph_properties",
+        "target": "trigonometric_function_graphs_and_properties",
+        "label": "is_part_of",
+        "properties": { "description": "正切函数的图像性质是三角函数图像性质研究的核心内容。" }
+    },
+    {
+        "source": "sine_function_graph_properties",
+        "target": "sine_cosine_tangent",
+        "label": "visualizes_and_analyzes",
+        "properties": { "description": "正弦函数的图像与性质是对正弦函数这一概念的可视化和深入分析。" }
+    },
+    {
+        "source": "cosine_function_graph_properties",
+        "target": "sine_cosine_tangent",
+        "label": "visualizes_and_analyzes",
+        "properties": { "description": "余弦函数的图像与性质是对余弦函数这一概念的可视化和深入分析。" }
+    },
+    {
+        "source": "tangent_function_graph_properties",
+        "target": "sine_cosine_tangent",
+        "label": "visualizes_and_analyzes",
+        "properties": { "description": "正切函数的图像与性质是对正切函数这一概念的可视化和深入分析。" }
+    },
+    {
+        "source": "function_y_Asin_omega_x_phi",
+        "target": "trigonometric_function_graphs_and_properties",
+        "label": "is_an_extension_of",
+        "properties": { "description": "y=Asin(ωx+φ) 的研究是基本三角函数图像性质的延伸和应用。" }
+    },
+    {
+        "source": "function_y_Asin_omega_x_phi",
+        "target": "sine_function_graph_properties",
+        "label": "is_a_transformation_of",
+        "properties": { "description": "y=Asin(ωx+φ)的图像可以通过对基本正弦曲线进行平移和伸缩变换得到。" }
+    },
+    {
+        "source": "cosine_function_graph_properties",
+        "target": "sine_function_graph_properties",
+        "label": "is_related_to",
+        "properties": { "description": "余弦函数的图像可以通过将正弦函数的图像平移得到，cos(x) = sin(x+π/2)。" }
+    },
+    {
+        "source": "bisection_method",
+        "target": "function_zero",
+        "label": "approximates",
+        "properties": { "description": "二分法的目标是求函数零点的近似值。" }
+    },
+    {
+      "source": "set_definition",
+      "target": "set_concepts_and_representation",
+      "label": "is_part_of",
+      "properties": { "description": "集合的含义是集合概念与表示的核心组成部分。" }
+    },
+    {
+      "source": "element_set_membership",
+      "target": "set_concepts_and_representation",
+      "label": "is_part_of",
+      "properties": { "description": "元素与集合的属于关系是集合概念与表示的核心组成部分。" }
+    },
+    {
+      "source": "set_representation_methods",
+      "target": "set_concepts_and_representation",
+      "label": "is_part_of",
+      "properties": { "description": "集合的表示方法是集合概念与表示的核心组成部分。" }
+    },
+    {
+      "source": "special_sets",
+      "target": "set_concepts_and_representation",
+      "label": "is_part_of",
+      "properties": { "description": "特殊集合是集合概念与表示的核心组成部分。" }
+    },
+    {
+      "source": "roster_method",
+      "target": "set_representation_methods",
+      "label": "is_a_type_of",
+      "properties": { "description": "列举法是集合表示方法的一种具体类型。" }
+    },
+    {
+      "source": "set_builder_notation",
+      "target": "set_representation_methods",
+      "label": "is_a_type_of",
+      "properties": { "description": "描述法是集合表示方法的一种具体类型。" }
+    },
+    {
+      "source": "empty_set",
+      "target": "special_sets",
+      "label": "is_a_type_of",
+      "properties": { "description": "空集是一种特殊的集合。" }
+    },
+    {
+      "source": "universal_set",
+      "target": "special_sets",
+      "label": "is_a_type_of",
+      "properties": { "description": "全集是一种特殊的集合。" }
+    },
+    {
+      "source": "set_concepts_and_representation",
+      "target": "preparatory_knowledge",
+      "label": "is_part_of",
+      "properties": { "description": "集合概念是预备知识的一部分。" }
+    },
+    {
+      "source": "set_relations_and_operations",
+      "target": "preparatory_knowledge",
+      "label": "is_part_of",
+      "properties": { "description": "集合关系与运算是预备知识的一部分。" }
+    },
+    {
+      "source": "set_concepts_and_representation",
+      "target": "set_relations_and_operations",
+      "label": "is_prerequisite_for",
+      "properties": { "description": "理解集合的概念是学习集合关系与运算的前提。" }
+    },
+    {
+      "source": "set_relations",
+      "target": "set_relations_and_operations",
+      "label": "is_part_of",
+      "properties": { "description": "集合关系是集合基本关系与运算的核心内容之一。" }
+    },
+    {
+      "source": "set_operations",
+      "target": "set_relations_and_operations",
+      "label": "is_part_of",
+      "properties": { "description": "集合运算是集合基本关系与运算的核心内容之一。" }
+    },
+    {
+      "source": "subset_relation",
+      "target": "set_relations",
+      "label": "is_a_type_of",
+      "properties": { "description": "子集是集合关系的一种。" }
+    },
+    {
+      "source": "proper_subset_relation",
+      "target": "subset_relation",
+      "label": "is_a_special_case_of",
+      "properties": { "description": "真子集是子集的一种特殊情况。" }
+    },
+    {
+      "source": "set_equality",
+      "target": "set_relations",
+      "label": "is_a_type_of",
+      "properties": { "description": "集合相等是集合关系的一种。" }
+    },
+    {
+      "source": "union_operation",
+      "target": "set_operations",
+      "label": "is_a_type_of",
+      "properties": { "description": "并集是集合运算的一种。" }
+    },
+    {
+      "source": "intersection_operation",
+      "target": "set_operations",
+      "label": "is_a_type_of",
+      "properties": { "description": "交集是集合运算的一种。" }
+    },
+    {
+      "source": "complement_operation",
+      "target": "set_operations",
+      "label": "is_a_type_of",
+      "properties": { "description": "补集是集合运算的一种。" }
+    },
+    {
+      "source": "venn_diagram",
+      "target": "set_relations_and_operations",
+      "label": "is_visualization_of",
+      "properties": { "description": "韦恩图是用于可视化集合关系与运算的工具。" }
+    },
+    {
+        "source": "common_logical_language",
+        "target": "preparatory_knowledge",
+        "label": "is_part_of",
+        "properties": { "description": "常用逻辑用语是预备知识的一部分。" }
+    },
+    {
+        "source": "proposition",
+        "target": "common_logical_language",
+        "label": "is_foundational_concept_of",
+        "properties": { "description": "命题是常用逻辑用语的基础概念。" }
+    },
+    {
+        "source": "proposition_truth_value",
+        "target": "proposition",
+        "label": "is_a_property_of",
+        "properties": { "description": "真假值是命题的一个核心属性。" }
+    },
+    {
+        "source": "conditional_statements",
+        "target": "common_logical_language",
+        "label": "is_part_of",
+        "properties": { "description": "条件叙述是常用逻辑用语的重要组成部分。" }
+    },
+    {
+        "source": "sufficient_condition",
+        "target": "conditional_statements",
+        "label": "is_a_type_of",
+        "properties": { "description": "充分条件是条件叙述的一种。" }
+    },
+    {
+        "source": "necessary_condition",
+        "target": "conditional_statements",
+        "label": "is_a_type_of",
+        "properties": { "description": "必要条件是条件叙述的一种。" }
+    },
+    {
+        "source": "biconditional_statement",
+        "target": "conditional_statements",
+        "label": "is_a_type_of",
+        "properties": { "description": "充要条件是条件叙述的一种。" }
+    },
+    {
+        "source": "quantifiers",
+        "target": "common_logical_language",
+        "label": "is_part_of",
+        "properties": { "description": "量词是常用逻辑用语的重要组成部分。" }
+    },
+    {
+        "source": "universal_quantifier",
+        "target": "quantifiers",
+        "label": "is_a_type_of",
+        "properties": { "description": "全称量词是量词的一种。" }
+    },
+    {
+        "source": "existential_quantifier",
+        "target": "quantifiers",
+        "label": "is_a_type_of",
+        "properties": { "description": "存在量词是量词的一种。" }
+    },
+    {
+        "source": "basic_properties_of_inequalities",
+        "target": "preparatory_knowledge",
+        "label": "is_part_of",
+        "properties": { "description": "不等式的基本性质是预备知识的一部分。" }
+    },
+    {
+        "source": "inequality_symmetry",
+        "target": "basic_properties_of_inequalities",
+        "label": "is_a_property_of",
+        "properties": { "description": "对称性是不等式的基本性质之一。" }
+    },
+    {
+        "source": "inequality_transitivity",
+        "target": "basic_properties_of_inequalities",
+        "label": "is_a_property_of",
+        "properties": { "description": "传递性是不等式的基本性质之一。" }
+    },
+    {
+        "source": "inequality_additivity",
+        "target": "basic_properties_of_inequalities",
+        "label": "is_a_property_of",
+        "properties": { "description": "加法性质是不等式的基本性质之一。" }
+    },
+    {
+        "source": "inequality_multiplicativity",
+        "target": "basic_properties_of_inequalities",
+        "label": "is_a_property_of",
+        "properties": { "description": "乘法性质是不等式的基本性质之一。" }
+    },
+    {
+        "source": "inequality_division",
+        "target": "inequality_multiplicativity",
+        "label": "is_a_corollary_of",
+        "properties": { "description": "除法性质是乘法性质的一个直接推论。" }
+    },
+    {
+        "source": "am_gm_inequality",
+        "target": "basic_properties_of_inequalities",
+        "label": "is_a_key_theorem_in",
+        "properties": { "description": "基本不等式（均值不等式）是不等式领域的一个关键定理和应用。" }
+    },
+    {
+        "source": "quadratic_equation_and_inequality",
+        "target": "preparatory_knowledge",
+        "label": "is_part_of",
+        "properties": { "description": "一元二次方程与不等式是预备知识的一部分。" }
+    },
+    {
+        "source": "quadratic_equation_analysis",
+        "target": "quadratic_equation_and_inequality",
+        "label": "is_part_of",
+        "properties": { "description": "方程分析是该知识点的核心内容之一。" }
+    },
+    {
+        "source": "quadratic_inequality_solving",
+        "target": "quadratic_equation_and_inequality",
+        "label": "is_part_of",
+        "properties": { "description": "不等式求解是该知识点的核心内容之一。" }
+    },
+    {
+        "source": "quadratic_function_perspective",
+        "target": "quadratic_equation_and_inequality",
+        "label": "is_foundational_approach_for",
+        "properties": { "description": "二次函数视角是分析和解决该问题的基础方法（数形结合）。" }
+    },
+    {
+        "source": "equation_roots_and_graph_intercepts",
+        "target": "quadratic_equation_analysis",
+        "label": "explains",
+        "properties": { "description": "方程的根可以通过函数图像与x轴的交点来解释和可视化。" }
+    },
+    {
+        "source": "equation_roots_and_graph_intercepts",
+        "target": "quadratic_function_perspective",
+        "label": "is_an_application_of",
+        "properties": { "description": "根与交点的关系是二次函数视角的一个具体应用。" }
+    },
+    {
+        "source": "solve_inequality_by_graph_position",
+        "target": "quadratic_inequality_solving",
+        "label": "is_a_method_for",
+        "properties": { "description": "利用函数图像的位置关系是求解一元二次不等式的主要方法。" }
+    },
+    {
+        "source": "solve_inequality_by_graph_position",
+        "target": "quadratic_function_perspective",
+        "label": "is_an_application_of",
+        "properties": { "description": "通过图像位置解不等式是二次函数视角的一个具体应用。" }
+    },
+    {
+        "source": "equation_function_connection",
+        "target": "preparatory_knowledge",
+        "label": "is_part_of",
+        "properties": { "description": "方程与函数的联系是预备知识的一部分，深化了代数与函数分析的结合。" }
+    },
+    {
+        "source": "function_zero",
+        "target": "equation_function_connection",
+        "label": "is_a_key_concept_in",
+        "properties": { "description": "函数零点的概念是实现方程与函数联系转换的核心。" }
+    },
+    {
+        "source": "function_zero",
+        "target": "equation_roots_and_graph_intercepts",
+        "label": "is_equivalent_to",
+        "properties": { "description": "函数的零点在数值上等于对应方程的根，在几何上等于函数图像与x轴的交点横坐标。" }
+    },
+    {
+        "source": "intermediate_value_theorem",
+        "target": "function_zero",
+        "label": "proves_existence_of",
+        "properties": { "description": "介值定理可以用来证明函数零点的存在性。" }
+    },
+    {
+        "source": "monotonicity_and_solution_uniqueness",
+        "target": "function_zero",
+        "label": "determines_uniqueness_of",
+        "properties": { "description": "函数的单调性可用于判断其零点是否唯一。" }
+    },
+    {
+        "source": "proposition_negation_and_contrapositive",
+        "target": "common_logical_language",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "命题的否定与逆否命题是常用逻辑用语的一个重要子课题。" }
+    },
+    {
+        "source": "negation_of_a_proposition",
+        "target": "proposition_negation_and_contrapositive",
+        "label": "is_part_of",
+        "properties": { "description": "命题的否定是该知识点的核心内容之一。" }
+    },
+    {
+        "source": "contrapositive_proposition",
+        "target": "proposition_negation_and_contrapositive",
+        "label": "is_part_of",
+        "properties": { "description": "逆否命题是该知识点的核心内容之一。" }
+    },
+    {
+        "source": "negation_of_a_proposition",
+        "target": "proposition",
+        "label": "is_an_operation_on",
+        "properties": { "description": "否定是一种作用于命题的逻辑运算。" }
+    },
+    {
+        "source": "negation_of_quantified_propositions",
+        "target": "negation_of_a_proposition",
+        "label": "is_a_specific_application_of",
+        "properties": { "description": "对量化命题的否定是命题否定的一种具体且重要的应用。" }
+    },
+    {
+        "source": "negation_of_quantified_propositions",
+        "target": "quantifiers",
+        "label": "is_related_to",
+        "properties": { "description": "量化命题的否定直接涉及全称量词和存在量词的转换规则。" }
+    },
+    {
+        "source": "contrapositive_proposition",
+        "target": "conditional_statements",
+        "label": "is_a_transformation_of",
+        "properties": { "description": "逆否命题是由一个条件命题变换而来的。" }
+    },
+    {
+        "source": "contrapositive_equivalence",
+        "target": "contrapositive_proposition",
+        "label": "is_a_key_property_of",
+        "properties": { "description": "逻辑等价性是逆否命题最核心的性质，使其成为一种有效的证明策略。" }
+    },
+    {
+        "source": "symbolic_language_and_expression_standards",
+        "target": "preparatory_knowledge",
+        "label": "is_part_of",
+        "properties": { "description": "数学符号语言与表达规范是贯穿所有数学学习的预备知识和基本技能。" }
+    },
+    {
+        "source": "correct_symbol_writing",
+        "target": "symbolic_language_and_expression_standards",
+        "label": "is_a_component_of",
+        "properties": { "description": "正确的符号书写是数学表达规范的一个组成部分。" }
+    },
+    {
+        "source": "natural_symbolic_language_conversion",
+        "target": "symbolic_language_and_expression_standards",
+        "label": "is_a_component_of",
+        "properties": { "description": "语言转换能力是数学表达规范的一个组成部分。" }
+    },
+    {
+        "source": "correct_symbol_writing",
+        "target": "subset_relation",
+        "label": "regulates",
+        "properties": { "description": "规范了子集符号'⊆'的使用。" }
+    },
+    {
+        "source": "correct_symbol_writing",
+        "target": "proper_subset_relation",
+        "label": "regulates",
+        "properties": { "description": "规范了真子集符号'⫋'的使用。" }
+    },
+    {
+        "source": "natural_symbolic_language_conversion",
+        "target": "existential_quantifier",
+        "label": "applies_to",
+        "properties": { "description": "将\"至少有一个\"这样的自然语言表述转换为存在量词'∃'是其具体应用。" }
+    },
+    {
+        "source": "function_definition_and_elements",
+        "target": "function_theme",
+        "label": "is_foundational_concept_of",
+        "properties": { "description": "函数定义与三要素是整个函数主题的基石。" }
+    },
+    {
+        "source": "set_concepts_and_representation",
+        "target": "function_definition_and_elements",
+        "label": "is_prerequisite_for",
+        "properties": { "description": "函数的现代定义（基于集合和映射）要求必须先理解集合的基本概念。" }
+    },
+    {
+        "source": "mapping_concept",
+        "target": "function_definition_and_elements",
+        "label": "is_foundational_concept_for",
+        "properties": { "description": "映射是理解函数现代定义的关键前置概念，函数是一种特殊的映射。" }
+    },
+    {
+        "source": "function_three_elements",
+        "target": "function_definition_and_elements",
+        "label": "is_part_of",
+        "properties": { "description": "三要素是构成函数的必要组成部分。" }
+    },
+    {
+        "source": "domain",
+        "target": "function_three_elements",
+        "label": "is_a_component_of",
+        "properties": { "description": "定义域是函数三要素之一。" }
+    },
+    {
+        "source": "range",
+        "target": "function_three_elements",
+        "label": "is_a_component_of",
+        "properties": { "description": "值域是函数三要素之一。" }
+    },
+    {
+        "source": "correspondence_rule",
+        "target": "function_three_elements",
+        "label": "is_a_component_of",
+        "properties": { "description": "对应法则（关系式）是函数三要素之一。" }
+    },
+    {
+        "source": "function_representation_methods",
+        "target": "function_theme",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "函数的表示方法是函数主题下的一个重要子课题。" }
+    },
+    {
+        "source": "function_representation_methods",
+        "target": "correspondence_rule",
+        "label": "expresses",
+        "properties": { "description": "函数的表示方法是对应法则的具体表现形式。" }
+    },
+    {
+        "source": "analytical_method",
+        "target": "function_representation_methods",
+        "label": "is_a_type_of",
+        "properties": { "description": "解析式法是函数表示方法的一种。" }
+    },
+    {
+        "source": "tabular_method",
+        "target": "function_representation_methods",
+        "label": "is_a_type_of",
+        "properties": { "description": "列表法是函数表示方法的一种。" }
+    },
+    {
+        "source": "graphical_method",
+        "target": "function_representation_methods",
+        "label": "is_a_type_of",
+        "properties": { "description": "图像法是函数表示方法的一种。" }
+    },
+    {
+        "source": "piecewise_function",
+        "target": "function_theme",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "分段函数是函数概念下的一个重要子课题。" }
+    },
+    {
+        "source": "piecewise_function_definition",
+        "target": "piecewise_function",
+        "label": "defines",
+        "properties": { "description": "分段函数的定义是其核心概念。" }
+    },
+    {
+        "source": "piecewise_function_application",
+        "target": "piecewise_function",
+        "label": "is_an_application_of",
+        "properties": { "description": "数学建模是分段函数的主要应用领域。" }
+    },
+    {
+        "source": "piecewise_function",
+        "target": "analytical_method",
+        "label": "is_a_special_case_of",
+        "properties": { "description": "分段函数是解析法表示函数的一种特殊和复杂形式。" }
+    },
+    {
+        "source": "function_properties",
+        "target": "function_theme",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "函数性质是函数主题下的一个核心子课题。" }
+    },
+    {
+        "source": "monotonicity_and_extrema",
+        "target": "function_properties",
+        "label": "is_part_of",
+        "properties": { "description": "单调性与极值是函数的基本性质之一。" }
+    },
+    {
+        "source": "monotonicity",
+        "target": "monotonicity_and_extrema",
+        "label": "is_a_key_concept_in",
+        "properties": { "description": "单调性是研究函数变化趋势和寻找极值的基础。" }
+    },
+    {
+        "id": "bisection_method",
+        "label": "二分法求方程近似解",
+        "properties": {
+            "description": "一种基于介值定理的、用于逼近函数零点的数值算法。通过反复将有根区间一分为二，并根据端点函数值的符号判断根在哪一侧，逐步缩小解的范围，以获得满足精度要求的近似解。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "函数概念与性质",
+            "theme": "函数",
+            "cultivated_abilities": ["数学建模", "逻辑推理"]
+        }
+    },
+    {
+        "id": "trigonometric_function_graphs_and_properties",
+        "label": "三角函数的图像与性质",
+        "properties": {
+            "description": "研究正弦、余弦、正切等基本三角函数的图像形态及其周期性、单调性、奇偶性、最值等核心性质。这是利用三角函数解决实际周期性问题的基础。",
+            "course_nature": "Compulsory",
+            "subject": "Mathematics",
+            "category": "三角函数",
+            "theme": "函数",
+            "cultivated_abilities": ["直观想象", "数据分析"]
+        }
+    },
+    {
+        "id": "sine_function_graph_properties",
+        "label": "正弦函数 y=sin(x) 的图像与性质",
+        "properties": {
+            "description": "正弦曲线，或称正弦波。其图像关于原点对称（奇函数），周期为2π，值域为[-1, 1]。在[ -π/2+2kπ, π/2+2kπ]上单调递增，在[π/2+2kπ, 3π/2+2kπ]上单调递减。"
+        }
+    },
+    {
+        "id": "cosine_function_graph_properties",
+        "label": "余弦函数 y=cos(x) 的图像与性质",
+        "properties": {
+            "description": "余弦曲线。其图像关于y轴对称（偶函数），周期为2π，值域为[-1, 1]。可通过将正弦曲线向左平移π/2个单位得到。"
+        }
+    },
+    {
+        "id": "tangent_function_graph_properties",
+        "label": "正切函数 y=tan(x) 的图像与性质",
+        "properties": {
+            "description": "正切曲线。其图像关于原点对称（奇函数），周期为π，有垂直渐近线 x=π/2+kπ。在每个周期内单调递增。"
+        }
+    },
+    {
+        "id": "function_y_Asin_omega_x_phi",
+        "label": "函数 y=Asin(ωx+φ) 的图像与性质",
+        "properties": {
+            "description": "由基本正弦函数通过振幅变换(A)、周期变换(ω)和相位变换(φ)得到的复合函数。广泛用于描述简谐运动等物理现象。参数A控制振幅，ω控制周期(T=2π/|ω|)，φ控制相移。",
+            "course_nature": "Elective",
+            "subject": "Mathematics",
+            "category": "三角函数",
+            "theme": "函数",
+            "cultivated_abilities": ["数学建模", "直观想象"]
+        }
+    },
+    {
+        "source": "bisection_method",
+        "target": "function_zero",
+        "label": "approximates",
+        "properties": { "description": "二分法的目标是求函数零点的近似值。" }
+    },
+    {
+        "source": "trigonometric_function_graphs_and_properties",
+        "target": "elementary_functions",
+        "label": "is_a_subtopic_of",
+        "properties": { "description": "三角函数的图像与性质是基本初等函数研究的重要组成部分。" }
+    },
+    {
+        "source": "trigonometric_function_graphs_and_properties",
+        "target": "trigonometric_functions_and_identities",
+        "label": "is_based_on",
+        "properties": { "description": "三角函数的图像与性质是建立在其基本定义和恒等变换之上的。" }
+    },
+    {
+        "source": "sine_function_graph_properties",
+        "target": "trigonometric_function_graphs_and_properties",
+        "label": "is_part_of",
+        "properties": { "description": "正弦函数的图像性质是三角函数图像性质研究的核心内容。" }
+    },
+    {
+        "source": "cosine_function_graph_properties",
+        "target": "trigonometric_function_graphs_and_properties",
+        "label": "is_part_of",
+        "properties": { "description": "余弦函数的图像性质是三角函数图像性质研究的核心内容。" }
+    },
+    {
+        "source": "tangent_function_graph_properties",
+        "target": "trigonometric_function_graphs_and_properties",
+        "label": "is_part_of",
+        "properties": { "description": "正切函数的图像性质是三角函数图像性质研究的核心内容。" }
+    },
+    {
+        "source": "sine_function_graph_properties",
+        "target": "sine_cosine_tangent",
+        "label": "visualizes_and_analyzes",
+        "properties": { "description": "正弦函数的图像与性质是对正弦函数这一概念的可视化和深入分析。" }
+    },
+    {
+        "source": "cosine_function_graph_properties",
+        "target": "sine_cosine_tangent",
+        "label": "visualizes_and_analyzes",
+        "properties": { "description": "余弦函数的图像与性质是对余弦函数这一概念的可视化和深入分析。" }
+    },
+    {
+        "source": "tangent_function_graph_properties",
+        "target": "sine_cosine_tangent",
+        "label": "visualizes_and_analyzes",
+        "properties": { "description": "正切函数的图像与性质是对正切函数这一概念的可视化和深入分析。" }
+    },
+    {
+        "source": "function_y_Asin_omega_x_phi",
+        "target": "trigonometric_function_graphs_and_properties",
+        "label": "is_an_extension_of",
+        "properties": { "description": "y=Asin(ωx+φ) 的研究是基本三角函数图像性质的延伸和应用。" }
+    },
+    {
+        "source": "function_y_Asin_omega_x_phi",
+        "target": "sine_function_graph_properties",
+        "label": "is_a_transformation_of",
+        "properties": { "description": "y=Asin(ωx+φ)的图像可以通过对基本正弦曲线进行平移和伸缩变换得到。" }
+    },
+    {
+        "source": "cosine_function_graph_properties",
+        "target": "sine_function_graph_properties",
+        "label": "is_related_to",
+        "properties": { "description": "余弦函数的图像可以通过将正弦函数的图像平移得到，cos(x) = sin(x+π/2)。" }
+    }
+  ]
+}

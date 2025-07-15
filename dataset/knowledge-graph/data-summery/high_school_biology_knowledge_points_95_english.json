@@ -1,0 +1,857 @@
+[
+  {
+    "knowledge_point": "细胞的分子组成",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "细胞由水、无机盐、糖类、脂质、蛋白质和核酸等分子构成，其中蛋白质和核酸是重要生物大分子。"
+  },
+  {
+    "knowledge_point": "细胞元素与碳链骨架",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念",
+    "content_description": "细胞以C、H、O、N、P、S等元素为基础，以碳链为骨架形成复杂生物大分子。"
+  },
+  {
+    "knowledge_point": "水的存在形式与作用",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念",
+    "content_description": "水约占细胞重量的2/3，以自由水和结合水形式存在，具有溶剂、运输、调节等生命活动功能。"
+  },
+  {
+    "knowledge_point": "无机盐的功能",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念",
+    "content_description": "无机盐在细胞内含量少，但参与渗透压调节、酸碱平衡、酶活性调控等关键生命活动。"
+  },
+  {
+    "knowledge_point": "糖类的类型与功能",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念",
+    "content_description": "糖类包括单糖、二糖、多糖（如淀粉、糖原、纤维素），是细胞结构成分和主要能源物质。"
+  },
+  {
+    "knowledge_point": "脂质的类型与功能",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念",
+    "content_description": "脂质（如脂肪、磷脂、固醇）参与储能、细胞膜构建、激素合成等功能。"
+  },
+  {
+    "knowledge_point": "蛋白质的结构与功能",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "蛋白质由20种氨基酸通过肽键连接，其功能依赖氨基酸序列及空间结构，承担催化、运输、免疫等多样化功能。"
+  },
+  {
+    "knowledge_point": "核酸的结构与功能",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念",
+    "content_description": "核酸由核苷酸聚合而成，DNA储存遗传信息，RNA参与遗传信息表达。"
+  },
+  {
+    "knowledge_point": "细胞膜的结构与功能",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "细胞膜由磷脂双层和膜蛋白组成，控制物质进出、参与细胞间信息交流。"
+  },
+  {
+    "knowledge_point": "细胞器的分工与合作",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念、科学探究",
+    "content_description": "细胞器（如线粒体、叶绿体、内质网、高尔基体）分工协作，完成物质运输、能量转换、信息传递等生命活动。"
+  },
+  {
+    "knowledge_point": "细胞核的功能",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念",
+    "content_description": "细胞核是遗传信息库，通过DNA储存和复制遗传信息，控制细胞代谢与遗传。"
+  },
+  {
+    "knowledge_point": "原核细胞与真核细胞的区别",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "科学思维",
+    "content_description": "原核细胞无核膜包被的细胞核，遗传物质集中于拟核区；真核细胞具有完整细胞核。"
+  },
+  {
+    "knowledge_point": "物质运输方式",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "被动运输（自由扩散、协助扩散）顺浓度梯度进行；主动运输逆浓度梯度需载体和能量；胞吞胞吐运输大分子。"
+  },
+  {
+    "knowledge_point": "酶的特性与影响因素",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "科学探究",
+    "content_description": "酶是高效、专一的生物催化剂，其活性受温度、pH等环境因素影响。"
+  },
+  {
+    "knowledge_point": "ATP的功能",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念",
+    "content_description": "ATP是细胞生命活动的直接能源物质，通过水解与合成循环供能。"
+  },
+  {
+    "knowledge_point": "光合作用与能量转换",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "叶绿体捕获光能，通过光反应和暗反应将CO₂和H₂O转化为糖类，实现光能→化学能的转化。"
+  },
+  {
+    "knowledge_point": "细胞呼吸与能量利用",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "细胞通过有氧呼吸（线粒体）和无氧呼吸分解有机物，释放能量供生命活动利用。"
+  },
+  {
+    "knowledge_point": "细胞增殖方式",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "有丝分裂保证遗传信息在亲代和子代细胞中的一致性；无丝分裂无染色体和纺锤体形成。"
+  },
+  {
+    "knowledge_point": "细胞分化与全能性",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念",
+    "content_description": "细胞在形态、结构和功能上发生特异性分化，形成复杂多细胞生物体；已分化细胞仍保留发育成完整个体的潜能。"
+  },
+  {
+    "knowledge_point": "细胞衰老与死亡",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "分子与细胞",
+    "theme": "分子与细胞",
+    "cultivated_abilities": "生命观念、社会责任",
+    "content_description": "细胞衰老表现为酶活性降低、色素积累等；细胞凋亡是基因调控的主动死亡过程，对个体发育和稳态维持有重要意义。"
+  },
+  {
+    "knowledge_point": "遗传信息的载体（DNA/RNA）",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "基因是DNA的功能片段，RNA病毒的基因在RNA上；DNA分子由脱氧核苷酸构成双螺旋结构，碱基序列编码遗传信息。"
+  },
+  {
+    "knowledge_point": "DNA半保留复制",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "DNA通过半保留复制传递遗传信息，子链与母链互补配对。"
+  },
+  {
+    "knowledge_point": "基因表达与中心法则",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "生命观念",
+    "content_description": "遗传信息通过转录（DNA→RNA）和翻译（RNA→蛋白质）表达，细胞分化的本质是基因选择性表达。"
+  },
+  {
+    "knowledge_point": "表观遗传现象",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "科学思维",
+    "content_description": "基因碱基序列不变但表型改变的现象（如DNA甲基化、组蛋白修饰），说明环境对基因表达的影响。"
+  },
+  {
+    "knowledge_point": "减数分裂与配子形成",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "生命观念、科学探究",
+    "content_description": "减数分裂产生染色体数目减半的配子，过程中同源染色体分离、姐妹染色体分离，保证遗传多样性。"
+  },
+  {
+    "knowledge_point": "孟德尔遗传规律",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "分离定律（等位基因分离）和自由组合定律（非等位基因自由组合），解释子代性状分离比。"
+  },
+  {
+    "knowledge_point": "伴性遗传",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "性染色体上的基因遗传与性别相关（如红绿色盲、血友病），通过系谱分析预测遗传病概率。"
+  },
+  {
+    "knowledge_point": "基因突变类型与后果",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "碱基替换、插入或缺失导致基因序列改变；突变可能引发蛋白质功能异常（如镰刀型细胞贫血症），或导致细胞癌变。"
+  },
+  {
+    "knowledge_point": "染色体变异",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "生命观念、社会责任",
+    "content_description": "结构变异（缺失、重复、倒位、易位）和数目变异（非整倍体、多倍体），导致性状改变或死亡（如唐氏综合征）。"
+  },
+  {
+    "knowledge_point": "人类遗传病与预防",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "单基因遗传病（白化病）、多基因遗传病（高血压）和染色体异常遗传病的检测与预防措施。"
+  },
+  {
+    "knowledge_point": "基因重组与生物多样性",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "减数分裂中的交叉互换和自由组合导致基因重组，是生物变异的重要来源。"
+  },
+  {
+    "knowledge_point": "生物进化证据",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "化石记录、比较解剖学（同源器官）、胚胎学、细胞生物学（共同细胞结构）和分子生物学（DNA相似性）支持生物共同祖先学说。"
+  },
+  {
+    "knowledge_point": "自然选择学说",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "自然选择通过保留有利变异、淘汰不利变异，促进生物适应特定环境（如长颈鹿长颈的进化）。"
+  },
+  {
+    "knowledge_point": "现代生物进化理论",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "以自然选择为核心，种群基因频率变化是进化的实质，突变和基因重组提供原材料，隔离导致新物种形成。"
+  },
+  {
+    "knowledge_point": "物种形成机制",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "科学思维",
+    "content_description": "地理隔离（如河流、山脉）和生殖隔离（无法交配或后代不育）是物种形成的主要条件。"
+  },
+  {
+    "knowledge_point": "适应与生物多样性",
+    "stage": "Compulsory",
+    "subject": "Biology",
+    "category": "遗传与进化",
+    "theme": "遗传与进化",
+    "cultivated_abilities": "生命观念、社会责任",
+    "content_description": "适应是自然选择的结果，生物多样性是长期进化形成的，保护生物多样性对生态系统稳定和人类发展至关重要。"
+  },
+  {
+    "knowledge_point": "内环境与稳态",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "稳态与调节",
+    "theme": "稳态与调节",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "血浆、组织液、淋巴共同构成内环境，稳态通过呼吸、消化、循环、泌尿等系统调节维持。"
+  },
+  {
+    "knowledge_point": "内环境的动态平衡",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "稳态与调节",
+    "theme": "稳态与调节",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "通过血糖、体温、pH、渗透压等指标阐明内环境稳态的调节机制（如胰岛素与胰高血糖素调节血糖）。"
+  },
+  {
+    "knowledge_point": "神经调节的结构与功能",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "稳态与调节",
+    "theme": "稳态与调节",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "反射是神经调节的基本方式，反射弧由感受器、传入神经、神经中枢、传出神经和效应器组成；静息电位与动作电位的形成及传导机制。"
+  },
+  {
+    "knowledge_point": "中枢神经系统与自主神经",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "稳态与调节",
+    "theme": "稳态与调节",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "脊髓低级中枢与脑高级中枢协同调控生命活动；自主神经系统（交感与副交感神经）调节内脏活动。"
+  },
+  {
+    "knowledge_point": "体液调节与激素分级反馈",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "稳态与调节",
+    "theme": "稳态与调节",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "内分泌系统通过激素（如甲状腺激素、肾上腺素）分级调节和反馈调节维持稳态（如甲状腺激素分泌调节）。"
+  },
+  {
+    "knowledge_point": "神经-体液调节协调",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "稳态与调节",
+    "theme": "稳态与调节",
+    "cultivated_abilities": "生命观念、科学探究",
+    "content_description": "神经调节与体液调节共同参与体温调节（产热与散热平衡）、水盐平衡调节（抗利尿激素）等过程。"
+  },
+  {
+    "knowledge_point": "免疫系统的组成与功能",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "稳态与调节",
+    "theme": "稳态与调节",
+    "cultivated_abilities": "生命观念、社会责任",
+    "content_description": "免疫系统由免疫细胞（T细胞、B细胞）、免疫器官（骨髓、胸腺）和免疫活性物质（抗体、细胞因子）组成，通过非特异性免疫和特异性免疫（体液免疫、细胞免疫）防御病原体。"
+  },
+  {
+    "knowledge_point": "免疫异常与疾病",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "稳态与调节",
+    "theme": "稳态与调节",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "免疫功能异常引发过敏反应（如花粉过敏）、自身免疫病（类风湿性关节炎）、免疫缺陷病（艾滋病）等。"
+  },
+  {
+    "knowledge_point": "植物激素的发现与作用",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "稳态与调节",
+    "theme": "稳态与调节",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "生长素、赤霉素、细胞分裂素、脱落酸、乙烯等植物激素通过协同或拮抗作用调节生长发育（如顶端优势、果实成熟）。"
+  },
+  {
+    "knowledge_point": "植物激素的应用",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "稳态与调节",
+    "theme": "稳态与调节",
+    "cultivated_abilities": "社会责任、科学探究",
+    "content_description": "植物生长调节剂（如2,4-D、乙烯利）在农业生产中的应用（促进生根、催熟、保鲜等）。"
+  },
+  {
+    "knowledge_point": "环境因素对植物生命活动的调节",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "稳态与调节",
+    "theme": "稳态与调节",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "光（光周期）、重力（根的向地性）、温度等环境因素通过影响激素分布或信号传递调节植物生命活动。"
+  },
+  {
+    "knowledge_point": "种群的特征",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物与环境",
+    "theme": "生物与环境",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "种群具有种群密度、出生率与死亡率、迁入率与迁出率、年龄结构、性别比例等特征，是研究群落和生态系统的基础。"
+  },
+  {
+    "knowledge_point": "种群数量变化模型",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物与环境",
+    "theme": "生物与环境",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "通过数学模型（如“J”型、“S”型曲线）描述种群数量变化规律，分析环境容纳量（K值）的影响因素。"
+  },
+  {
+    "knowledge_point": "生物群落的结构",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物与环境",
+    "theme": "生物与环境",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "群落具有垂直分层、水平分布和时间演替的结构特征；不同物种占据不同生态位，形成复杂的种间关系（竞争、捕食、互利共生等）。"
+  },
+  {
+    "knowledge_point": "群落的演替",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物与环境",
+    "theme": "生物与环境",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "初生演替（从无到有）与次生演替（原有群落破坏后恢复）的过程及影响因素，如火灾后的森林恢复。"
+  },
+  {
+    "knowledge_point": "生态系统的组成",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物与环境",
+    "theme": "生物与环境",
+    "cultivated_abilities": "生命观念",
+    "content_description": "生态系统由生产者（植物）、消费者（动物）、分解者（微生物）及非生物环境（阳光、水、空气等）组成，各成分通过物质循环和能量流动相互联系。"
+  },
+  {
+    "knowledge_point": "食物链与食物网",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物与环境",
+    "theme": "生物与环境",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "食物链表示能量流动的路径，食物网体现物种间复杂的营养关系；营养级划分反映能量传递的层级。"
+  },
+  {
+    "knowledge_point": "生态系统的能量流动",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物与环境",
+    "theme": "生物与环境",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "能量单向流动、逐级递减（约10%传递效率）；通过金字塔（能量、生物量、数量）表征各营养级关系。"
+  },
+  {
+    "knowledge_point": "生态系统的物质循环",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物与环境",
+    "theme": "生物与环境",
+    "cultivated_abilities": "生命观念、科学思维",
+    "content_description": "物质（如碳、氮）在生物群落与无机环境之间循环，如碳循环通过光合作用、呼吸作用和化石燃料燃烧实现。"
+  },
+  {
+    "knowledge_point": "生态系统的信息传递",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物与环境",
+    "theme": "生物与环境",
+    "cultivated_abilities": "科学思维",
+    "content_description": "物理信息（光、声）、化学信息（信息素）、行为信息（求偶舞蹈）在种内、种间及生物与环境间传递，调节生命活动。"
+  },
+  {
+    "knowledge_point": "生态系统的稳定性",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物与环境",
+    "theme": "生物与环境",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "生态系统通过负反馈调节维持结构和功能的相对稳定；抵抗力稳定性（抗干扰）与恢复力稳定性（恢复能力）的关系。"
+  },
+  {
+    "knowledge_point": "人类活动对生态系统的影响",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物与环境",
+    "theme": "生物与环境",
+    "cultivated_abilities": "社会责任、科学思维",
+    "content_description": "全球气候变化、水资源短缺、臭氧层破坏、酸雨、生物入侵等环境问题对生态系统的威胁；人口增长加剧资源消耗和污染。"
+  },
+  {
+    "knowledge_point": "生物多样性的价值与保护",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物与环境",
+    "theme": "生物与环境",
+    "cultivated_abilities": "生命观念、社会责任",
+    "content_description": "生物多样性包括遗传、物种和生态系统多样性，具有直接使用价值（药用）、间接价值（生态功能）和潜在价值；保护措施包括就地保护、迁地保护和法律法规。"
+  },
+  {
+    "knowledge_point": "微生物培养与无菌技术",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "灭菌是微生物纯培养的前提；无菌技术防止实验污染，包括培养基高压灭菌、接种环灼烧灭菌等操作。"
+  },
+  {
+    "knowledge_point": "微生物分离与纯化方法",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学探究",
+    "content_description": "平板划线法（分区划线）和稀释涂布平板法分离微生物；稀释涂布法结合显微镜计数法测定微生物数量。"
+  },
+  {
+    "knowledge_point": "传统发酵技术",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "利用微生物（如乳酸菌、酵母菌）发酵生产食品（泡菜、果酒、腐乳），控制温度、pH、氧气等条件优化发酵过程。"
+  },
+  {
+    "knowledge_point": "现代发酵工程",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "通过工程菌（基因工程改造菌）工业化生产抗生素、胰岛素等产品，实现大规模自动化控制。"
+  },
+  {
+    "knowledge_point": "植物组织培养技术",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "离体植物器官、组织或细胞在适宜培养基中脱分化为愈伤组织，再分化为完整植株，用于快速繁殖、脱毒和次生代谢物生产。"
+  },
+  {
+    "knowledge_point": "植物体细胞杂交技术",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "去除细胞壁的植物原生质体通过物理或化学方法融合，形成杂种细胞并培育成新植株，克服远缘杂交障碍。"
+  },
+  {
+    "knowledge_point": "动物细胞培养技术",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "从动物组织分离细胞，在无菌、适宜营养和气体环境下增殖，用于疫苗生产、药物测试等。"
+  },
+  {
+    "knowledge_point": "动物细胞核移植与克隆",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "将体细胞核移植到去核卵母细胞中，激活重组细胞发育为克隆个体（如克隆羊多莉），应用于濒危物种保护。"
+  },
+  {
+    "knowledge_point": "单克隆抗体制备技术",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学探究、社会责任",
+    "content_description": "通过B淋巴细胞与骨髓瘤细胞融合形成杂交瘤细胞，生产单一特异性抗体，用于疾病诊断和治疗。"
+  },
+  {
+    "knowledge_point": "基因工程工具酶与载体",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "限制性内切酶（切割DNA）、DNA连接酶（连接DNA片段）和载体（质粒、病毒）是基因工程的三大工具。"
+  },
+  {
+    "knowledge_point": "基因工程操作步骤",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学思维",
+    "content_description": "目的基因获取→构建表达载体→导入受体细胞→检测与鉴定（如PCR扩增、电泳分析）。"
+  },
+  {
+    "knowledge_point": "基因工程应用",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "转基因作物（抗虫棉、抗除草剂大豆）、基因治疗（修正缺陷基因）、工程菌生产药物（胰岛素）等。"
+  },
+  {
+    "knowledge_point": "蛋白质工程原理与应用",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "通过基因修饰改造蛋白质结构（如定点突变），获得性能更优的蛋白质（耐高温酶、长效胰岛素）。"
+  },
+  {
+    "knowledge_point": "转基因技术的安全性争议",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "转基因食品的安全性（毒性、致敏性）、基因扩散对生态的影响（如抗除草剂基因漂移到杂草），需科学评估与监管。"
+  },
+  {
+    "knowledge_point": "克隆技术的伦理问题",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "社会责任",
+    "content_description": "生殖性克隆人面临身份认同、遗传多样性下降等伦理问题；我国禁止生殖性克隆，支持治疗性克隆研究。"
+  },
+  {
+    "knowledge_point": "生物武器与国家安全",
+    "stage": "Selective Compulsory",
+    "subject": "Biology",
+    "category": "生物技术与工程",
+    "theme": "生物技术与工程",
+    "cultivated_abilities": "社会责任、科学思维",
+    "content_description": "生物武器（炭疽杆菌、天花病毒）对人类的威胁；国际公约禁止生物武器研发与扩散，我国坚决反对生物武器。"
+  },
+  {
+    "knowledge_point": "健康生活方式",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "现实生活应用",
+    "theme": "现实生活应用",
+    "cultivated_abilities": "社会责任、科学思维",
+    "content_description": "合理膳食、适量运动、心理平衡对健康的影响，远离毒品和不良生活习惯。"
+  },
+  {
+    "knowledge_point": "急救措施",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "现实生活应用",
+    "theme": "现实生活应用",
+    "cultivated_abilities": "社会责任、科学探究",
+    "content_description": "心肺复苏术（CPR）、止血包扎、动物咬伤处理、煤气中毒急救等实用技能。"
+  },
+  {
+    "knowledge_point": "传染病与防控",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "现实生活应用",
+    "theme": "现实生活应用",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "传染病传播途径（空气、接触、血液等）、防疫体系（隔离、消毒、疫苗接种）、个人防护措施（口罩、卫生习惯）。"
+  },
+  {
+    "knowledge_point": "社会热点中的生物学问题",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "现实生活应用",
+    "theme": "现实生活应用",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "转基因食品安全性、试管婴儿伦理、克隆技术争议、COVID-19等新发传染病的科学解读与社会讨论。"
+  },
+  {
+    "knowledge_point": "动物福利与伦理",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "现实生活应用",
+    "theme": "现实生活应用",
+    "cultivated_abilities": "社会责任",
+    "content_description": "动物保护理念（减少痛苦、尊重生命）、伴侣动物与实验动物福利标准，讨论动物实验的伦理边界。"
+  },
+  {
+    "knowledge_point": "外来生物入侵与防控",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "现实生活应用",
+    "theme": "现实生活应用",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "入侵物种（如水葫芦、红火蚁）的危害、防控措施（检疫、生物防治），维护本地生态平衡。"
+  },
+  {
+    "knowledge_point": "地方特色动植物研究",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "现实生活应用",
+    "theme": "现实生活应用",
+    "cultivated_abilities": "科学探究、社会责任",
+    "content_description": "调查本地特色动植物资源（如珍稀物种、经济作物），分析其生态价值与经济价值，提出保护与利用方案。"
+  },
+  {
+    "knowledge_point": "生物制药技术",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "职业规划前瞻",
+    "theme": "职业规划前瞻",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "药物开发流程（靶点筛选、临床试验）、抗生素与疫苗生产、基因工程药物（胰岛素、干扰素）的应用。"
+  },
+  {
+    "knowledge_point": "海洋生物学与资源开发",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "职业规划前瞻",
+    "theme": "职业规划前瞻",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "海洋生物分类、深海生态系统研究、海洋药物开发（如抗癌物质提取）、可持续渔业与海洋保护。"
+  },
+  {
+    "knowledge_point": "食品安全与检疫技术",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "职业规划前瞻",
+    "theme": "职业规划前瞻",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "食品添加剂安全性评估、农药残留检测、转基因食品标识与监管，食品安全法律法规。"
+  },
+  {
+    "knowledge_point": "职业病与预防",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "职业规划前瞻",
+    "theme": "职业规划前瞻",
+    "cultivated_abilities": "社会责任、科学思维",
+    "content_description": "尘肺病、职业中毒的病理机制，职业病防护措施（通风设备、防护服），《职业病防治法》相关内容。"
+  },
+  {
+    "knowledge_point": "园艺与景观生态设计",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "职业规划前瞻",
+    "theme": "职业规划前瞻",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "园林植物配置、生态景观规划（如雨水花园）、城市绿化与碳汇功能，结合美学与生态学原理。"
+  },
+  {
+    "knowledge_point": "环境友好型农业生产",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "职业规划前瞻",
+    "theme": "职业规划前瞻",
+    "cultivated_abilities": "社会责任、科学思维",
+    "content_description": "有机农业、生态农业技术（轮作、生物防治）、减少化肥农药使用，实现农业可持续发展。"
+  },
+  {
+    "knowledge_point": "生物资源开发与利用",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "职业规划前瞻",
+    "theme": "职业规划前瞻",
+    "cultivated_abilities": "科学探究、社会责任",
+    "content_description": "生物质能源（沼气、生物柴油）、天然产物提取（如植物精油、药用成分），资源循环利用技术。"
+  },
+  {
+    "knowledge_point": "细胞与分子生物学基础",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "学业发展基础",
+    "theme": "学业发展基础",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "DNA复制与修复、基因表达调控、蛋白质合成与修饰，为生命科学研究和生物技术奠定理论基础。"
+  },
+  {
+    "knowledge_point": "生物信息学与基因组学",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "学业发展基础",
+    "theme": "学业发展基础",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "基因组测序技术、DNA序列比对、系统发育树构建，利用数据库（如GenBank）分析生物信息。"
+  },
+  {
+    "knowledge_point": "神经系统与疾病机制",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "学业发展基础",
+    "theme": "学业发展基础",
+    "cultivated_abilities": "科学思维、社会责任",
+    "content_description": "神经退行性疾病（阿尔茨海默病）、成瘾机制（毒品对神经递质的影响）、脑科学与人工智能交叉研究。"
+  },
+  {
+    "knowledge_point": "干细胞与再生医学",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "学业发展基础",
+    "theme": "学业发展基础",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "胚胎干细胞与诱导多能干细胞（iPS细胞）的分化潜能，干细胞在器官修复与疾病治疗中的应用。"
+  },
+  {
+    "knowledge_point": "植物组织培养技术进阶",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "学业发展基础",
+    "theme": "学业发展基础",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "植物细胞全能性原理、培养基优化（激素配比）、次生代谢物（如紫杉醇）的规模化生产。"
+  },
+  {
+    "knowledge_point": "生态安全与可持续发展",
+    "stage": "Elective",
+    "subject": "Biology",
+    "category": "学业发展基础",
+    "theme": "学业发展基础",
+    "cultivated_abilities": "社会责任、科学思维",
+    "content_description": "生态承载力、碳足迹计算、生态修复技术（如湿地恢复），探讨人类活动对全球生态系统的影响。"
+  }
+]

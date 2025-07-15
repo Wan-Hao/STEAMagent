@@ -1,0 +1,1118 @@
+[
+  {
+    "knowledge_point": "近代实验科学背景与实验作用",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "机械运动与物理模型",
+    "theme": "机械运动与物理模型",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "了解近代实验科学产生的背景，认识实验对物理学发展的推动作用（如伽利略的实验思想和方法）。"
+  },
+  {
+    "knowledge_point": "质点模型建构",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "机械运动与物理模型",
+    "theme": "机械运动与物理模型",
+    "cultivated_abilities": "科学思维、物理观念",
+    "content_description": "经历质点模型的建构过程，理解质点含义及抽象条件（如太阳系行星模型）；体会物理模型在研究中的作用。"
+  },
+  {
+    "knowledge_point": "位移、速度与加速度",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "机械运动与物理模型",
+    "theme": "机械运动与物理模型",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "理解位移、速度、加速度概念；通过实验探究匀变速直线运动规律，运用公式和图像描述运动，掌握极限方法和抽象思维（如瞬时速度的极限定义）。"
+  },
+  {
+    "knowledge_point": "自由落体运动与科学推理",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "机械运动与物理模型",
+    "theme": "机械运动与物理模型",
+    "cultivated_abilities": "科学探究、科学态度与责任",
+    "content_description": "通过实验认识自由落体运动规律，结合物理学史（如伽利略与亚里士多德观点对比）理解实验与推理的结合对科学发展的意义。"
+  },
+  {
+    "knowledge_point": "空气阻力对落体运动的影响",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "机械运动与物理模型",
+    "theme": "机械运动与物理模型",
+    "cultivated_abilities": "科学探究",
+    "content_description": "观察质量相同但形状不同的物体在空气中下落的现象，分析空气阻力的作用。"
+  },
+  {
+    "knowledge_point": "伽利略实验的意义",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "机械运动与物理模型",
+    "theme": "机械运动与物理模型",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "查阅资料并讨论伽利略关于物体运动研究的实验对科学进步和人类发展的重大意义。"
+  },
+  {
+    "knowledge_point": "重力、弹力与摩擦力",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "相互作用与运动定律",
+    "theme": "相互作用与运动定律",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "认识重力、弹力与摩擦力；通过实验了解胡克定律，计算滑动摩擦力大小（例：弹簧测力计制作）。"
+  },
+  {
+    "knowledge_point": "力的合成与分解",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "相互作用与运动定律",
+    "theme": "相互作用与运动定律",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "通过实验理解力的合成与分解，掌握矢量和标量概念；应用共点力平衡条件解决实际问题。"
+  },
+  {
+    "knowledge_point": "牛顿运动定律及应用",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "相互作用与运动定律",
+    "theme": "相互作用与运动定律",
+    "cultivated_abilities": "物理观念、科学探究",
+    "content_description": "通过实验探究加速度与力、质量的关系；理解牛顿三定律，解释生产生活现象（如超重和失重）；通过实验认识超重和失重现象。"
+  },
+  {
+    "knowledge_point": "国际单位制与力学单位",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "相互作用与运动定律",
+    "theme": "相互作用与运动定律",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "知道国际单位制中的力学单位，理解单位制在物理学中的意义。"
+  },
+  {
+    "knowledge_point": "摩擦力的应用与防护",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "相互作用与运动定律",
+    "theme": "相互作用与运动定律",
+    "cultivated_abilities": "科学探究、科学态度与责任",
+    "content_description": "调查生产生活中摩擦力的利用或避免实例（如轮胎防滑、机械润滑），分析摩擦力的实际影响。"
+  },
+  {
+    "knowledge_point": "超重与失重的体验",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "相互作用与运动定律",
+    "theme": "相互作用与运动定律",
+    "cultivated_abilities": "科学探究、物理观念",
+    "content_description": "通过乘坐电梯、游乐场活动等体验超重与失重现象，结合牛顿定律解释其原理。"
+  },
+  {
+    "knowledge_point": "加速度显示装置设计",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "相互作用与运动定律",
+    "theme": "相互作用与运动定律",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "基于牛顿第二定律，设计能显示加速度大小的简易装置，培养创新与实践能力。"
+  },
+  {
+    "knowledge_point": "功和功率的理解与应用",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "机械能及其守恒定律",
+    "theme": "机械能及其守恒定律",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "理解功和功率的定义，分析物体受力方向与运动方向不共线时的做功问题（如汽车牵引力与速度的关系）；了解生产生活中常见机械的功率意义。"
+  },
+  {
+    "knowledge_point": "动能定理及其应用",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "机械能及其守恒定律",
+    "theme": "机械能及其守恒定律",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "通过牛顿第二定律推导动能定理，用动能定理解释实际问题（如刹车距离与车速的关系）；理解动能变化的物理本质。"
+  },
+  {
+    "knowledge_point": "重力势能与弹性势能",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "机械能及其守恒定律",
+    "theme": "机械能及其守恒定律",
+    "cultivated_abilities": "物理观念",
+    "content_description": "理解重力势能及其与重力做功的关系；定性了解弹性势能的特点（如弹簧形变与能量储存）。"
+  },
+  {
+    "knowledge_point": "机械能守恒定律的验证与应用",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "机械能及其守恒定律",
+    "theme": "机械能及其守恒定律",
+    "cultivated_abilities": "科学探究、科学态度与责任",
+    "content_description": "通过实验验证机械能守恒定律（如自由落体或斜面实验）；理解守恒观念的重要性，能用守恒定律分析实际问题（如单摆运动、过山车轨道设计）。"
+  },
+  {
+    "knowledge_point": "动能定理的实际应用探究",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "机械能及其守恒定律",
+    "theme": "机械能及其守恒定律",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "收集汽车刹车距离与车速关系的数据，用动能定理进行定量分析，解释实际现象中的能量转化规律。"
+  },
+  {
+    "knowledge_point": "牛顿力学的局限性",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "牛顿力学的局限性与相对论初步",
+    "theme": "牛顿力学的局限性与相对论初步",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "认识牛顿力学在高速（接近光速）和强引力场等条件下的局限性，体会人类对自然界的探索是不断深入的。"
+  },
+  {
+    "knowledge_point": "相对论时空观初步",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "牛顿力学的局限性与相对论初步",
+    "theme": "牛顿力学的局限性与相对论初步",
+    "cultivated_abilities": "科学思维、物理观念",
+    "content_description": "初步了解狭义相对论的时间延缓效应（如双生子佯谬）、长度收缩效应及质能关系（E=mc2）；定性认识广义相对论的时空弯曲思想（如引力与时空弯曲的关系）。"
+  },
+  {
+    "knowledge_point": "宇宙学研究的初步认识",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "牛顿力学的局限性与相对论初步",
+    "theme": "牛顿力学的局限性与相对论初步",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "关注宇宙起源与演化的研究进展（如大爆炸理论、恒星演化过程），了解人类对宇宙认识的深化过程。"
+  },
+  {
+    "knowledge_point": "相对论时空观的讨论",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "牛顿力学的局限性与相对论初步",
+    "theme": "牛顿力学的局限性与相对论初步",
+    "cultivated_abilities": "科学思维、科学态度与责任",
+    "content_description": "阅读相对论科普书刊，组织小型讨论会，探讨相对论时空观对经典物理学的突破及其对人类认知的影响。"
+  },
+  {
+    "knowledge_point": "宇宙演化的探索与反思",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "牛顿力学的局限性与相对论初步",
+    "theme": "牛顿力学的局限性与相对论初步",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "观看宇宙起源科教片，结合科学史（如哈勃红移、宇宙微波背景辐射），讨论宇宙演化理论与观测证据的关系，反思人类在宇宙中的位置。"
+  },
+  {
+    "knowledge_point": "静电现象与电荷守恒",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "静电场",
+    "theme": "静电场",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "通过实验观察静电现象（如摩擦起电、静电感应），用原子结构模型和电荷守恒定律解释静电现象。"
+  },
+  {
+    "knowledge_point": "点电荷模型与库仑定律",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "静电场",
+    "theme": "静电场",
+    "cultivated_abilities": "科学思维、物理观念",
+    "content_description": "理解点电荷模型的抽象方法（类比质点），掌握库仑定律的公式及适用条件；通过库仑扭秤实验体会科学探究的严谨性。"
+  },
+  {
+    "knowledge_point": "电场强度与电场线",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "静电场",
+    "theme": "静电场",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "理解电场强度的定义方法（比值定义法），用电场线描述电场分布（如等量异种电荷的电场线）；通过实验验证电场强度与电势差的关系。"
+  },
+  {
+    "knowledge_point": "静电的应用与防护",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "静电场",
+    "theme": "静电场",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "了解静电在激光打印、静电除尘中的应用，讨论在易燃环境中如何预防静电危害（如油罐车接地）。"
+  },
+  {
+    "knowledge_point": "电势能与电势差",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "静电场",
+    "theme": "静电场",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "理解电势能、电势和电势差的含义，掌握匀强电场中电势差与电场强度的关系，分析带电粒子在电场中的运动（如示波器原理）。"
+  },
+  {
+    "knowledge_point": "电容器及其应用",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "静电场",
+    "theme": "静电场",
+    "cultivated_abilities": "物理观念、科学探究",
+    "content_description": "观察电容器充放电现象，理解电容的定义及单位；举例说明电容器在电路中的应用（如照相机闪光灯）。"
+  },
+  {
+    "knowledge_point": "避雷针原理研究",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "静电场",
+    "theme": "静电场",
+    "cultivated_abilities": "科学探究、科学态度与责任",
+    "content_description": "通过观察和查阅资料，分析避雷针的结构与工作原理，撰写研究报告。"
+  },
+  {
+    "knowledge_point": "静电危害的预防措施调查",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "静电场",
+    "theme": "静电场",
+    "cultivated_abilities": "科学探究",
+    "content_description": "收集静电危害案例，分析预防方法（如防静电服、加湿器应用）。"
+  },
+  {
+    "knowledge_point": "电路元器件与多用电表使用",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "电路及其应用",
+    "theme": "电路及其应用",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "识别常见电路元器件（如电阻、滑动变阻器），掌握多用电表测量电压、电流和电阻的方法。"
+  },
+  {
+    "knowledge_point": "电阻定律与电阻率测量",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "电路及其应用",
+    "theme": "电路及其应用",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "通过实验探究导体的电阻与材料、长度、横截面积的定量关系，测量金属丝电阻率。"
+  },
+  {
+    "knowledge_point": "闭合电路欧姆定律与电源参数测量",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "电路及其应用",
+    "theme": "电路及其应用",
+    "cultivated_abilities": "科学探究、物理观念",
+    "content_description": "理解闭合电路欧姆定律，通过实验测量电源电动势和内阻，分析电源输出功率与负载的关系。"
+  },
+  {
+    "knowledge_point": "焦耳定律与电热现象",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "电路及其应用",
+    "theme": "电路及其应用",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "用焦耳定律解释电热现象（如电炉、电热器），分析家庭电路中的电能转化与安全问题。"
+  },
+  {
+    "knowledge_point": "导体伏安特性实验",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "电路及其应用",
+    "theme": "电路及其应用",
+    "cultivated_abilities": "科学探究",
+    "content_description": "测绘电炉丝、小灯泡、二极管的伏安特性曲线，对比不同材料的导电特性。"
+  },
+  {
+    "knowledge_point": "家庭电路安全调查",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "电路及其应用",
+    "theme": "电路及其应用",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "检查家庭电路安全隐患（如过载、漏电），提出节能与安全用电建议。"
+  },
+  {
+    "knowledge_point": "磁场与磁感线描述",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "电磁场与电磁波初步",
+    "theme": "电磁场与电磁波初步",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "通过实验认识磁场，用磁感线描述磁场分布（如条形磁铁、通电直导线周围的磁场）。"
+  },
+  {
+    "knowledge_point": "电磁感应现象与条件",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "电磁场与电磁波初步",
+    "theme": "电磁场与电磁波初步",
+    "cultivated_abilities": "科学探究、物理观念",
+    "content_description": "通过实验探究产生感应电流的条件（磁通量变化），理解电磁感应现象的应用（如发电机、无线充电）。"
+  },
+  {
+    "knowledge_point": "电磁波的产生与传播",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "电磁场与电磁波初步",
+    "theme": "电磁场与电磁波初步",
+    "cultivated_abilities": "物理观念、科学态度与责任",
+    "content_description": "了解电磁波的产生（如LC振荡电路）、传播特性及应用（如手机通信、微波炉）；知道光是一种电磁波，初步了解光的量子化特征。"
+  },
+  {
+    "knowledge_point": "电磁波应用的调查",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "电磁场与电磁波初步",
+    "theme": "电磁场与电磁波初步",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "调查电磁波在现代社会中的应用实例（如Wi-Fi、卫星通信），讨论其利弊。"
+  },
+  {
+    "knowledge_point": "能源类型与可持续发展",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "能源与可持续发展",
+    "theme": "能源与可持续发展",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "区分可再生能源与不可再生能源，了解核裂变与核聚变的应用前景及挑战，认识能源开发对环境的影响。"
+  },
+  {
+    "knowledge_point": "能量转化与守恒的实践意义",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "能源与可持续发展",
+    "theme": "能源与可持续发展",
+    "cultivated_abilities": "物理观念、科学态度与责任",
+    "content_description": "用能量守恒定律解释自然现象（如能量转化的方向性），讨论节能措施（如垃圾分类对能源利用的意义）。"
+  },
+  {
+    "knowledge_point": "太阳能利用方案设计",
+    "stage": "Compulsory",
+    "subject": "Physics",
+    "category": "能源与可持续发展",
+    "theme": "能源与可持续发展",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "设计太阳能取暖或发电方案，分析环境因素对太阳能利用效率的影响。"
+  },
+  {
+    "knowledge_point": "动量定理与动量守恒定律",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "动量与动量守恒定律",
+    "theme": "动量与动量守恒定律",
+    "cultivated_abilities": "科学思维、物理观念",
+    "content_description": "通过理论推导和实验验证动量定理及守恒定律，解释碰撞、反冲等现象（如火箭发射）；理解守恒定律的普适性（如微观粒子碰撞）。"
+  },
+  {
+    "knowledge_point": "弹性碰撞与非弹性碰撞",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "动量与动量守恒定律",
+    "theme": "动量与动量守恒定律",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "通过实验探究弹性碰撞和非弹性碰撞的特点，定量分析一维碰撞问题（如台球碰撞），解释生产生活中的碰撞现象。"
+  },
+  {
+    "knowledge_point": "反冲现象实验（水火箭制作）",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "动量与动量守恒定律",
+    "theme": "动量与动量守恒定律",
+    "cultivated_abilities": "科学探究、科学态度与责任",
+    "content_description": "制作“水火箭”并观察其反冲运动，定量分析动量守恒的应用。"
+  },
+  {
+    "knowledge_point": "简谐运动的特征与描述",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "机械振动与机械波",
+    "theme": "机械振动与机械波",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "通过实验认识简谐运动的位移、速度、加速度变化规律，用公式和图像描述简谐运动（如弹簧振子）。"
+  },
+  {
+    "knowledge_point": "单摆周期与重力加速度测量",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "机械振动与机械波",
+    "theme": "机械振动与机械波",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "通过实验探究单摆周期与摆长的定量关系（T=2πgl​​），掌握用单摆测量重力加速度的方法。"
+  },
+  {
+    "knowledge_point": "受迫振动与共振现象",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "机械振动与机械波",
+    "theme": "机械振动与机械波",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "通过实验认识受迫振动的特点，理解共振产生的条件（如桥梁共振案例），分析其在工程中的应用与防范措施。"
+  },
+  {
+    "knowledge_point": "机械波的描述与传播规律",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "机械振动与机械波",
+    "theme": "机械振动与机械波",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "区分横波与纵波，用图像描述波的传播（如绳波演示）；掌握波速、波长与频率的关系（v=λf）。"
+  },
+  {
+    "knowledge_point": "波的叠加与干涉、衍射现象",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "机械振动与机械波",
+    "theme": "机械振动与机械波",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "通过实验观察波的叠加、干涉（如水波干涉）和衍射现象（如障碍物缝隙衍射），理解波动的基本特性。"
+  },
+  {
+    "knowledge_point": "多普勒效应的观察与应用",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "机械振动与机械波",
+    "theme": "机械振动与机械波",
+    "cultivated_abilities": "科学探究、科学态度与责任",
+    "content_description": "通过实验（如声源移动）观察多普勒效应，解释其产生原因（如警笛音调变化），列举实际应用（如医学超声诊断）。"
+  },
+  {
+    "knowledge_point": "光的折射定律与折射率测量",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "光及其应用",
+    "theme": "光及其应用",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "通过实验验证光的折射定律，测量材料的折射率（如玻璃砖实验）。"
+  },
+  {
+    "knowledge_point": "全反射现象与光纤通信原理",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "光及其应用",
+    "theme": "光及其应用",
+    "cultivated_abilities": "物理观念、科学态度与责任",
+    "content_description": "理解全反射的发生条件（如光从水射向空气），了解光纤的工作原理及其在通信技术中的应用。"
+  },
+  {
+    "knowledge_point": "光的波动性实验验证",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "光及其应用",
+    "theme": "光及其应用",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "通过双缝干涉、单缝衍射实验（如激光干涉仪）观察光的干涉和衍射图样，证明光的波动性；用双缝干涉测量光的波长。"
+  },
+  {
+    "knowledge_point": "激光特性与应用",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "光及其应用",
+    "theme": "光及其应用",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "了解激光的高方向性、高单色性等特点，举例说明激光在医疗、通信、精密加工等领域的应用（如激光手术、全息照相）。"
+  },
+  {
+    "knowledge_point": "偏振光的观察与应用",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "光及其应用",
+    "theme": "光及其应用",
+    "cultivated_abilities": "科学探究",
+    "content_description": "利用偏振片观察光的偏振现象（如反射光偏振），分析其在3D电影、液晶显示中的应用原理。"
+  },
+  {
+    "knowledge_point": "安培力及其应用",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "磁场",
+    "theme": "磁场",
+    "cultivated_abilities": "物理观念、科学探究",
+    "content_description": "通过实验认识安培力的方向（左手定则），计算安培力大小（如电流天平实验）；了解磁电式电表的工作原理。"
+  },
+  {
+    "knowledge_point": "洛伦兹力与带电粒子运动",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "磁场",
+    "theme": "磁场",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "通过实验（如阴极射线管）观察洛伦兹力对带电粒子的偏转作用，分析带电粒子在匀强磁场中的圆周运动规律（如质谱仪、回旋加速器原理）。"
+  },
+  {
+    "knowledge_point": "电磁继电器控制电路设计",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "磁场",
+    "theme": "磁场",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "设计基于电磁继电器的自动控制电路（如温度报警器），说明其工作原理。"
+  },
+  {
+    "knowledge_point": "楞次定律与感应电流方向",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "电磁感应及其应用",
+    "theme": "电磁感应及其应用",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "通过实验探究感应电流方向与磁通量变化的关系，用能量守恒观点解释楞次定律（如线圈进出磁场时的感应电流方向）。"
+  },
+  {
+    "knowledge_point": "法拉第电磁感应定律",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "电磁感应及其应用",
+    "theme": "电磁感应及其应用",
+    "cultivated_abilities": "物理观念、科学探究",
+    "content_description": "通过实验验证法拉第电磁感应定律（如线圈与磁体相对运动），掌握公式 E=−ΔtΔΦ​，解释发电机工作原理。"
+  },
+  {
+    "knowledge_point": "自感与涡流现象",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "电磁感应及其应用",
+    "theme": "电磁感应及其应用",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "观察自感现象（如断电时的电火花）和涡流现象（如电磁炉加热），分析其应用（如变压器铁芯设计）与危害防范。"
+  },
+  {
+    "knowledge_point": "交变电流的产生与描述",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "电磁感应及其应用",
+    "theme": "电磁感应及其应用",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "通过实验（如手摇发电机）认识交变电流的产生，用公式和图像（正弦曲线）描述交变电流的峰值、有效值和周期。"
+  },
+  {
+    "knowledge_point": "变压器与远距离输电",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "电磁感应及其应用",
+    "theme": "电磁感应及其应用",
+    "cultivated_abilities": "科学探究、科学态度与责任",
+    "content_description": "通过实验探究变压器原、副线圈电压与匝数的关系，解释远距离高压输电的原理（如减少电能损耗）。"
+  },
+  {
+    "knowledge_point": "动车组能量转化分析",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "电磁感应及其应用",
+    "theme": "电磁感应及其应用",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "查阅资料，讨论动车组进站时再生制动过程中的能量转化（动能→电能），撰写分析报告。"
+  },
+  {
+    "knowledge_point": "麦克斯韦电磁场理论",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "电磁振荡与电磁波",
+    "theme": "电磁振荡与电磁波",
+    "cultivated_abilities": "科学思维、科学态度与责任",
+    "content_description": "初步了解麦克斯韦电磁场理论的基本思想（变化的电场产生磁场，变化的磁场产生电场），体会电磁场的统一性与多样性。"
+  },
+  {
+    "knowledge_point": "电磁波的产生与传播",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "电磁振荡与电磁波",
+    "theme": "电磁振荡与电磁波",
+    "cultivated_abilities": "物理观念、科学探究",
+    "content_description": "通过实验（如LC振荡电路）观察电磁波的产生，了解电磁波的发射、传播和接收过程（如无线电广播）。"
+  },
+  {
+    "knowledge_point": "电磁波谱与应用",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "电磁振荡与电磁波",
+    "theme": "电磁振荡与电磁波",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "认识电磁波谱中各波段（如无线电波、红外线、可见光、X射线）的特性及典型应用（如微波炉、医学成像）。"
+  },
+  {
+    "knowledge_point": "微波加热原理调查",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "电磁振荡与电磁波",
+    "theme": "电磁振荡与电磁波",
+    "cultivated_abilities": "科学探究",
+    "content_description": "查阅资料，了解微波炉的加热原理及使用注意事项，总结电磁波与物质相互作用的规律。"
+  },
+  {
+    "knowledge_point": "传感器的工作原理",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "传感器",
+    "theme": "传感器",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "理解传感器将非电学量（如温度、光强）转化为电学量的原理（如热敏电阻、光敏电阻的特性），设计简单的传感器应用电路（如光控开关）。"
+  },
+  {
+    "knowledge_point": "分子动理论与分子大小估测",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "固体、液体和气体",
+    "theme": "固体、液体和气体",
+    "cultivated_abilities": "科学探究、物理观念",
+    "content_description": "通过油膜法实验估测分子大小，了解分子动理论的基本观点及实验证据（如扩散现象、布朗运动）。"
+  },
+  {
+    "knowledge_point": "扩散现象与布朗运动",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "固体、液体和气体",
+    "theme": "固体、液体和气体",
+    "cultivated_abilities": "科学探究、科学思维",
+    "content_description": "观察扩散现象和布朗运动，理解分子热运动的统计规律（如分子速率分布图像的意义）。"
+  },
+  {
+    "knowledge_point": "固体与液体的微观特性",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "固体、液体和气体",
+    "theme": "固体、液体和气体",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "区分晶体与非晶体的宏观特性（如各向异性与各向同性），了解液晶的显示原理及其技术应用。"
+  },
+  {
+    "knowledge_point": "表面张力与毛细现象",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "固体、液体和气体",
+    "theme": "固体、液体和气体",
+    "cultivated_abilities": "物理观念、科学探究",
+    "content_description": "通过实验观察液体表面张力现象（如硬币浮水），分析表面张力的成因；解释毛细现象在植物吸水等场景中的应用。"
+  },
+  {
+    "knowledge_point": "气体实验定律与理想气体模型",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "固体、液体和气体",
+    "theme": "固体、液体和气体",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "通过实验探究等温、等压、等容过程中气体状态参量的关系，掌握理想气体模型及状态方程（pV=nRT），解释实际气体与理想气体的差异。"
+  },
+  {
+    "knowledge_point": "材料科学应用调查",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "固体、液体和气体",
+    "theme": "固体、液体和气体",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "调查半导体、纳米材料等新材料的特性与应用（如芯片制造、纳米涂层技术），讨论其对社会发展的影响。"
+  },
+  {
+    "knowledge_point": "热力学第一定律与能量守恒",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "热力学定律",
+    "theme": "热力学定律",
+    "cultivated_abilities": "科学思维、物理观念",
+    "content_description": "理解热力学第一定律（ΔU=Q+W），用能量守恒观点解释热现象（如热机效率）。"
+  },
+  {
+    "knowledge_point": "热力学第二定律与熵的概念",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "热力学定律",
+    "theme": "热力学定律",
+    "cultivated_abilities": "科学思维、科学态度与责任",
+    "content_description": "通过宏观过程的方向性（如热量自发传递）理解热力学第二定律，初步了解熵的统计意义及对能量退化的解释。"
+  },
+  {
+    "knowledge_point": "永动机不可行的讨论",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "热力学定律",
+    "theme": "热力学定律",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "结合热力学定律分析“第一类永动机”和“第二类永动机”不可能实现的原因，强化能量守恒与转化方向的科学认知。"
+  },
+  {
+    "knowledge_point": "原子结构模型与光谱分析",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "原子与原子核",
+    "theme": "原子与原子核",
+    "cultivated_abilities": "科学思维、物理观念",
+    "content_description": "了解原子核式结构模型的建立过程（如α粒子散射实验），通过氢原子光谱分析理解能级跃迁规律。"
+  },
+  {
+    "knowledge_point": "原子核组成与核反应方程",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "原子与原子核",
+    "theme": "原子与原子核",
+    "cultivated_abilities": "科学思维、科学态度与责任",
+    "content_description": "掌握原子核的组成（质子、中子），根据质量数守恒和电荷守恒书写核反应方程（如核裂变、核聚变）。"
+  },
+  {
+    "knowledge_point": "放射性衰变与半衰期",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "原子与原子核",
+    "theme": "原子与原子核",
+    "cultivated_abilities": "科学探究、物理观念",
+    "content_description": "了解放射性同位素的应用（如医学示踪、辐射育种），理解半衰期的统计意义及辐射防护措施。"
+  },
+  {
+    "knowledge_point": "核能开发与核技术应用",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "原子与原子核",
+    "theme": "原子与原子核",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "分析核裂变（如核电站）与核聚变（如太阳能源）的机制，讨论核废料处理与核安全对人类可持续发展的挑战。"
+  },
+  {
+    "knowledge_point": "粒子物理研究进展调查",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "原子与原子核",
+    "theme": "原子与原子核",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "查阅华人科学家在粒子物理领域的贡献（如吴健雄、丁肇中），撰写调查报告。"
+  },
+  {
+    "knowledge_point": "光电效应与爱因斯坦方程",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "波粒二象性",
+    "theme": "波粒二象性",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "通过实验验证光电效应现象，掌握爱因斯坦方程（hν=W+21​mv2），理解光的粒子性及对经典波动理论的突破。"
+  },
+  {
+    "knowledge_point": "物质波的提出与实验验证",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "波粒二象性",
+    "theme": "波粒二象性",
+    "cultivated_abilities": "科学思维、科学态度与责任",
+    "content_description": "了解德布罗意物质波假说，通过电子衍射实验证明实物粒子的波动性，体会量子理论对微观世界的解释力。"
+  },
+  {
+    "knowledge_point": "量子化与不确定性原理",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "波粒二象性",
+    "theme": "波粒二象性",
+    "cultivated_abilities": "科学思维",
+    "content_description": "初步了解能量量子化（如普朗克假设）和海森伯不确定性原理，认识微观世界与宏观物理规律的本质差异。"
+  },
+  {
+    "knowledge_point": "量子技术前沿探究",
+    "stage": "Selective Compulsory",
+    "subject": "Physics",
+    "category": "波粒二象性",
+    "theme": "波粒二象性",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "阅读量子计算机、量子通信等领域的科普资料，讨论量子理论对现代科技的影响。"
+  },
+  {
+    "knowledge_point": "声波反射在B超中的应用",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与医疗技术",
+    "theme": "物理学与医疗技术",
+    "cultivated_abilities": "科学探究、科学态度与责任",
+    "content_description": "了解超声波在人体组织中的反射特性，解释B超成像的基本原理及其在医学诊断中的作用。"
+  },
+  {
+    "knowledge_point": "多普勒效应在彩超中的应用",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与医疗技术",
+    "theme": "物理学与医疗技术",
+    "cultivated_abilities": "科学思维、科学态度与责任",
+    "content_description": "通过多普勒频移分析血流速度变化，理解彩超对心血管疾病的诊断价值。"
+  },
+  {
+    "knowledge_point": "X射线与CT扫描的物理原理",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与医疗技术",
+    "theme": "物理学与医疗技术",
+    "cultivated_abilities": "物理观念、科学探究",
+    "content_description": "了解X射线对不同人体组织的穿透性差异，解释CT扫描通过多角度X射线投影重建断层图像的原理。"
+  },
+  {
+    "knowledge_point": "放射性医疗与防护措施",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与医疗技术",
+    "theme": "物理学与医疗技术",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "分析放射性同位素在肿瘤治疗中的应用（如放疗），讨论辐射防护的必要性及措施。"
+  },
+  {
+    "knowledge_point": "B超与CT医疗设备调研",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与医疗技术",
+    "theme": "物理学与医疗技术",
+    "cultivated_abilities": "科学探究",
+    "content_description": "查阅资料，列举并分类物理治疗方法（如超声波碎石、放射治疗），探讨其医学原理与伦理问题。"
+  },
+  {
+    "knowledge_point": "可再生能源开发的必要性",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与新能源",
+    "theme": "物理学与新能源",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "通过数据分析不可再生能源（如煤炭）的消耗问题，论证太阳能、风能等可再生能源开发的紧迫性。"
+  },
+  {
+    "knowledge_point": "太阳能利用技术与应用前景",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与新能源",
+    "theme": "物理学与新能源",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "研究光伏发电、光热转换等技术原理，设计太阳能利用方案（如太阳能路灯），分析其效率与环境影响因素。"
+  },
+  {
+    "knowledge_point": "核裂变与核聚变的能源潜力",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与新能源",
+    "theme": "物理学与新能源",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "对比核裂变（如核电站）与核聚变（如可控热核反应）的机制、能量输出及技术挑战，讨论核废料处理与安全风险。"
+  },
+  {
+    "knowledge_point": "核能利用的国际案例分析",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与新能源",
+    "theme": "物理学与新能源",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "调查切尔诺贝利、福岛等核事故的影响，总结核能利用的利弊及可持续发展对策。"
+  },
+  {
+    "knowledge_point": "纳米材料的特性与应用",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与新材料",
+    "theme": "物理学与新材料",
+    "cultivated_abilities": "科学思维、科学态度与责任",
+    "content_description": "了解纳米材料的高比表面积、量子效应等特性，分析其在电子器件、生物医学等领域的应用（如纳米药物载体）。"
+  },
+  {
+    "knowledge_point": "超导材料的物理机制与技术进步",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与新材料",
+    "theme": "物理学与新材料",
+    "cultivated_abilities": "物理观念、科学探究",
+    "content_description": "研究超导体的零电阻与迈斯纳效应，探讨超导技术在磁悬浮、电力传输中的实际应用及低温限制问题。"
+  },
+  {
+    "knowledge_point": "功能材料的分类与创新应用",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与新材料",
+    "theme": "物理学与新材料",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "列举智能材料（如形状记忆合金）、光学材料（如光纤）等，分析其物理特性与工业、生活应用场景。"
+  },
+  {
+    "knowledge_point": "新材料发展史研究报告",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与新材料",
+    "theme": "物理学与新材料",
+    "cultivated_abilities": "科学探究",
+    "content_description": "选择一种新材料（如石墨烯），查阅其发现过程与技术突破，撰写研究报告。"
+  },
+  {
+    "knowledge_point": "信息技术中的物理原理",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与信息技术",
+    "theme": "物理学与信息技术",
+    "cultivated_abilities": "科学思维、物理观念",
+    "content_description": "分析半导体物理与集成电路的关系，讨论芯片制造中的物理限制（如量子隧穿效应）。"
+  },
+  {
+    "knowledge_point": "智能手机中的传感器技术",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与信息技术",
+    "theme": "物理学与信息技术",
+    "cultivated_abilities": "科学探究、科学态度与责任",
+    "content_description": "研究加速度计、陀螺仪、光传感器等的工作原理，探讨其对移动设备功能（如导航、健康监测）的支撑作用。"
+  },
+  {
+    "knowledge_point": "卫星导航系统的物理基础",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与信息技术",
+    "theme": "物理学与信息技术",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "理解全球定位系统（GPS）的测距原理（电磁波传播时间差），分析相对论效应对卫星时钟校准的影响。"
+  },
+  {
+    "knowledge_point": "智能家居中的物理技术调查",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "物理学与信息技术",
+    "theme": "物理学与信息技术",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "调查智能家居设备（如温控系统、安防系统）中涉及的物理技术（如红外传感、无线通信），讨论其对生活便利性与隐私安全的双重影响。"
+  },
+  {
+    "knowledge_point": "宏观与微观粒子运动的差异",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "微观世界",
+    "theme": "微观世界",
+    "cultivated_abilities": "科学思维、物理观念",
+    "content_description": "比较宏观物体与微观粒子的运动特性（如量子化与连续性），理解微观世界的特殊规律。"
+  },
+  {
+    "knowledge_point": "德布罗意物质波与波粒二象性",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "微观世界",
+    "theme": "微观世界",
+    "cultivated_abilities": "科学思维、科学态度与责任",
+    "content_description": "了解德布罗意物质波假说，通过电子衍射实验验证实物粒子的波动性，体会量子理论的突破性。"
+  },
+  {
+    "knowledge_point": "海森伯不确定性原理",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "微观世界",
+    "theme": "微观世界",
+    "cultivated_abilities": "科学思维",
+    "content_description": "初步理解不确定性原理（Δx⋅Δp≥2ℏ​），认识微观粒子的不可精确预测性。"
+  },
+  {
+    "knowledge_point": "基本粒子模型与标准模型",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "微观世界",
+    "theme": "微观世界",
+    "cultivated_abilities": "物理观念、科学态度与责任",
+    "content_description": "了解基本粒子的分类（如夸克、轻子、规范玻色子）及标准模型的框架，讨论粒子物理研究的前沿问题（如希格斯粒子）。"
+  },
+  {
+    "knowledge_point": "量子纠缠与量子技术应用",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "微观世界",
+    "theme": "微观世界",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "查阅量子纠缠的理论研究与应用（如量子通信），了解我国科学家（如潘建伟）的贡献，探讨量子计算机的发展潜力。"
+  },
+  {
+    "knowledge_point": "狭义相对论的基本原理",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "高速世界",
+    "theme": "高速世界",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "掌握狭义相对论的两大基础假设（相对性原理、光速不变原理），理解其对经典时空观的颠覆。"
+  },
+  {
+    "knowledge_point": "时间延缓与长度收缩效应",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "高速世界",
+    "theme": "高速世界",
+    "cultivated_abilities": "科学思维、科学探究",
+    "content_description": "通过公式推导 t=1−c2v2​​t0​​ 和 L=L0​1−c2v2​​，解释高速运动中的时空效应。"
+  },
+  {
+    "knowledge_point": "质能方程与核能释放",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "高速世界",
+    "theme": "高速世界",
+    "cultivated_abilities": "物理观念、科学态度与责任",
+    "content_description": "理解爱因斯坦质能方程（E=mc2）的物理意义，分析其在核反应（裂变与聚变）中的能量释放机制。"
+  },
+  {
+    "knowledge_point": "广义相对论与时空弯曲",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "高速世界",
+    "theme": "高速世界",
+    "cultivated_abilities": "科学思维、科学态度与责任",
+    "content_description": "了解广义相对论的等效原理与时空弯曲思想，通过引力透镜、水星近日点进动等观测证据验证其理论预言。"
+  },
+  {
+    "knowledge_point": "引力波探测与宇宙学研究",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "高速世界",
+    "theme": "高速世界",
+    "cultivated_abilities": "科学探究",
+    "content_description": "查阅引力波的产生机制（如双黑洞合并）及LIGO探测实验，讨论其对验证广义相对论和探索宇宙的意义。"
+  },
+  {
+    "knowledge_point": "大爆炸宇宙论与观测证据",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "宇观世界",
+    "theme": "宇观世界",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "初步了解大爆炸理论模型（如宇宙膨胀、微波背景辐射），讨论其支持证据（如哈勃红移、氦丰度）。"
+  },
+  {
+    "knowledge_point": "黑洞与引力奇点",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "宇观世界",
+    "theme": "宇观世界",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "理解黑洞的形成条件（史瓦西半径 Rs​=c22GM​）及观测方法（如事件视界望远镜对M87黑洞的成像）。"
+  },
+  {
+    "knowledge_point": "暗物质与暗能量的存在证据",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "宇观世界",
+    "theme": "宇观世界",
+    "cultivated_abilities": "科学思维、科学态度与责任",
+    "content_description": "通过星系旋转曲线、宇宙加速膨胀等现象，分析暗物质与暗能量存在的间接证据及其对宇宙演化的影响。"
+  },
+  {
+    "knowledge_point": "反物质探索的历程与挑战",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "宇观世界",
+    "theme": "宇观世界",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "查阅反物质（如正电子、反质子）的发现与研究进展，讨论反物质应用（如医学成像）与储存难题。"
+  },
+  {
+    "knowledge_point": "四种基本相互作用",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "世界的统一性",
+    "theme": "世界的统一性",
+    "cultivated_abilities": "物理观念、科学思维",
+    "content_description": "了解引力、电磁力、强相互作用、弱相互作用的特点及作用范围，讨论统一场论的目标（如电弱统一理论）。"
+  },
+  {
+    "knowledge_point": "相互作用统一的理论探索",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "世界的统一性",
+    "theme": "世界的统一性",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "了解物理学追求相互作用统一的历程（如爱因斯坦晚年研究），探讨超弦理论、大统一理论等前沿方向。"
+  },
+  {
+    "knowledge_point": "现代物理前沿科普论坛",
+    "stage": "Elective",
+    "subject": "Physics",
+    "category": "世界的统一性",
+    "theme": "世界的统一性",
+    "cultivated_abilities": "科学态度与责任",
+    "content_description": "组织学生通过班会或墙报形式，交流希格斯粒子、暗物质探测等现代物理研究进展，激发科学探索热情。"
+  }
+]

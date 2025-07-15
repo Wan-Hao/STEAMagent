@@ -1,0 +1,641 @@
+[
+  {
+    "knowledge_point": "语音的表意功能",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语音知识",
+    "theme": "语言交际基础",
+    "cultivated_abilities": "听力理解与口语表达能力",
+    "content_description": "在具体语境中感知重音、语调、节奏等语音手段传递意义的功能，如通过语调变化区分陈述句与疑问句，通过重音强调关键信息。"
+  },
+  {
+    "knowledge_point": "基本语音规则",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语音知识",
+    "theme": "语言基础知识",
+    "cultivated_abilities": "语音辨识与模仿能力",
+    "content_description": "掌握常见语音现象（连读、爆破、弱读等），如“I’d like to”中的连读发音，并能在口语中模仿运用。"
+  },
+  {
+    "knowledge_point": "多音节单词发音",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语音知识",
+    "theme": "词汇学习",
+    "cultivated_abilities": "自主学习能力",
+    "content_description": "利用音标知识拼读多音节单词（如“communication”），通过词典辅助学习发音。"
+  },
+  {
+    "knowledge_point": "​​词汇量要求​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "词汇知识",
+    "theme": "语言基础",
+    "cultivated_abilities": "词汇积累能力",
+    "content_description": "必修阶段累计掌握2000~2100词，选择性必修累计3000~3200词，选修（提高类）累计4000~4200词。掌握高频词汇的拼写、发音、基本词义及常见搭配（如“environmental protection”）。"
+  },
+  {
+    "knowledge_point": "​​构词法​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "词汇知识",
+    "theme": "词汇策略",
+    "cultivated_abilities": "自主学习能力",
+    "content_description": "通过词根、词缀（如“un-”“-tion”）、合成词（如“greenhouse”）等构词规律扩展词汇量，理解词汇的生成逻辑（如“biology→biologist→biological”）。"
+  },
+  {
+    "knowledge_point": "​​基本时态与语态​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语法知识",
+    "theme": "语言基础",
+    "cultivated_abilities": "句子结构分析能力",
+    "content_description": "掌握一般现在时、一般过去时、一般将来时、现在进行时、过去进行时、现在完成时等基本时态的构成与用法（如“I have lived here for 10 years”），以及被动语态的基本形式（如“The book was written by him”）。"
+  },
+  {
+    "knowledge_point": "​​简单句与复合句​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语法知识",
+    "theme": "句子结构",
+    "cultivated_abilities": "逻辑表达能力",
+    "content_description": "区分简单句（含主谓宾结构）、并列句（用连词连接）和复合句（含主从句），掌握宾语从句、状语从句（时间、条件、原因等）的引导词（如“when/if/because”）及语序规则。"
+  },
+  {
+    "knowledge_point": "​​定语从句​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语法知识",
+    "theme": "复杂句式",
+    "cultivated_abilities": "信息整合能力",
+    "content_description": "理解限制性定语从句（由关系代词who/which/that引导）和非限制性定语从句（由which/who引导）的功能，区分关系代词与关系副词（where/when/why）的用法（如“The city where I was born is beautiful”）。"
+  },
+  {
+    "knowledge_point": "​​连接词与语篇衔接​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语法知识",
+    "theme": "语篇结构",
+    "cultivated_abilities": "语篇连贯性",
+    "content_description": "使用连接词（如however/therefore/furthermore）和代词（it/this/they）实现句子间逻辑衔接，分析语篇中时间顺序、因果关系的表达方式（如“First…then…finally”）。"
+  },
+  {
+    "knowledge_point": "​​语篇类型与功能​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "语篇基础",
+    "cultivated_abilities": "语篇辨识能力",
+    "content_description": "识别常见语篇类型（记叙文、说明文、议论文、应用文）及其功能（如记叙文再现经历、议论文表达观点），理解不同语篇的交际目的（如广告说服、新闻报道传递信息）。"
+  },
+  {
+    "knowledge_point": "​​语篇宏观结构​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "语篇组织",
+    "cultivated_abilities": "逻辑分析能力",
+    "content_description": "掌握语篇的典型结构（如议论文“总—分—总”、记叙文“背景—事件—结局”），识别标题、导语、段落主题句的作用（如导语概括全文主旨）。"
+  },
+  {
+    "knowledge_point": "​​语篇微观衔接手段​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "语言连贯性",
+    "cultivated_abilities": "信息关联能力",
+    "content_description": "理解语篇中代词（it/this/they）、连接词（however/therefore）、重复词汇、省略等衔接手段的功能，分析句子间逻辑关系（因果、转折、并列）。"
+  },
+  {
+    "knowledge_point": "​​多模态语篇解读​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "综合信息处理",
+    "cultivated_abilities": "多模态信息整合能力",
+    "content_description": "分析图表、图示、网页、广告、漫画等多模态语篇中文字与非文字资源（颜色、图像、符号）的协同作用（如广告中图片吸引注意、文字说明功能）。"
+  },
+  {
+    "knowledge_point": "​​交际场合与语言形式选择​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语用知识",
+    "theme": "语言得体性",
+    "cultivated_abilities": "语境适应能力",
+    "content_description": "根据交际场合的正式程度（如课堂讨论vs.朋友聊天）、参与者的身份关系（如师生vs.同学），选择正式或非正式语言（如“Could you...?” vs. “Can you...?”）。"
+  },
+  {
+    "knowledge_point": "​​礼貌用语与请求策略​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语用知识",
+    "theme": "人际沟通",
+    "cultivated_abilities": "礼貌交际能力",
+    "content_description": "掌握请求、道歉、建议等场景的礼貌表达（如“Would you mind...?” “I’m terribly sorry...”），避免直接命令（如用“Could you...”代替“Do it!”）。"
+  },
+  {
+    "knowledge_point": "​​非语言手段辅助交际​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语用知识",
+    "theme": "综合交际",
+    "cultivated_abilities": "多模态表达能力",
+    "content_description": "通过手势、表情、眼神接触、肢体语言等非语言手段（如点头表示同意、摊手表示无奈）辅助语言表达，增强交际效果。"
+  },
+  {
+    "knowledge_point": "​​记叙文要素与结构​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "人与自我/社会/自然",
+    "cultivated_abilities": "信息整合能力",
+    "content_description": "分析记叙文的时间、地点、人物、事件（起因、经过、结果）四要素，掌握顺叙、倒叙、插叙等叙事顺序，理解故事主线与细节的关系（如《灰姑娘》中的情节发展）。"
+  },
+  {
+    "knowledge_point": "​​说明文逻辑与手法​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "科学与技术",
+    "cultivated_abilities": "逻辑分析能力",
+    "content_description": "识别说明文的定义、分类、举例、因果等说明方法，分析事物特征（如《如何保护水资源》中的问题-解决结构）。"
+  },
+  {
+    "knowledge_point": "​​应用文格式与功能​​",
+    "stage": "Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "社会服务",
+    "cultivated_abilities": "实践应用能力",
+    "content_description": "掌握书信（正式/非正式）、简历、通知等应用文的格式规范（如信件开头称呼、结尾署名），理解其交际目的（如求职信中的自我推荐功能）。"
+  },
+  {
+    "knowledge_point": "语音与情感态度表达",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语音知识",
+    "theme": "情感交流",
+    "cultivated_abilities": "跨文化交际能力",
+    "content_description": "通过语音的抑扬顿挫表达说话者的情感态度（如惊讶、讽刺、友好），例如通过升调表达疑问，通过降调表达肯定。"
+  },
+  {
+    "knowledge_point": "诗歌与韵文的韵律",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语音知识",
+    "theme": "文学赏析",
+    "cultivated_abilities": "审美感知能力",
+    "content_description": "识别英语诗歌、韵文中的节奏和押韵规律（如五步抑扬格），体会语言的美感。"
+  },
+  {
+    "knowledge_point": "正式与非正式语音特征",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语音知识",
+    "theme": "语用功能",
+    "cultivated_abilities": "社会语言适应能力",
+    "content_description": "区分正式场合（演讲、报告）与非正式场合（日常对话）的语音特征，如正式场合语速较慢、发音清晰，非正式场合连读、弱读现象更多。"
+  },
+  {
+    "knowledge_point": "​​词块学习​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "词汇知识",
+    "theme": "语言运用",
+    "cultivated_abilities": "表达准确性",
+    "content_description": "掌握固定搭配（如“take measures to do”）、习语（如“break the ice”）和语篇高频词块（如“on the contrary”），提升表达的流畅性和地道性。"
+  },
+  {
+    "knowledge_point": "​​多义词与语境义​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "词汇知识",
+    "theme": "语义理解",
+    "cultivated_abilities": "语境推断能力",
+    "content_description": "根据上下文推断多义词的具体含义（如“bank”在不同语境中可指“银行”或“河岸”），理解词汇的隐喻和引申意义（如“light”可表“光明”或“轻的”）。"
+  },
+  {
+    "knowledge_point": "​​近义词与反义词​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "词汇知识",
+    "theme": "语言表达",
+    "cultivated_abilities": "精确表达能力",
+    "content_description": "辨析近义词的细微差异（如“big/large”“say/speak”），掌握反义词的对应关系（如“optimistic/pessimistic”），在写作中准确选用词汇。"
+  },
+  {
+    "knowledge_point": "​​非谓语动词​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语法知识",
+    "theme": "动词形式",
+    "cultivated_abilities": "高阶语法应用能力",
+    "content_description": "掌握动词不定式（to do）、动名词（doing）和分词（现在分词doing/过去分词done）的句法功能（作主语、宾语、定语、状语等），如“He avoided answering the question”（动名词作宾语）。"
+  },
+  {
+    "knowledge_point": "​​虚拟语气​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语法知识",
+    "theme": "假设与推测",
+    "cultivated_abilities": "批判性思维",
+    "content_description": "理解虚拟语气在条件句（如“If I were you, I would…”）、愿望（如“I wish I had…”）和建议（如“It’s time we left”）中的用法，区分与真实条件句的差异。"
+  },
+  {
+    "knowledge_point": "​​主谓一致与一致关系​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语法知识",
+    "theme": "句子结构",
+    "cultivated_abilities": "语言准确性",
+    "content_description": "掌握主谓一致的三大原则（语法一致、意义一致、就近原则），如“The team is working hard”（集体名词单数）、“Neither he nor I am right”（就近原则）。"
+  },
+  {
+    "knowledge_point": "​​情态动词的推测用法​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语法知识",
+    "theme": "情态与推测",
+    "cultivated_abilities": "推理判断能力",
+    "content_description": "掌握情态动词（must/can’t/might）表示推测的用法（如“He must be at home”表肯定推测，“She can’t have finished the work”表否定推测），区分对现在、过去和将来的推测形式。"
+  },
+  {
+    "knowledge_point": "​​文体特征与语言风格​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "文体分析",
+    "cultivated_abilities": "文体敏感度",
+    "content_description": "区分正式与非正式文体（如学术论文vs.私人信件）、口语与书面语特征（如缩略形式“I’m”用于口语），分析不同文体（如新闻报道、文学散文）的语言风格差异。"
+  },
+  {
+    "knowledge_point": "​​语篇隐性信息推理​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "深度理解",
+    "cultivated_abilities": "批判性思维",
+    "content_description": "通过语境线索推理语篇隐含意义（如讽刺、隐喻）、作者态度（如“It’s a ‘brilliant’ idea”可能表达反讽）及文化价值观（如环保主题语篇倡导可持续发展）。"
+  },
+  {
+    "knowledge_point": "​​跨文化语篇对比​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "文化意识",
+    "cultivated_abilities": "跨文化交际能力",
+    "content_description": "比较中西方语篇结构差异（如中文议论文注重铺垫，英文议论文直接点明论点），分析文化背景对语篇内容的影响（如节日祝福语篇反映文化价值观）。"
+  },
+  {
+    "knowledge_point": "​​隐含意义与意图推理​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语用知识",
+    "theme": "深度理解",
+    "cultivated_abilities": "推理判断能力",
+    "content_description": "通过说话者的语气、重音、停顿等语言特征（如反讽语气“What a ‘great’ idea!”）或语境线索，推断隐含意义（如拒绝邀请时“I’ll think about it”可能表示委婉拒绝）。"
+  },
+  {
+    "knowledge_point": "​​跨文化语用差异​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语用知识",
+    "theme": "跨文化交际",
+    "cultivated_abilities": "文化敏感度",
+    "content_description": "理解中西方交际习惯差异（如中国人谦逊回应赞美“No, I’m not good” vs. 西方人接受赞美“Thank you!”），避免文化误解（如直接询问年龄在西方可能被视为不礼貌）。"
+  },
+  {
+    "knowledge_point": "​​正式与非正式语体转换​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语用知识",
+    "theme": "语言灵活性",
+    "cultivated_abilities": "得体表达能力",
+    "content_description": "根据受众和目的调整语言风格，如书面申请信使用正式语体（“I am writing to apply...”），而社交媒体留言使用非正式语体（“Hey, wanna hang out?”）。"
+  },
+  {
+    "knowledge_point": "​​交际修复策略​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语用知识",
+    "theme": "应急沟通",
+    "cultivated_abilities": "问题解决能力",
+    "content_description": "在交际受阻时使用澄清（“What I mean is...”）、重复（“Let me rephrase...”）、举例（“For example...”）等策略修复对话，确保信息有效传递。"
+  },
+  {
+    "knowledge_point": "​​议论文论点与论证​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "社会议题",
+    "cultivated_abilities": "批判性思维",
+    "content_description": "提取议论文的中心论点与分论点，辨析事实论据与道理论据（如气候变化中的科学数据vs.道德呼吁），评价论证的合理性（如《是否应禁止塑料袋》）。"
+  },
+  {
+    "knowledge_point": "​​新闻报道特点与真实性​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "社会热点",
+    "cultivated_abilities": "信息鉴别能力",
+    "content_description": "分析新闻的倒金字塔结构（标题、导语、正文），区分事实与观点（如《疫苗研发进展》中的客观数据与评论），识别新闻的客观性与倾向性。"
+  },
+  {
+    "knowledge_point": "​​文学类文本赏析​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "文学与艺术",
+    "cultivated_abilities": "审美鉴赏能力",
+    "content_description": "解读小说、诗歌、戏剧的文体特征（如《傲慢与偏见》的人物对话刻画性格，《静夜思》的意象与情感），分析隐喻、象征等修辞手法。"
+  },
+  {
+    "knowledge_point": "​​语篇衔接与连贯手段​​",
+    "stage": "Selective Compulsory",
+    "subject": "English",
+    "category": "语言知识",
+    "theme": "语言运用",
+    "cultivated_abilities": "逻辑建构能力",
+    "content_description": "识别代词（it/they）、连接词（however/therefore）、词汇复现（同义词替换）等衔接手段，分析段落间的因果、对比、递进等逻辑关系（如《环境保护》中的问题-原因-解决方案结构）。"
+  },
+  {
+    "knowledge_point": "方言与口音的辨识",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语音知识",
+    "theme": "跨文化交际",
+    "cultivated_abilities": "多元文化理解能力",
+    "content_description": "识别不同英语国家（如英式、美式、澳式）或地域的发音差异（如“water”的发音差异），理解语言多样性。"
+  },
+  {
+    "knowledge_point": "创造性语音表达",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语音知识",
+    "theme": "语言艺术",
+    "cultivated_abilities": "创新与表达能力",
+    "content_description": "运用语音手段（重音、停顿、语调）增强语言的表现力，如通过停顿制造悬念，通过重音强调情感，尝试创作英文诗歌并朗诵。"
+  },
+  {
+    "knowledge_point": "语音与语篇逻辑",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语音知识",
+    "theme": "语篇分析",
+    "cultivated_abilities": "逻辑分析与批判性思维",
+    "content_description": "分析语音在语篇中的逻辑衔接功能，如通过语调变化区分主次信息，通过节奏控制语篇的连贯性。"
+  },
+  {
+    "knowledge_point": "发音准确性训练",
+    "stage": "各阶段",
+    "subject": "English",
+    "category": "语音知识",
+    "theme": "语言基础",
+    "cultivated_abilities": "语言规范意识",
+    "content_description": "通过模仿、跟读、录音对比等方式纠正发音错误（如/θ/与/s/的区分），提高口语清晰度。"
+  },
+  {
+    "knowledge_point": "​​学术词汇​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "词汇知识",
+    "theme": "学术语言",
+    "cultivated_abilities": "学术写作能力",
+    "content_description": "掌握学科领域专业术语（如“globalization”“sustainable development”）和学术表达常用词汇（如“demonstrate”“consequently”），用于论述文、研究报告等正式文体。"
+  },
+  {
+    "knowledge_point": "​​文化负载词汇​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "词汇知识",
+    "theme": "跨文化交际",
+    "cultivated_abilities": "文化敏感性",
+    "content_description": "理解中外文化特有词汇（如“春节/Spring Festival”“感恩节/Thanksgiving”）及文化内涵，避免跨文化交际中的语义误解（如“龙/dragon”的中西文化差异）。"
+  },
+  {
+    "knowledge_point": "​​词汇学习策略​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "词汇知识",
+    "theme": "学习策略",
+    "cultivated_abilities": "高阶思维能力",
+    "content_description": "运用词汇网络（如语义图、思维导图）、词频分析工具（如语料库）和记忆策略（如艾宾浩斯遗忘曲线）系统性扩展词汇量，提升词汇深度（如掌握一词多义、搭配和语用功能）。"
+  },
+  {
+    "knowledge_point": "​​语域与词汇选择​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "词汇知识",
+    "theme": "语用知识",
+    "cultivated_abilities": "语用意识",
+    "content_description": "根据语域（正式/非正式）选择恰当词汇（如正式文体用“commence”替代“begin”），避免口语化表达在书面语中的误用（如“kids”在正式写作中应替换为“children”）。"
+  },
+  {
+    "knowledge_point": "​​主题词汇整合​​",
+    "stage": "各阶段",
+    "subject": "English",
+    "category": "词汇知识",
+    "theme": "学科融合",
+    "cultivated_abilities": "综合应用能力",
+    "content_description": "围绕“人与自我”“人与社会”“人与自然”三大主题语境，积累相关主题词汇（如环保主题的“carbon emission”“renewable energy”），并在语篇中灵活运用。"
+  },
+  {
+    "knowledge_point": "​​倒装与强调结构​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语法知识",
+    "theme": "修辞手法",
+    "cultivated_abilities": "文体分析能力",
+    "content_description": "掌握部分倒装（如“Never have I seen such a scene”）和完全倒装（如“Here comes the bus”）的规则，以及强调句型（It is…that/who…）的构造（如“It was John who broke the window”）。"
+  },
+  {
+    "knowledge_point": "​​名词性从句​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语法知识",
+    "theme": "复杂句式",
+    "cultivated_abilities": "逻辑推理能力",
+    "content_description": "识别主语从句（如“What he said is true”）、表语从句（如“The problem is that we lack time”）、同位语从句（如“The fact that he succeeded surprised us”）的引导词（that/whether/what）及语序规则。"
+  },
+  {
+    "knowledge_point": "​​省略与替代​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语法知识",
+    "theme": "语言经济性",
+    "cultivated_abilities": "语言简化能力",
+    "content_description": "理解省略（如“He can swim faster than I [can]”）和替代（如用“do”替代重复动词：“She likes coffee, and I do too”）在口语和书面语中的应用。"
+  },
+  {
+    "knowledge_point": "​​语法在语篇中的功能​​",
+    "stage": "各阶段",
+    "subject": "English",
+    "category": "语法知识",
+    "theme": "综合应用",
+    "cultivated_abilities": "语言综合能力",
+    "content_description": "通过分析语篇中的语法结构（如被动语态突出客观性、分词作状语增强描述性），理解语法在传递信息、表达态度和构建篇章中的作用（如议论文中虚拟语气表达建议）。"
+  },
+  {
+    "knowledge_point": "​​修辞手法与表达效果​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "文学性语篇",
+    "cultivated_abilities": "审美鉴赏能力",
+    "content_description": "识别比喻（metaphor）、拟人（personification）、夸张（hyperbole）等修辞手法，分析其在文学语篇中的表意功能（如“Time is a thief”强调时间流逝的不可逆）。"
+  },
+  {
+    "knowledge_point": "​​学术语篇分析​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "学术写作",
+    "cultivated_abilities": "学术研究能力",
+    "content_description": "掌握学术语篇（论文、报告）的结构（摘要—引言—方法—结果—讨论）、语言特征（客观性、被动语态）及引用规范（如APA格式），理解逻辑论证方法（数据支撑论点）。"
+  },
+  {
+    "knowledge_point": "​​语篇的社会功能​​",
+    "stage": "各阶段",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "社会意义",
+    "cultivated_abilities": "社会文化洞察力",
+    "content_description": "分析语篇如何反映社会现象（如环保倡议语篇呼吁行动）、构建身份认同（如移民文学中的文化冲突）或传递意识形态（如政治演讲中的价值观引导）。"
+  },
+  {
+    "knowledge_point": "​​语篇批判性评价​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "高阶思维",
+    "cultivated_abilities": "批判性评价能力",
+    "content_description": "评价语篇的客观性（如新闻报道是否中立）、逻辑漏洞（如数据与结论不匹配）及伦理价值（如广告是否误导消费者），提出改进建议（如补充证据强化论点）。"
+  },
+  {
+    "knowledge_point": "​​语篇创作与改编​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "创造性表达",
+    "cultivated_abilities": "创新与实践能力",
+    "content_description": "根据特定主题和受众创作不同语篇（如撰写倡议书、改编小说结局），运用衔接手段、文体特征和修辞手法提升表达效果（如用排比增强演讲感染力）。"
+  },
+  {
+    "knowledge_point": "​​情感态度与语言表达​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语用知识",
+    "theme": "情感传递",
+    "cultivated_abilities": "情感调控能力",
+    "content_description": "通过词汇选择（如“delighted” vs. “okay”）、句式结构（感叹句“How amazing!” vs. 陈述句“It’s good”）和语调变化，准确传递情感态度（喜悦、失望、惊讶等）。"
+  },
+  {
+    "knowledge_point": "​​辩论与说服策略​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语用知识",
+    "theme": "高阶交际",
+    "cultivated_abilities": "逻辑论证能力",
+    "content_description": "在辩论中运用数据支撑（“Statistics show...”）、类比（“It’s like...”）、反驳技巧（“I see your point, but...”），并遵守辩论礼仪（如不打断对方发言）。"
+  },
+  {
+    "knowledge_point": "​​模糊语与委婉表达​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语用知识",
+    "theme": "社交策略",
+    "cultivated_abilities": "社交敏感性",
+    "content_description": "在敏感话题中使用模糊语（“It might be possible...”）或委婉表达（“pass away”代替“die”）缓和语气，避免冲突或冒犯。"
+  },
+  {
+    "knowledge_point": "​​补白语与话轮转换​​",
+    "stage": "各阶段",
+    "subject": "English",
+    "category": "语用知识",
+    "theme": "会话管理",
+    "cultivated_abilities": "会话控制能力",
+    "content_description": "使用补白语（“Well...”, “You know...”）维持对话流畅性，掌握话轮转换技巧（如通过提问“What do you think?”传递发言权），避免沉默或抢话。"
+  },
+  {
+    "knowledge_point": "​​语用失误分析与修正​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语用知识",
+    "theme": "反思学习",
+    "cultivated_abilities": "自我监控能力",
+    "content_description": "识别常见语用失误（如过度使用“Sorry”显得不自信），通过对比母语与英语的语用规则（如拒绝方式差异），修正表达方式（用“I’d love to, but...”代替直接拒绝“No”）。"
+  },
+  {
+    "knowledge_point": "​​学术论文结构与规范​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "学术研究",
+    "cultivated_abilities": "学术写作能力",
+    "content_description": "掌握学术论文的摘要、引言、方法、结果、讨论（IMRaD）结构，理解引用规范（APA/MLA格式）及避免抄袭的学术伦理。"
+  },
+  {
+    "knowledge_point": "​​演讲稿的感染力与策略​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "社会沟通",
+    "cultivated_abilities": "公众表达能力",
+    "content_description": "分析演讲稿的开场白（吸引注意）、主体（逻辑论证）、结尾（呼吁行动）结构，学习使用排比、反问等修辞增强感染力（如马丁·路德·金《我有一个梦想》）。"
+  },
+  {
+    "knowledge_point": "​​书评与影评的批判性写作​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "文化评论",
+    "cultivated_abilities": "评价与创作能力",
+    "content_description": "撰写书评/影评时，结合文本内容（如《哈利·波特》的主题）与个人观点，运用比较（与其他作品）、分析（角色成长）等手法表达批判性见解。"
+  },
+  {
+    "knowledge_point": "​​多模态语篇的图文关联​​",
+    "stage": "各阶段",
+    "subject": "English",
+    "category": "语篇知识",
+    "theme": "跨学科主题",
+    "cultivated_abilities": "多模态解读能力",
+    "content_description": "理解图表、插图、示意图与文字的结合方式（如科普文章中的流程图解释原理），分析图文互补关系（如广告中图片引发情感共鸣，文字传递核心信息）。"
+  },
+  {
+    "knowledge_point": "​​文体风格与语言特征​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语言知识",
+    "theme": "文学与表达",
+    "cultivated_abilities": "文体分析能力",
+    "content_description": "对比正式文体（学术论文）与非正式文体（博客）的语言差异（如被动语态vs.口语化表达），分析文学文本的独特语言风格（如海明威的简洁句式）。"
+  },
+  {
+    "knowledge_point": "​​跨文化语篇对比分析​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "文化意识",
+    "theme": "跨文化交际",
+    "cultivated_abilities": "文化敏感性",
+    "content_description": "比较中西方同类语篇的差异（如中式议论文重权威引用，西式议论文重个人论证），理解文化价值观对语篇结构的影响（如集体主义vs.个人主义）。"
+  },
+  {
+    "knowledge_point": "​​创造性写作与仿写实践​​",
+    "stage": "各阶段",
+    "subject": "English",
+    "category": "语言技能",
+    "theme": "综合运用",
+    "cultivated_abilities": "创新表达能力",
+    "content_description": "根据范例文本（如寓言故事）仿写情节、人物或结局，运用所学语篇结构创作短文（如续写《项链》的结尾）。"
+  },
+  {
+    "knowledge_point": "​​长难句分析与复杂语篇解构​​",
+    "stage": "选修（提高类）",
+    "subject": "English",
+    "category": "语言知识",
+    "theme": "学术阅读",
+    "cultivated_abilities": "深度理解能力",
+    "content_description": "拆分长难句的主干与修饰成分（如定语从句、插入语），解析学术语篇中的复杂逻辑（如《人工智能伦理》中的多重因果关系）。"
+  }
+]

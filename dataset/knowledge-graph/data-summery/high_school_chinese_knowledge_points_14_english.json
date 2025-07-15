@@ -1,0 +1,128 @@
+[
+  {
+    "knowledge_point": "语言文字积累与运用",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "语言建构与运用",
+    "content_description": "掌握3500常用汉字，正确使用标点符号，积累成语、俗语、古诗文名句，辨析语病（如成分残缺、搭配不当）。"
+  },
+  {
+    "knowledge_point": "现代文阅读（论述类）",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "思维发展与提升",
+    "content_description": "分析论点、论据与论证方法（如举例、对比、比喻论证），理解文本逻辑结构（如总分式、递进式）。"
+  },
+  {
+    "knowledge_point": "现代文阅读（文学类）",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "审美鉴赏与创造",
+    "content_description": "赏析小说人物形象（如《祝福》中的祥林嫂）、散文语言风格（如朱自清的“口语化抒情”），分析叙事视角与象征手法。"
+  },
+  {
+    "knowledge_point": "古诗文阅读与鉴赏",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "文化传承与理解",
+    "content_description": "理解文言实词/虚词（如“之”“而”的用法），赏析诗歌意象（如“杨柳”表离别）、情感表达（如杜甫的忧国情怀）。"
+  },
+  {
+    "knowledge_point": "写作（议论文）",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "思维发展与提升",
+    "content_description": "掌握立论与驳论技巧，构建清晰论证框架（如引论-本论-结论），运用事实/道理论据（如引用《论语》增强说服力）。"
+  },
+  {
+    "knowledge_point": "写作（文学创作）",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "审美鉴赏与创造",
+    "content_description": "尝试诗歌、散文、微小说创作，运用比喻、拟人、通感等修辞手法（如“月光如流水倾泻”），塑造个性化语言风格。"
+  },
+  {
+    "knowledge_point": "整本书阅读与研讨",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "文化传承与理解",
+    "content_description": "深度研读经典著作（如《红楼梦》人物关系梳理、《乡土中国》差序格局分析），撰写读书报告或专题论文。"
+  },
+  {
+    "knowledge_point": "跨媒介阅读与交流",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "语言建构与运用",
+    "content_description": "分析不同媒介（如新闻、短视频、公众号）的语言特点，辨别信息真伪（如网络谣言的语言漏洞），撰写多媒体文案。"
+  },
+  {
+    "knowledge_point": "中华传统文化专题研讨",
+    "knowledge_nature": "Elective",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "文化传承与理解",
+    "content_description": "探究汉字演变（如甲骨文→金文→小篆）、儒家经典思想（如“仁者爱人”的现代意义），撰写文化评论。"
+  },
+  {
+    "knowledge_point": "中国革命传统作品研读",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "思维发展与提升",
+    "content_description": "分析红色经典（如《红岩》中的信仰力量、《沁园春·雪》的革命豪情），理解作品的历史价值与精神内涵。"
+  },
+  {
+    "knowledge_point": "口语交际与演讲表达",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "语言建构与运用",
+    "content_description": "掌握演讲技巧（如开场白设计、肢体语言配合），参与辩论活动（如立论-质询-总结），即兴发言的逻辑性与感染力训练。"
+  },
+  {
+    "knowledge_point": "外国文学经典研读",
+    "knowledge_nature": "Elective",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "审美鉴赏与创造",
+    "content_description": "比较中西文学差异（如莎士比亚悲剧与元杂剧的冲突设计），赏析魔幻现实主义（如《百年孤独》的象征隐喻）。"
+  },
+  {
+    "knowledge_point": "学术论著专题研讨",
+    "knowledge_nature": "Elective",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "思维发展与提升",
+    "content_description": "学习学术论文写作规范（如摘要、参考文献格式），批判性阅读专业论著（如鲁迅研究论文的观点辨析）。"
+  },
+  {
+    "knowledge_point": "语言逻辑与批判性思维",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chinese",
+    "category": "-",
+    "theme": "-",
+    "cultivated_abilities": "思维发展与提升",
+    "content_description": "识别逻辑谬误（如偷换概念、以偏概全），构建严密论证链（如三段论推理：“凡人皆有死，苏格拉底是人，故苏格拉底会死”）。"
+  }
+]

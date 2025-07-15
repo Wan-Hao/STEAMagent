@@ -1,0 +1,839 @@
+[
+  {
+    "knowledge_point": "化学科学的主要特征",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "化学科学与实验探究",
+    "theme": "化学科学",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "理解化学在原子、分子层次研究物质的性质与转化，认识实证与推理结合的科学方法。"
+  },
+  {
+    "knowledge_point": "科学探究过程",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "化学科学与实验探究",
+    "theme": "化学科学",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "掌握科学探究的基本环节（提出问题、假设、实验设计、证据分析、结论交流）。"
+  },
+  {
+    "knowledge_point": "实验基本操作与安全规范",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "化学科学与实验探究",
+    "theme": "化学科学",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "熟练使用天平、量筒、滴定管等仪器；熟悉实验室安全标识及废弃物处理方法。"
+  },
+  {
+    "knowledge_point": "物质的量及相关计算",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "化学科学与实验探究",
+    "theme": "化学科学",
+    "cultivated_abilities": "宏观与微观结合",
+    "content_description": "掌握物质的量、摩尔质量、气体摩尔体积、溶液浓度的概念及计算。"
+  },
+  {
+    "knowledge_point": "物质性质探究实验设计",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "化学科学与实验探究",
+    "theme": "实验探究",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "设计实验验证金属钠、氯气、硫酸亚铁等物质的性质，观察并记录实验现象。"
+  },
+  {
+    "knowledge_point": "物质分离与提纯方法",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "化学科学与实验探究",
+    "theme": "实验探究",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "掌握过滤、蒸发、蒸馏、萃取、层析等分离技术，分析粗盐提纯的实验流程。"
+  },
+  {
+    "knowledge_point": "物质的检验与鉴别",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "化学科学与实验探究",
+    "theme": "实验探究",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "通过特征反应检验离子（如Cl⁻、SO₄²⁻、NH₄⁺）及有机物官能团（如醛基、羧基）。"
+  },
+  {
+    "knowledge_point": "实验变量控制方法",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "化学科学与实验探究",
+    "theme": "实验探究",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "探究浓度、温度对反应速率的影响，理解单一变量原则在实验设计中的应用。"
+  },
+  {
+    "knowledge_point": "实验数据记录与处理",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "化学科学与实验探究",
+    "theme": "实验探究",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "用表格、图像记录实验数据，分析误差来源并优化实验方案。"
+  },
+  {
+    "knowledge_point": "科学史与化学发展",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "化学科学与实验探究",
+    "theme": "实验探究",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "了解元素周期律、原子结构模型的建立过程，体会科学理论的演变与创新。"
+  },
+  {
+    "knowledge_point": "现代分析技术初步认识",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "化学科学与实验探究",
+    "theme": "实验探究",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "了解光谱、色谱、质谱等现代仪器在物质组成和结构分析中的作用。"
+  },
+  {
+    "knowledge_point": "实验方案评价与优化",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "化学科学与实验探究",
+    "theme": "实验探究",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "对比不同实验方案的可行性，从绿色化学角度优化实验设计（如减少污染）。"
+  },
+  {
+    "knowledge_point": "金属钠的性质与应用",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "实验探究钠与氧气、水的反应，解释钠的强还原性及在强还原剂中的应用。"
+  },
+  {
+    "knowledge_point": "钠的氧化物与氢氧化物",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "分析Na₂O、Na₂O₂的氧化性差异，掌握NaOH的强碱性及其在工业中的应用。"
+  },
+  {
+    "knowledge_point": "碳酸钠与碳酸氢钠的转化",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "通过热稳定性实验比较两者性质差异，设计实验验证其与酸、碱的反应。"
+  },
+  {
+    "knowledge_point": "铝及其化合物的两性",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "宏观与微观结合",
+    "content_description": "实验探究Al与强酸、强碱反应，Al(OH)₃的酸式电离与碱式电离特性。"
+  },
+  {
+    "knowledge_point": "铁及其化合物的性质",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "探究Fe²⁺与Fe³⁺的氧化还原转化（如FeCl₂与Cl₂反应），理解铁盐的检验方法。"
+  },
+  {
+    "knowledge_point": "铁合金与金属材料",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "认识生铁、钢、不锈钢的成分与性能差异，了解金属腐蚀防护的常见方法。"
+  },
+  {
+    "knowledge_point": "氯气的性质与制备",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "实验室制Cl₂（MnO₂与浓盐酸加热），探究Cl₂的氧化性、漂白性及尾气处理。"
+  },
+  {
+    "knowledge_point": "氯水的成分与次氯酸性质",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "分析氯水的多重成分（Cl₂、HClO、H⁺等），验证次氯酸的强氧化性与不稳定性。"
+  },
+  {
+    "knowledge_point": "硫及其氧化物的性质",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "实验探究SO₂的漂白性、酸性氧化物性质及还原性，分析酸雨形成与防治原理。"
+  },
+  {
+    "knowledge_point": "硫酸的性质与工业制备",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "理解浓硫酸的吸水性、脱水性和强氧化性，了解接触法制硫酸的流程与环保措施。"
+  },
+  {
+    "knowledge_point": "氮的固定与氨的性质",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "探究工业合成氨条件，实验验证NH₃的易溶性、碱性及铵盐的热分解特性。"
+  },
+  {
+    "knowledge_point": "硝酸的强氧化性与应用",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "分析浓、稀硝酸与金属反应的还原产物差异，解释硝酸在化工生产中的特殊作用。"
+  },
+  {
+    "knowledge_point": "不同价态硫的转化",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "设计实验实现S（-2、0、+4、+6）的相互转化（如H₂S→S→SO₂→H₂SO₄）。"
+  },
+  {
+    "knowledge_point": "硅酸盐材料与新型无机材料",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "常见无机物及其应用",
+    "theme": "常见无机物及其应用",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "了解水泥、玻璃、陶瓷的原料与生产原理，认识碳纳米管、石墨烯等新型材料特性。"
+  },
+  {
+    "knowledge_point": "原子结构模型",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构基础与化学反应规律",
+    "theme": "物质结构基础与化学反应规律",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "了解原子构成（质子、中子、电子），掌握原子符号（AZ X）及同位素概念。"
+  },
+  {
+    "knowledge_point": "核外电子排布规律",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构基础与化学反应规律",
+    "theme": "物质结构基础与化学反应规律",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "掌握1~20号元素的核外电子分层排布规则，能用原子结构示意图表示。"
+  },
+  {
+    "knowledge_point": "元素周期律与周期表",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构基础与化学反应规律",
+    "theme": "物质结构基础与化学反应规律",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "理解周期表中周期、族的划分依据，分析同周期、同主族元素性质的递变规律。"
+  },
+  {
+    "knowledge_point": "化学键与物质类型",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构基础与化学反应规律",
+    "theme": "物质结构基础与化学反应规律",
+    "cultivated_abilities": "宏观与微观结合",
+    "content_description": "区分离子键、共价键（极性/非极性），认识离子化合物、共价化合物的形成与性质。"
+  },
+  {
+    "knowledge_point": "分子间作用力与物质性质",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构基础与化学反应规律",
+    "theme": "物质结构基础与化学反应规律",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "解释范德华力、氢键对物质熔沸点、溶解性的影响（如H₂O与H₂S性质差异）。"
+  },
+  {
+    "knowledge_point": "化学反应中的能量变化",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构基础与化学反应规律",
+    "theme": "物质结构基础与化学反应规律",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "理解吸热与放热反应的微观本质（化学键断裂与形成），分析能量转化形式。"
+  },
+  {
+    "knowledge_point": "化学反应速率影响因素",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构基础与化学反应规律",
+    "theme": "物质结构基础与化学反应规律",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "实验探究浓度、温度、催化剂对反应速率的影响，理解活化能的作用。"
+  },
+  {
+    "knowledge_point": "可逆反应与化学平衡",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构基础与化学反应规律",
+    "theme": "物质结构基础与化学反应规律",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "认识可逆反应的动态平衡特征，掌握浓度商（Q）与平衡常数的简单计算。"
+  },
+  {
+    "knowledge_point": "甲烷的结构与性质",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "简单有机化合物及其应用",
+    "theme": "简单有机化合物及其应用",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "掌握甲烷的正四面体结构，理解其稳定性及与Cl₂的取代反应（光照条件）。"
+  },
+  {
+    "knowledge_point": "乙烯的加成与聚合反应",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "简单有机化合物及其应用",
+    "theme": "简单有机化合物及其应用",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "实验验证乙烯与溴水、酸性KMnO₄的反应，了解聚乙烯的合成及塑料工业应用。"
+  },
+  {
+    "knowledge_point": "苯的特殊结构与性质",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "简单有机化合物及其应用",
+    "theme": "简单有机化合物及其应用",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "通过苯的溴代、硝化反应认识其取代反应特性，理解大π键对苯稳定性的影响。"
+  },
+  {
+    "knowledge_point": "乙醇的氧化与酯化反应",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "简单有机化合物及其应用",
+    "theme": "简单有机化合物及其应用",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "探究乙醇与钠反应、催化氧化生成乙醛的过程，掌握酯化反应条件及可逆性。"
+  },
+  {
+    "knowledge_point": "乙酸的酸性与酯化反应",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "简单有机化合物及其应用",
+    "theme": "简单有机化合物及其应用",
+    "cultivated_abilities": "模型认知",
+    "content_description": "验证乙酸的弱酸性和羧酸的通性，设计乙酸乙酯的制备实验并分析反应条件。"
+  },
+  {
+    "knowledge_point": "酯的水解与油脂性质",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "简单有机化合物及其应用",
+    "theme": "简单有机化合物及其应用",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "比较酯在酸、碱条件下的水解差异，了解油脂的皂化反应及肥皂去污原理。"
+  },
+  {
+    "knowledge_point": "糖类的组成与性质",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "简单有机化合物及其应用",
+    "theme": "简单有机化合物及其应用",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "掌握葡萄糖的还原性（银镜反应），区分单糖、二糖（蔗糖）、多糖（淀粉、纤维素）。"
+  },
+  {
+    "knowledge_point": "蛋白质的结构与变性",
+    "knowledge_nature": "Compulsory",
+    "subject": "Chemistry",
+    "category": "简单有机化合物及其应用",
+    "theme": "简单有机化合物及其应用",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "实验观察蛋白质的盐析、变性现象（如加热、重金属离子），理解其在食品加工中的应用。"
+  },
+  {
+    "knowledge_point": "化学反应中的能量转化形式",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "认识化学能与热能、电能的相互转化，理解能量守恒定律及内能概念。"
+  },
+  {
+    "knowledge_point": "焓变与反应热",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "掌握恒压条件下的焓变（ΔH）概念，能用热化学方程式表示反应中的能量变化。"
+  },
+  {
+    "knowledge_point": "盖斯定律及其应用",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "利用盖斯定律计算多步反应的总焓变，解决能量变化的叠加问题。"
+  },
+  {
+    "knowledge_point": "原电池工作原理",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "分析电子转移与离子迁移的动态过程，理解双液电池的构成及电流产生机制。"
+  },
+  {
+    "knowledge_point": "常见化学电源",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "掌握锌锰干电池、铅蓄电池、氢氧燃料电池的结构与反应原理。"
+  },
+  {
+    "knowledge_point": "电解池与电镀",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "理解电解熔融氯化钠、电解饱和食盐水的原理，设计简单电镀实验。"
+  },
+  {
+    "knowledge_point": "金属腐蚀与防护",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "分析吸氧腐蚀、析氢腐蚀的微观机理，提出金属防护的化学方法（如牺牲阳极法）。"
+  },
+  {
+    "knowledge_point": "化学反应方向判据",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "运用焓判据（ΔH）和熵判据（ΔS）综合判断反应的自发性（ΔG=ΔH-TΔS）。"
+  },
+  {
+    "knowledge_point": "化学平衡状态特征",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "理解可逆反应的动态平衡特征，掌握浓度商（Q）与平衡常数（K）的关系。"
+  },
+  {
+    "knowledge_point": "化学平衡常数计算",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "通过实验数据计算平衡常数（K），分析温度对平衡常数的影响。"
+  },
+  {
+    "knowledge_point": "勒夏特列原理应用",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "探究浓度、压强、温度对化学平衡的影响，解释工业合成氨的条件选择。"
+  },
+  {
+    "knowledge_point": "化学反应速率测定方法",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "设计实验测定反应速率（如硫代硫酸钠与硫酸反应），分析浓度、温度的影响。"
+  },
+  {
+    "knowledge_point": "催化剂的作用机制",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "理解催化剂降低活化能的原理，分析其在调控反应速率中的应用（如酶催化）。"
+  },
+  {
+    "knowledge_point": "反应历程与活化能",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "通过基元反应和能垒图解释复杂反应的机理，认识活化能对速率的影响。"
+  },
+  {
+    "knowledge_point": "弱电解质的电离平衡",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "分析醋酸、氨水等弱电解质的电离平衡，掌握电离常数（Ka/Kb）的计算。"
+  },
+  {
+    "knowledge_point": "水的离子积与溶液pH",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "理解水的自偶电离（Kw=1×10⁻¹⁴），熟练计算强酸、强碱及稀释溶液的pH。"
+  },
+  {
+    "knowledge_point": "盐类水解原理与应用",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "解释碳酸钠、氯化铵的水解反应，分析盐溶液酸碱性的成因及调控方法。"
+  },
+  {
+    "knowledge_point": "沉淀溶解平衡与溶度积",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "通过溶度积（Ksp）判断沉淀的生成与溶解，设计实验验证沉淀转化规律。"
+  },
+  {
+    "knowledge_point": "缓冲溶液原理",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "探究醋酸-醋酸钠缓冲体系的pH稳定性，解释其在生物、化学实验中的应用。"
+  },
+  {
+    "knowledge_point": "酸碱中和滴定与曲线分析",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "化学反应原理",
+    "theme": "化学反应原理",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "掌握强酸-强碱滴定曲线绘制方法，分析突跃范围与指示剂选择的关系。"
+  },
+  {
+    "knowledge_point": "原子轨道与电子云模型",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构与性质",
+    "theme": "物质结构与性质",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "理解s、p、d原子轨道的形状与能量关系，能用电子云描述核外电子运动状态。"
+  },
+  {
+    "knowledge_point": "基态原子核外电子排布规则",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构与性质",
+    "theme": "物质结构与性质",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "掌握泡利不相容原理、能量最低原理、洪德规则，书写1~36号元素电子排布式。"
+  },
+  {
+    "knowledge_point": "电离能与电负性",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构与性质",
+    "theme": "物质结构与性质",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "分析电离能、电负性的周期性变化，解释元素性质差异（如金属性与非金属性）。"
+  },
+  {
+    "knowledge_point": "分子空间结构与杂化轨道理论",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构与性质",
+    "theme": "物质结构与性质",
+    "cultivated_abilities": "模型认知",
+    "content_description": "判断分子极性（如CO₂非极性、H₂O极性），理解sp³、sp²、sp杂化轨道类型。"
+  },
+  {
+    "knowledge_point": "晶体类型与性质",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构与性质",
+    "theme": "物质结构与性质",
+    "cultivated_abilities": "宏观与微观结合",
+    "content_description": "区分离子晶体（NaCl）、原子晶体（金刚石）、分子晶体（CO₂）、金属晶体的特性。"
+  },
+  {
+    "knowledge_point": "配位化合物与配合物",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构与性质",
+    "theme": "物质结构与性质",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "认识配位键的形成（如[Cu(NH₃)₄]²⁺），分析配合物在催化、生物领域的应用。"
+  },
+  {
+    "knowledge_point": "过渡金属元素性质",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "物质结构与性质",
+    "theme": "物质结构与性质",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "探究Fe、Cu等过渡元素的变价特性及其化合物（如Fe²⁺与Fe³⁺的转化）。"
+  },
+  {
+    "knowledge_point": "有机物的分类与官能团",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "有机化学基础",
+    "theme": "有机化学基础",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "识别烷烃、烯烃、炔烃、芳香烃及羟基、羧基、氨基等官能团的结构特征。"
+  },
+  {
+    "knowledge_point": "同分异构现象与命名规则",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "有机化学基础",
+    "theme": "有机化学基础",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "掌握碳链异构、官能团位置异构、类别异构，能系统命名简单有机物（如戊烷同分异构体）。"
+  },
+  {
+    "knowledge_point": "卤代烃的取代与消除反应",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "有机化学基础",
+    "theme": "有机化学基础",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "探究1-溴丁烷的水解（NaOH水溶液）与消去反应（NaOH醇溶液）的条件差异。"
+  },
+  {
+    "knowledge_point": "酚的酸性与显色反应",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "有机化学基础",
+    "theme": "有机化学基础",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "实验验证苯酚的弱酸性（与NaOH反应）及与FeCl₃的显色反应。"
+  },
+  {
+    "knowledge_point": "醛基的氧化与还原反应",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "有机化学基础",
+    "theme": "有机化学基础",
+    "cultivated_abilities": "模型认知",
+    "content_description": "掌握醛基的银镜反应、斐林试剂反应，理解醛的氧化性（生成羧酸）和还原性（生成醇）。"
+  },
+  {
+    "knowledge_point": "羧酸衍生物的性质",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "有机化学基础",
+    "theme": "有机化学基础",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "分析酯、酰胺的水解反应条件，了解药物合成中羧酸衍生物的应用。"
+  },
+  {
+    "knowledge_point": "有机合成路线设计",
+    "knowledge_nature": "Selective Compulsory",
+    "subject": "Chemistry",
+    "category": "有机化学基础",
+    "theme": "有机化学基础",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "通过官能团转化（如醇→醛→羧酸）设计合成路径，评价路线的可行性与绿色化程度。"
+  },
+  {
+    "knowledge_point": "物质性质与反应规律探究实验",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "实验化学",
+    "theme": "实验化学",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "设计实验验证物质性质（如过氧化氢的催化分解）及反应规律（如浓度对速率的影响）。"
+  },
+  {
+    "knowledge_point": "物质的制备与纯化技术",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "实验化学",
+    "theme": "实验化学",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "掌握硫酸亚铁铵、乙酸乙酯等物质的合成与提纯方法（重结晶、蒸馏）。"
+  },
+  {
+    "knowledge_point": "现代仪器分析方法",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "实验化学",
+    "theme": "实验化学",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "学习红外光谱、质谱、核磁共振谱在有机物结构分析中的应用。"
+  },
+  {
+    "knowledge_point": "定量分析实验",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "实验化学",
+    "theme": "实验化学",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "通过酸碱滴定、氧化还原滴定测定物质含量（如食醋总酸量、补铁剂中铁含量）。"
+  },
+  {
+    "knowledge_point": "化工生产模拟实验",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "实验化学",
+    "theme": "实验化学",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "模拟工业合成氨、制硫酸等流程，分析温度、催化剂等条件的优化选择。"
+  },
+  {
+    "knowledge_point": "绿色化学实验设计",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "实验化学",
+    "theme": "实验化学",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "设计微型实验、无毒替代实验（如用双氧水替代浓盐酸制氯气），减少污染。"
+  },
+  {
+    "knowledge_point": "化学与健康",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "化学与社会",
+    "theme": "化学与社会",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "分析食品添加剂（防腐剂、色素）的安全性，讨论药物合成与合理用药（如阿司匹林）。"
+  },
+  {
+    "knowledge_point": "生活中的材料",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "化学与社会",
+    "theme": "化学与社会",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "探究陶瓷、玻璃、合成纤维（涤纶、尼龙）的化学成分与性能差异。"
+  },
+  {
+    "knowledge_point": "化学与环境保护",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "化学与社会",
+    "theme": "化学与社会",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "研究水体富营养化、大气雾霾的成因与化学治理技术（如脱硫脱硝工艺）。"
+  },
+  {
+    "knowledge_point": "化学能源的开发与利用",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "化学与社会",
+    "theme": "化学与社会",
+    "cultivated_abilities": "变化观念与平衡思想",
+    "content_description": "分析氢能、生物质能的转化原理，设计燃料电池模型实验。"
+  },
+  {
+    "knowledge_point": "化学与食品安全",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "化学与社会",
+    "theme": "化学与社会",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "检测食品中亚硝酸盐、重金属残留，讨论农药合理使用与农产品安全。"
+  },
+  {
+    "knowledge_point": "合成化学前沿",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "发展中的化学",
+    "theme": "发展中的化学",
+    "cultivated_abilities": "科学探究与创新意识",
+    "content_description": "探讨不对称催化、点击化学等新方法在药物合成中的应用。"
+  },
+  {
+    "knowledge_point": "功能材料的设计与开发",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "发展中的化学",
+    "theme": "发展中的化学",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "研究石墨烯、钙钛矿材料的结构特性及其在能源存储、光电器件中的潜力。"
+  },
+  {
+    "knowledge_point": "纳米材料与纳米技术",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "发展中的化学",
+    "theme": "发展中的化学",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "分析纳米颗粒的尺寸效应（如金纳米粒子颜色变化），讨论其在医学诊断中的应用。"
+  },
+  {
+    "knowledge_point": "化学动态学与超快过程",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "发展中的化学",
+    "theme": "发展中的化学",
+    "cultivated_abilities": "证据推理与模型认知",
+    "content_description": "了解飞秒化学技术研究反应过渡态，揭示化学键断裂与形成的瞬间过程。"
+  },
+  {
+    "knowledge_point": "绿色化学与可持续发展",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "发展中的化学",
+    "theme": "发展中的化学",
+    "cultivated_abilities": "科学态度与社会责任",
+    "content_description": "探索原子经济性反应、可降解塑料的合成，评价化学工业的生态友好性。"
+  },
+  {
+    "knowledge_point": "生命科学中的化学问题",
+    "knowledge_nature": "Elective",
+    "subject": "Chemistry",
+    "category": "发展中的化学",
+    "theme": "发展中的化学",
+    "cultivated_abilities": "宏观辨识与微观探析",
+    "content_description": "分析酶催化机制、DNA损伤与修复的化学本质，探讨化学在基因编辑中的作用。"
+  }
+]

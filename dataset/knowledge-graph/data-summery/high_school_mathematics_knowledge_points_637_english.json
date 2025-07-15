@@ -1,0 +1,659 @@
+[
+  {
+    "knowledge_point": "集合的概念与表示",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "集合",
+    "theme": "预备知识",
+    "cultivated_abilities": "数学抽象、逻辑推理",
+    "content_description": "集合的含义、元素与集合的属于关系（如 a∈A），集合的列举法与描述法（如 {x∥x>0}），空集与全集的引入。"
+  },
+  {
+    "knowledge_point": "集合的基本关系与运算",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "集合",
+    "theme": "预备知识",
+    "cultivated_abilities": "逻辑推理、数学运算",
+    "content_description": "集合的包含（子集、真子集）、相等关系，并集 A∪B、交集 A∩B、补集 ∁U​A 的定义与Venn图表示。"
+  },
+  {
+    "knowledge_point": "常用逻辑用语",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "常用逻辑用语",
+    "theme": "预备知识",
+    "cultivated_abilities": "逻辑推理、数学抽象",
+    "content_description": "命题的真假判断，充分条件、必要条件与充要条件（如“若 p 则 q”中 p 与 q 的逻辑关系），全称量词（∀）与存在量词（∃）。"
+  },
+  {
+    "knowledge_point": "不等式的基本性质",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "等与不等",
+    "theme": "预备知识",
+    "cultivated_abilities": "数学运算、逻辑推理",
+    "content_description": "等式与不等式的对称性、传递性、加减乘除性质（如 a>b⇒a+c>b+c），基本不等式 ab​≤2a+b​ 的推导与应用。"
+  },
+  {
+    "knowledge_point": "一元二次方程与不等式",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "等与不等",
+    "theme": "预备知识",
+    "cultivated_abilities": "数学建模、直观想象",
+    "content_description": "从函数视角分析一元二次方程 ax2+bx+c=0 的根与图象关系，结合二次函数图象解一元二次不等式（如 ax2+bx+c>0 的解集判断）。"
+  },
+  {
+    "knowledge_point": "方程与函数的联系",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "数学符号语言与表达规范",
+    "theme": "预备知识",
+    "cultivated_abilities": "数学抽象、数学建模",
+    "content_description": "用函数零点理解方程解的存在性（如介值定理），函数单调性对方程解唯一性的影响（如 f(x)=x3−3x+1 的根个数分析）。"
+  },
+  {
+    "knowledge_point": "命题的否定与逆否命题",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "等与不等",
+    "theme": "预备知识",
+    "cultivated_abilities": "逻辑推理、数学抽象",
+    "content_description": "命题的否定形式（如 ¬(∀x,P(x))≡∃x,¬P(x)），逆否命题的等价性（原命题与其逆否命题同真同假）。"
+  },
+  {
+    "knowledge_point": "数学符号语言与表达规范",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "数学符号语言与表达规范",
+    "theme": "预备知识",
+    "cultivated_abilities": "数学抽象、逻辑推理",
+    "content_description": "数学符号的正确书写（如 ⊆ 与 ⫋ 的区别），自然语言与符号语言的转换（如“至少有一个解”表达为 ∃x,f(x)=0）。"
+  },
+  {
+    "knowledge_point": "函数定义与三要素",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "函数概念与性质",
+    "theme": "函数",
+    "cultivated_abilities": "数学抽象、逻辑推理",
+    "content_description": "集合间的映射关系（定义域、值域、对应法则），强调输入与输出的唯一性。"
+  },
+  {
+    "knowledge_point": "函数的表示方法",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "函数概念与性质",
+    "theme": "函数",
+    "cultivated_abilities": "数学建模、直观想象",
+    "content_description": "解析式法、列表法、图象法及其相互转换（如用图象分析分段函数）。"
+  },
+  {
+    "knowledge_point": "分段函数及其应用",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "函数概念与性质",
+    "theme": "函数",
+    "cultivated_abilities": "数学建模、逻辑推理",
+    "content_description": "根据实际问题分段定义函数（如阶梯电价、出租车计费模型）。"
+  },
+  {
+    "knowledge_point": "函数单调性与极值",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "函数概念与性质",
+    "theme": "函数",
+    "cultivated_abilities": "逻辑推理、数学运算",
+    "content_description": "通过导数或图象判断单调性，求最大值/最小值（如利润优化问题）。"
+  },
+  {
+    "knowledge_point": "奇偶性与周期性",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "函数概念与性质",
+    "theme": "函数",
+    "cultivated_abilities": "数学抽象、直观想象",
+    "content_description": "对称性与循环规律的数学表达（如三角函数周期分析）。"
+  },
+  {
+    "knowledge_point": "幂函数图象与性质",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "幂函数、指数函数、对数函数",
+    "theme": "函数",
+    "cultivated_abilities": "直观想象、数学运算",
+    "content_description": "y=x、y=x2、y=x1​ 的图象特征及变化规律。"
+  },
+  {
+    "knowledge_point": "指数函数与对数函数",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "幂函数、指数函数、对数函数",
+    "theme": "函数",
+    "cultivated_abilities": "数学建模、数据分析",
+    "content_description": "指数增长/衰减模型（如人口增长）、对数函数与指数函数互为反函数的关系。"
+  },
+  {
+    "knowledge_point": "三角函数定义与恒等变换",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "三角函数",
+    "theme": "函数",
+    "cultivated_abilities": "数学运算、逻辑推理",
+    "content_description": "弧度制、单位圆定义、和差公式与二倍角公式（如简谐运动建模）。"
+  },
+  {
+    "knowledge_point": "二分法求方程近似解",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "函数概念与性质",
+    "theme": "函数",
+    "cultivated_abilities": "数学建模、逻辑推理",
+    "content_description": "利用函数零点定理逼近解（如 f(x)=lnx+x−2 的根）。"
+  },
+  {
+    "knowledge_point": "导数概念与几何意义",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "函数概念与性质",
+    "theme": "函数",
+    "cultivated_abilities": "直观想象、数学抽象",
+    "content_description": "瞬时变化率（如速度、边际成本）与切线斜率的关联。"
+  },
+  {
+    "knowledge_point": "导数运算规则",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "函数概念与性质",
+    "theme": "函数",
+    "cultivated_abilities": "数学运算、逻辑推理",
+    "content_description": "基本初等函数导数、四则运算及链式法则（如 y=e2x 的导数）。"
+  },
+  {
+    "knowledge_point": "导数在函数分析中的应用",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "函数应用",
+    "theme": "函数",
+    "cultivated_abilities": "逻辑推理、数学建模",
+    "content_description": "利用导数研究单调性、极值与最值（如成本最小化问题）。"
+  },
+  {
+    "knowledge_point": "定积分与面积计算",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "函数应用",
+    "theme": "函数",
+    "cultivated_abilities": "直观想象、数学运算",
+    "content_description": "微积分基本定理（如计算曲线下面积、旋转体体积）。"
+  },
+  {
+    "knowledge_point": "数列与函数关系",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "函数概念与性质",
+    "theme": "函数",
+    "cultivated_abilities": "逻辑推理、数学抽象",
+    "content_description": "数列作为特殊函数（如等差数列通项公式 an​=a1​+(n−1)d）。"
+  },
+  {
+    "knowledge_point": "极限的严格定义（ϵ−δ）",
+    "course_nature": "选修（A类）",
+    "subject": "Mathematics",
+    "category": "函数概念与性质",
+    "theme": "函数",
+    "cultivated_abilities": "逻辑推理、数学抽象",
+    "content_description": "数列与函数极限的数学语言表述，为连续性与微积分奠基。"
+  },
+  {
+    "knowledge_point": "泰勒展开初步",
+    "course_nature": "选修（A类）",
+    "subject": "Mathematics",
+    "category": "函数概念与性质",
+    "theme": "函数",
+    "cultivated_abilities": "数学运算、逻辑推理",
+    "content_description": "用多项式逼近复杂函数（如 ex≈1+x+2!x2​）。"
+  },
+  {
+    "knowledge_point": "二元函数偏导数与极值",
+    "course_nature": "选修（B类）",
+    "subject": "Mathematics",
+    "category": "函数应用",
+    "theme": "函数",
+    "cultivated_abilities": "数学建模、直观想象",
+    "content_description": "多变量函数极值分析（如生产成本最小化问题）。"
+  },
+  {
+    "knowledge_point": "经济模型中的积分应用",
+    "course_nature": "选修（B类）",
+    "subject": "Mathematics",
+    "category": "函数应用",
+    "theme": "函数",
+    "cultivated_abilities": "数学建模、数据分析",
+    "content_description": "计算总收益/成本（如定积分求解边际函数累积量）。"
+  },
+  {
+    "knowledge_point": "社会数学模型（人口增长）",
+    "course_nature": "选修（C类）",
+    "subject": "Mathematics",
+    "category": "函数应用",
+    "theme": "函数",
+    "cultivated_abilities": "数学建模、数据分析",
+    "content_description": "逻辑斯蒂模型分析人口承载力（如 P(t)=1+e−rtK​）。"
+  },
+  {
+    "knowledge_point": "多元微积分初步",
+    "course_nature": "选修（E类）",
+    "subject": "Mathematics",
+    "category": "函数应用",
+    "theme": "函数",
+    "cultivated_abilities": "直观想象、数学运算",
+    "content_description": "空间曲面与偏导数概念（如温度场分布分析）。"
+  },
+  {
+    "knowledge_point": "平面向量的概念与表示",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "平面向量及其应用",
+    "theme": "几何与代数",
+    "cultivated_abilities": "直观想象、数学抽象",
+    "content_description": "向量的几何表示（有向线段）、代数表示（坐标形式），向量模长的计算（如 ∥a∥=x2+y2​）。"
+  },
+  {
+    "knowledge_point": "向量的线性运算",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "平面向量及其应用",
+    "theme": "几何与代数",
+    "cultivated_abilities": "数学运算、逻辑推理",
+    "content_description": "向量加法（三角形/平行四边形法则）、减法、数乘运算的几何与代数表示（如 a+b=(x1​+x2​,y1​+y2​)）。"
+  },
+  {
+    "knowledge_point": "平面向量基本定理及坐标表示",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "平面向量及其应用",
+    "theme": "几何与代数",
+    "cultivated_abilities": "数学抽象、逻辑推理",
+    "content_description": "平面向量分解定理（任意向量可表示为基底线性组合），正交分解与坐标运算。"
+  },
+  {
+    "knowledge_point": "向量的数量积",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "平面向量及其应用",
+    "theme": "几何与代数",
+    "cultivated_abilities": "数学运算、直观想象",
+    "content_description": "点积的定义 a⋅b=∥a∥∥b∥cosθ，几何意义（投影）与代数计算。"
+  },
+  {
+    "knowledge_point": "复数及其几何表示",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "复数",
+    "theme": "几何与代数",
+    "cultivated_abilities": "数学抽象、直观想象",
+    "content_description": "复数的代数形式 a+bi、几何表示（复平面上的点/向量），模与共轭复数的计算。"
+  },
+  {
+    "knowledge_point": "复数的四则运算",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "复数",
+    "theme": "几何与代数",
+    "cultivated_abilities": "数学运算、逻辑推理",
+    "content_description": "复数的加减乘除运算（如 (a+bi)(c+di)=(ac−bd)+(ad+bc)i），几何意义（旋转与缩放）。"
+  },
+  {
+    "knowledge_point": "立体几何初步",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "立体几何初步",
+    "theme": "几何与代数",
+    "cultivated_abilities": "直观想象、逻辑推理",
+    "content_description": "空间点、直线、平面的位置关系（平行、相交、异面），空间几何体的三视图与直观图（斜二测法）。"
+  },
+  {
+    "knowledge_point": "空间向量与立体几何",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "立体几何初步",
+    "theme": "几何与代数",
+    "cultivated_abilities": "直观想象、数学运算",
+    "content_description": "空间直角坐标系中向量的坐标运算，用向量法证明线面平行、垂直（如法向量的应用）。"
+  },
+  {
+    "knowledge_point": "平面解析几何（直线与圆）",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "立体几何初步",
+    "theme": "几何与代数",
+    "cultivated_abilities": "数学建模、逻辑推理",
+    "content_description": "直线方程（点斜式、一般式）、圆的方程（标准式与一般式），直线与圆的位置关系（相交、相切、相离）。"
+  },
+  {
+    "knowledge_point": "圆锥曲线与方程",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "立体几何初步",
+    "theme": "几何与代数",
+    "cultivated_abilities": "直观想象、数学运算",
+    "content_description": "椭圆、双曲线、抛物线的定义、标准方程及几何性质（焦点、离心率），实际应用（如行星轨道、抛物线反射）。"
+  },
+  {
+    "knowledge_point": "空间向量代数",
+    "course_nature": "选修（A类）",
+    "subject": "Mathematics",
+    "category": "立体几何初步",
+    "theme": "几何与代数",
+    "cultivated_abilities": "数学运算、逻辑推理",
+    "content_description": "三维向量的内积、外积及其几何意义（如计算平面法向量 n=a×b）。"
+  },
+  {
+    "knowledge_point": "三阶矩阵与行列式",
+    "course_nature": "选修（A类）",
+    "subject": "Mathematics",
+    "category": "立体几何初步",
+    "theme": "几何与代数",
+    "cultivated_abilities": "数学抽象、数学运算",
+    "content_description": "矩阵的乘法、行列式的定义与性质（如克拉默法则解三元线性方程组）。"
+  },
+  {
+    "knowledge_point": "等距变换与对称图形",
+    "course_nature": "选修（D类）",
+    "subject": "Mathematics",
+    "category": "立体几何初步",
+    "theme": "几何与代数",
+    "cultivated_abilities": "直观想象、数学抽象",
+    "content_description": "平面/空间中的平移、旋转、反射变换的矩阵表示，对称图形分析（如晶体结构、艺术图案）。"
+  },
+  {
+    "knowledge_point": "几何体的表面积与体积计算",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "立体几何初步",
+    "theme": "几何与代数",
+    "cultivated_abilities": "数学运算、直观想象",
+    "content_description": "柱体、锥体、台体、球的表面积与体积公式（如 V球​=34​πr3）。"
+  },
+  {
+    "knowledge_point": "参数方程与极坐标",
+    "course_nature": "选修（B类）",
+    "subject": "Mathematics",
+    "category": "立体几何初步",
+    "theme": "几何与代数",
+    "cultivated_abilities": "数学建模、直观想象",
+    "content_description": "直线、圆的参数方程，极坐标与直角坐标的转换（如 x=ρcosθ,y=ρsinθ）。"
+  },
+  {
+    "knowledge_point": "几何证明与空间推理",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "立体几何初步",
+    "theme": "几何与代数",
+    "cultivated_abilities": "逻辑推理、直观想象",
+    "content_description": "利用公理化体系证明几何命题（如线面平行的判定定理）。"
+  },
+  {
+    "knowledge_point": "正交变换与二次曲面",
+    "course_nature": "选修（E类）",
+    "subject": "Mathematics",
+    "category": "立体几何初步",
+    "theme": "几何与代数",
+    "cultivated_abilities": "数学抽象、逻辑推理",
+    "content_description": "二次曲面的分类（椭球面、双曲面、抛物面），正交变换在工程中的应用（如三维坐标系变换）。"
+  },
+  {
+    "knowledge_point": "随机事件与概率",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "概率",
+    "theme": "概率与统计",
+    "cultivated_abilities": "逻辑推理、数据分析",
+    "content_description": "样本空间、随机事件的关系（并/交/互斥）、概率的基本性质（如 P(A∪B)=P(A)+P(B)−P(A∩B)）。"
+  },
+  {
+    "knowledge_point": "古典概型与几何概型",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "概率",
+    "theme": "概率与统计",
+    "cultivated_abilities": "数学运算、数学建模",
+    "content_description": "等可能性事件的概率计算（如掷骰子、抽牌问题），几何概型的面积/体积比例法（如随机落点问题）。"
+  },
+  {
+    "knowledge_point": "抽样方法与数据收集",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "概率",
+    "theme": "概率与统计",
+    "cultivated_abilities": "数据分析、数学建模",
+    "content_description": "简单随机抽样、分层抽样（如按性别分层）、系统抽样的操作与适用场景，数据收集的途径（问卷、实验、数据库）。"
+  },
+  {
+    "knowledge_point": "统计图表与数据可视化",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "统计",
+    "theme": "概率与统计",
+    "cultivated_abilities": "直观想象、数据分析",
+    "content_description": "频数分布表、直方图、折线图、扇形图的绘制与分析，合理选择图表类型展示数据特征。"
+  },
+  {
+    "knowledge_point": "用样本估计总体",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "统计",
+    "theme": "概率与统计",
+    "cultivated_abilities": "数据分析、逻辑推理",
+    "content_description": "样本均值、方差、标准差的计算，百分位数的意义（如中位数、四分位数），总体分布的估计（如频率分布直方图）。"
+  },
+  {
+    "knowledge_point": "随机事件的独立性",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "概率",
+    "theme": "概率与统计",
+    "cultivated_abilities": "逻辑推理、数学运算",
+    "content_description": "独立事件的乘法公式（如 P(A∩B)=P(A)P(B)），实际应用（如电路并联/串联的可靠性）。"
+  },
+  {
+    "knowledge_point": "计数原理与排列组合",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "统计",
+    "theme": "概率与统计",
+    "cultivated_abilities": "数学抽象、逻辑推理",
+    "content_description": "分类加法与分步乘法原理，排列数 Anm​、组合数 Cnm​ 的计算及应用（如赛事安排、密码组合）。"
+  },
+  {
+    "knowledge_point": "二项分布与超几何分布",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "统计",
+    "theme": "概率与统计",
+    "cultivated_abilities": "数学建模、数据分析",
+    "content_description": "二项分布 X∼B(n,p) 的概率计算（如重复试验中的成功次数），超几何分布的应用（如不放回抽样中的次品数）。"
+  },
+  {
+    "knowledge_point": "正态分布及其应用",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "统计",
+    "theme": "概率与统计",
+    "cultivated_abilities": "直观想象、数学建模",
+    "content_description": "正态曲线的对称性、均值与标准差的意义，实际应用（如产品质量控制、身高分布分析）。"
+  },
+  {
+    "knowledge_point": "一元线性回归模型",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "统计",
+    "theme": "概率与统计",
+    "cultivated_abilities": "数学建模、数据分析",
+    "content_description": "最小二乘法求回归方程 y^​=a+bx，相关系数 r 的意义与计算（如身高与体重的相关性）。"
+  },
+  {
+    "knowledge_point": "独立性检验（2×2 列联表）",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "统计",
+    "theme": "概率与统计",
+    "cultivated_abilities": "逻辑推理、数据分析",
+    "content_description": "卡方检验 χ2 的计算与临界值比较，判断变量独立性（如吸烟与肺癌的关联性）。"
+  },
+  {
+    "knowledge_point": "连续型随机变量与分布",
+    "course_nature": "选修（A类）",
+    "subject": "Mathematics",
+    "category": "统计",
+    "theme": "概率与统计",
+    "cultivated_abilities": "数学抽象、逻辑推理",
+    "content_description": "均匀分布、正态分布、指数分布的概率密度函数与期望/方差计算（如设备寿命的指数分布模型）。"
+  },
+  {
+    "knowledge_point": "参数估计与假设检验",
+    "course_nature": "选修（B类）",
+    "subject": "Mathematics",
+    "category": "统计",
+    "theme": "概率与统计",
+    "cultivated_abilities": "数学建模、逻辑推理",
+    "content_description": "矩估计与极大似然估计的原理，正态总体均值/方差的假设检验（如检验生产线是否达标）。"
+  },
+  {
+    "knowledge_point": "多元统计分析",
+    "course_nature": "选修（E类）",
+    "subject": "Mathematics",
+    "category": "统计",
+    "theme": "概率与统计",
+    "cultivated_abilities": "数据分析、数学建模",
+    "content_description": "聚类分析（如客户分群）、主成分分析（PCA）的降维思想，正交试验设计优化参数（如农业试验中的施肥量组合）。"
+  },
+  {
+    "knowledge_point": "贝叶斯公式与全概率公式",
+    "course_nature": "选修（A类）",
+    "subject": "Mathematics",
+    "category": "概率",
+    "theme": "概率与统计",
+    "cultivated_abilities": "逻辑推理、数学抽象",
+    "content_description": "全概率公式 P(B)=∑P(Ai​)P(B∥Ai​)，贝叶斯公式 P(Aj​∥B)=∑P(Ai​)P(B∥Ai​)P(Aj​)P(B∥Aj​)​ 的应用。"
+  },
+  {
+    "knowledge_point": "概率与统计的数学文化",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "概率",
+    "theme": "概率与统计",
+    "cultivated_abilities": "数学抽象、科学精神",
+    "content_description": "概率论的发展史（如帕斯卡与费马的通信），统计思想在社会科学中的应用（如人口普查、民意调查）。"
+  },
+  {
+    "knowledge_point": "数学建模的基本过程",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "数学建模活动与数学探究活动",
+    "theme": "拓展",
+    "cultivated_abilities": "数学建模、问题解决",
+    "content_description": "六步法：​​实际问题抽象→提出假设→建立模型→求解模型→检验结果→改进模型​​（如人口增长、交通流量预测）。"
+  },
+  {
+    "knowledge_point": "选题与问题抽象",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "数学建模活动与数学探究活动",
+    "theme": "拓展",
+    "cultivated_abilities": "数学抽象、创新思维",
+    "content_description": "从现实情境（如环保、经济、工程）中提取数学问题，明确变量关系（如碳排放与工业产值的关联性）。"
+  },
+  {
+    "knowledge_point": "数据收集与处理",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "数学建模活动与数学探究活动",
+    "theme": "拓展",
+    "cultivated_abilities": "数据分析、信息技术应用",
+    "content_description": "通过调查、实验或公开数据库获取数据，清洗异常值，规范数据格式（如Excel/编程工具处理）。"
+  },
+  {
+    "knowledge_point": "模型构建方法",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "数学建模活动与数学探究活动",
+    "theme": "拓展",
+    "cultivated_abilities": "数学建模、逻辑推理",
+    "content_description": "根据问题类型选择模型：\n- ​​函数模型​​（如指数增长模型 y=aebx）\n- ​​统计模型​​（如线性回归模型 y=kx+b）\n- ​​几何模型​​（如最短路径优化）。"
+  },
+  {
+    "knowledge_point": "模型求解与算法设计",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "数学建模活动与数学探究活动",
+    "theme": "拓展",
+    "cultivated_abilities": "数学运算、算法思维",
+    "content_description": "利用数学工具（如导数求极值）、编程语言（Python/R）或计算软件（MATLAB）求解模型参数。"
+  },
+  {
+    "knowledge_point": "模型验证与优化",
+    "course_nature": "Selective Compulsory",
+    "subject": "Mathematics",
+    "category": "数学建模活动与数学探究活动",
+    "theme": "拓展",
+    "cultivated_abilities": "批判性思维、数据分析",
+    "content_description": "通过残差分析、误差计算（如均方误差MSE）验证模型可靠性，调整参数或改进模型结构（如引入二次项优化线性模型）。"
+  },
+  {
+    "knowledge_point": "数学探究活动的设计",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "数学建模活动与数学探究活动",
+    "theme": "拓展",
+    "cultivated_abilities": "创新思维、逻辑推理",
+    "content_description": "围绕数学问题（如数列规律、几何定理推广）开展自主探究，设计实验或猜想→证明→拓展的全过程（如费马大定理的猜想与证明思路）。"
+  },
+  {
+    "knowledge_point": "跨学科建模案例",
+    "course_nature": "选修（E类）",
+    "subject": "Mathematics",
+    "category": "数学建模活动与数学探究活动",
+    "theme": "拓展",
+    "cultivated_abilities": "综合应用、跨学科思维",
+    "content_description": "整合多学科知识解决复杂问题：\n- ​​物理建模​​（如弹簧振动模型）\n- ​​生物建模​​（如种群竞争模型）\n- ​​经济建模​​（如供需关系模型）。"
+  },
+  {
+    "knowledge_point": "数学建模论文撰写",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "数学建模活动与数学探究活动",
+    "theme": "拓展",
+    "cultivated_abilities": "学术规范、逻辑表达",
+    "content_description": "规范结构：​​摘要→问题分析→模型假设→求解过程→结果分析→结论与展望​​，注重图表可视化（如数据热力图、模型拟合曲线）。"
+  },
+  {
+    "knowledge_point": "信息技术工具应用",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "数学建模活动与数学探究活动",
+    "theme": "拓展",
+    "cultivated_abilities": "信息技术应用、实践能力",
+    "content_description": "使用工具辅助建模：\n- ​​计算工具​​（GeoGebra绘制函数图象）\n- ​​编程工具​​（Python的NumPy/Pandas库处理数据）\n- ​​仿真软件​​（如Anylogic模拟系统行为）。"
+  },
+  {
+    "knowledge_point": "团队协作与项目管理",
+    "course_nature": "Compulsory",
+    "subject": "Mathematics",
+    "category": "数学建模活动与数学探究活动",
+    "theme": "拓展",
+    "cultivated_abilities": "合作交流、项目管理能力",
+    "content_description": "分工合作（数据收集、模型构建、报告撰写），制定时间表，定期汇报进展（如模拟学术会议答辩）。"
+  },
+  {
+    "knowledge_point": "数学建模竞赛与评价标准",
+    "course_nature": "选修（E类）",
+    "subject": "Mathematics",
+    "category": "数学建模活动与数学探究活动",
+    "theme": "拓展",
+    "cultivated_abilities": "竞争意识、综合素养",
+    "content_description": "了解国内外竞赛（如全国大学生数学建模竞赛、HiMCM）评分标准，学习优秀论文的建模逻辑与表达技巧。"
+  }
+]

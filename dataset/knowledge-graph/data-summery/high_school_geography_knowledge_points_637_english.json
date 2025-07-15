@@ -1,0 +1,1505 @@
+[
+  {
+    "knowledge_point": "地球的宇宙环境",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "宇宙环境与太阳影响",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "运用资料描述地球在太阳系中的位置及宇宙环境，分析太阳辐射、太阳活动对地球气候、磁场和极光等现象的影响。"
+  },
+  {
+    "knowledge_point": "地球圈层结构",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "内部结构与物质组成",
+    "cultivated_abilities": "综合思维、地理实践力",
+    "content_description": "通过示意图说明地球内部圈层（地壳、地幔、地核）和外部圈层（大气圈、水圈、生物圈）的划分依据及相互作用。"
+  },
+  {
+    "knowledge_point": "岩石圈物质循环",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "岩石与地质作用",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "运用岩石循环示意图解释岩浆岩、沉积岩、变质岩的转化过程，说明板块运动对地表形态的塑造作用。"
+  },
+  {
+    "knowledge_point": "地质年代与地球演化",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "地球历史",
+    "cultivated_abilities": "综合思维、人地协调观",
+    "content_description": "结合地质年代表，描述地球从冥古宙到新生代的演化阶段，列举各时期生物演化、大气成分变化及典型地质事件（如恐龙灭绝）。"
+  },
+  {
+    "knowledge_point": "地貌类型与景观特征",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "地表形态",
+    "cultivated_abilities": "地理实践力、区域认知",
+    "content_description": "通过野外观察或影像资料识别河流地貌（冲积平原、三角洲）、风沙地貌（沙丘、雅丹）、海岸地貌（海蚀崖、沙滩）等，描述其形成过程及人类利用方式。"
+  },
+  {
+    "knowledge_point": "大气组成与垂直分层",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "大气环境",
+    "cultivated_abilities": "综合思维、人地协调观",
+    "content_description": "分析大气成分（氮、氧、二氧化碳等）的作用，说明对流层、平流层、高层大气的温度变化特征及其与人类活动（航空、臭氧层）的关联。"
+  },
+  {
+    "knowledge_point": "大气受热过程与热力环流",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "大气运动",
+    "cultivated_abilities": "综合思维、地理实践力",
+    "content_description": "运用示意图解释太阳辐射、地面辐射和大气逆辐射的关系，模拟热力环流（如海陆风、山谷风）的形成原理及其对天气的影响。"
+  },
+  {
+    "knowledge_point": "水循环与地理意义",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "水文过程",
+    "cultivated_abilities": "综合思维、人地协调观",
+    "content_description": "绘制水循环示意图，描述蒸发、降水、径流等环节的时空分布规律，说明水循环对气候调节、地貌塑造和陆地水资源更新的意义。"
+  },
+  {
+    "knowledge_point": "海水性质与运动",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "海洋环境",
+    "cultivated_abilities": "区域认知、地理实践力",
+    "content_description": "分析海水温度、盐度的垂直变化规律，结合洋流分布图说明风海流、密度流的成因及其对沿岸气候（如暖流增湿）和航运的影响。"
+  },
+  {
+    "knowledge_point": "土壤形成因素",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "土壤与生物",
+    "cultivated_abilities": "地理实践力、综合思维",
+    "content_description": "通过土壤剖面观察，说明成土母质、气候、生物、地形和时间对土壤质地（砂土、黏土）、颜色和肥力的影响。"
+  },
+  {
+    "knowledge_point": "植被与自然环境关系",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "生物与环境",
+    "cultivated_abilities": "区域认知、人地协调观",
+    "content_description": "结合区域气候特征（如热带雨林、荒漠植被），分析光照、热量、水分条件对植被类型（乔木、灌木）和垂直分层结构的制约作用。"
+  },
+  {
+    "knowledge_point": "自然灾害成因与防灾措施",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "灾害与应对",
+    "cultivated_abilities": "综合思维、地理实践力",
+    "content_description": "以地震、火山、洪涝为例，说明地球内外力作用引发的灾害链，设计避灾路线和应急物资储备方案。"
+  },
+  {
+    "knowledge_point": "地球的宇宙环境",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球科学基础",
+    "theme": "地球与太阳系",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "描述地球在太阳系中的位置，太阳辐射对地球气候、生命的影响，昼夜与四季成因。"
+  },
+  {
+    "knowledge_point": "地球圈层结构",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地球内部系统",
+    "theme": "岩石圈-大气圈-水圈",
+    "cultivated_abilities": "综合思维",
+    "content_description": "分析地壳、地幔、地核的分层结构，各圈层相互作用（如火山活动影响大气成分）。"
+  },
+  {
+    "knowledge_point": "地貌类型与形成",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地表形态",
+    "theme": "内外力作用",
+    "cultivated_abilities": "区域认知、实践力",
+    "content_description": "识别流水地貌（河谷）、风成地貌（沙丘）、冰川地貌（U型谷）的形态及形成机制。"
+  },
+  {
+    "knowledge_point": "大气受热与热力环流",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "大气系统",
+    "theme": "能量交换",
+    "cultivated_abilities": "综合思维",
+    "content_description": "分析太阳辐射-地面辐射-大气逆辐射的传递过程，解释城市热岛效应、海陆风成因。"
+  },
+  {
+    "knowledge_point": "水循环与水资源",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "水系统",
+    "theme": "物质循环",
+    "cultivated_abilities": "人地协调观",
+    "content_description": "描述蒸发-降水-径流过程，分析人类活动（水库、灌溉）对水循环的干扰。"
+  },
+  {
+    "knowledge_point": "土壤形成因素",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "土壤系统",
+    "theme": "生物-气候-地形作用",
+    "cultivated_abilities": "综合思维、实践力",
+    "content_description": "分析成土母质、生物、气候、时间对土壤性质（肥力、颜色）的影响。"
+  },
+  {
+    "knowledge_point": "植被与自然环境关系",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "生态系统",
+    "theme": "植被分异",
+    "cultivated_abilities": "区域认知",
+    "content_description": "对比热带雨林（高温多雨）、荒漠植被（耐旱）对气候的适应性特征。"
+  },
+  {
+    "knowledge_point": "自然灾害（地质、气象）",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "灾害系统",
+    "theme": "成因与防御",
+    "cultivated_abilities": "人地协调观、实践力",
+    "content_description": "分析地震（板块活动）、台风（热带气旋）的成因，设计防灾减灾措施。"
+  },
+  {
+    "knowledge_point": "人口分布特点及影响因素",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人口",
+    "theme": "人口分布",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "运用资料描述全球及中国人口分布特点，分析自然（气候、地形、水源）和社会经济（经济、交通、政策）因素对人口分布的影响。"
+  },
+  {
+    "knowledge_point": "人口迁移的驱动因素",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人口",
+    "theme": "人口迁移",
+    "cultivated_abilities": "人地协调观、综合思维",
+    "content_description": "结合实例（如农民工迁移、国际移民），解释人口迁移的推拉力因素（经济差异、战争、环境变化），分析迁移对迁出地与迁入地的影响。"
+  },
+  {
+    "knowledge_point": "资源环境承载力与人口合理容量",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人口",
+    "theme": "人口容量",
+    "cultivated_abilities": "人地协调观",
+    "content_description": "通过案例（如干旱区绿洲），说明资源环境承载力的概念及影响因素（资源、科技、消费水平），探讨人口合理容量的现实意义。"
+  },
+  {
+    "knowledge_point": "城乡内部空间结构",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "聚落",
+    "theme": "城乡空间",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "结合城市功能分区（商业区、住宅区、工业区）和乡村聚落形态（团状、带状），分析土地利用方式、地价、交通对空间结构的塑造作用。"
+  },
+  {
+    "knowledge_point": "地域文化与城乡景观",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "聚落",
+    "theme": "文化景观",
+    "cultivated_abilities": "区域认知、人地协调观",
+    "content_description": "举例说明地域文化（如四合院、客家土楼）在城乡建筑风格、布局中的体现，分析自然与人文因素对景观形成的影响。"
+  },
+  {
+    "knowledge_point": "城镇化进程及问题",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "聚落",
+    "theme": "城镇化",
+    "cultivated_abilities": "综合思维、人地协调观",
+    "content_description": "对比不同国家城镇化阶段（初期、加速、后期），分析发展中国家“过度城镇化”问题（贫民窟、污染），探讨可持续发展的解决措施。"
+  },
+  {
+    "knowledge_point": "聚落与自然环境关系",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "聚落",
+    "theme": "人地关系",
+    "cultivated_abilities": "人地协调观、区域认知",
+    "content_description": "分析聚落选址（如河谷、高地）与地形、水源、灾害（洪水、滑坡）的关系，理解趋利避害的适应性策略。"
+  },
+  {
+    "knowledge_point": "农业区位因素",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人文地理",
+    "theme": "产业区位",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "结合实例分析自然因素（气候、地形、土壤、水源）和社会经济因素（市场、交通、政策、科技）对农业布局的影响。"
+  },
+  {
+    "knowledge_point": "工业区位因素",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人文地理",
+    "theme": "产业区位",
+    "cultivated_abilities": "综合思维、地理实践力",
+    "content_description": "通过案例（如钢铁、电子工业）说明原料、能源、劳动力、市场、交通、科技、环境等对工业区位选择的影响。"
+  },
+  {
+    "knowledge_point": "服务业区位因素",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人文地理",
+    "theme": "产业区位",
+    "cultivated_abilities": "区域认知、人地协调观",
+    "content_description": "分析商业、金融、物流等服务业布局与人口密度、消费水平、交通网络、信息技术的关系。"
+  },
+  {
+    "knowledge_point": "交通运输对区域发展的影响",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人文地理",
+    "theme": "区域经济",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "结合“一带一路”等案例，说明交通布局对产业集聚、区域联系、经济发展的促进作用。"
+  },
+  {
+    "knowledge_point": "区域发展战略与产业布局",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人文地理",
+    "theme": "国家战略",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "结合京津冀协同发展、长江经济带等案例，说明国家战略对区域产业分工、协作的影响。"
+  },
+  {
+    "knowledge_point": "地域文化在城乡景观中的体现",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "必修（地理2）",
+    "theme": "人文地理与地域文化",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "结合实例（如传统民居、聚落形态），说明地域文化（如生活习惯、宗教信仰）对城乡景观的影响，理解文化传承与地理环境的关系。"
+  },
+  {
+    "knowledge_point": "区域的定义与类型",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域认知",
+    "theme": "区域基本概念",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "结合实例说明区域的含义（自然区、经济区、文化区等），分析区域划分的依据（自然要素、人文要素）。"
+  },
+  {
+    "knowledge_point": "区域特征的描述方法",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域分析",
+    "theme": "区域特征分析",
+    "cultivated_abilities": "综合思维、地理实践力",
+    "content_description": "通过地图、图表等工具，描述区域自然（地形、气候）和人文（人口、产业）特征，总结区域整体性特点。"
+  },
+  {
+    "knowledge_point": "区域文化特征",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人文地理",
+    "theme": "地域文化与景观",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "结合实例（如江南水乡、黄土窑洞），说明地域文化在城乡景观、建筑风格、生活方式中的体现。"
+  },
+  {
+    "knowledge_point": "​​区域发展差异与协调​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人文地理",
+    "theme": "区域平衡发展",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "- 问题：东西部经济差距、城乡发展不平衡。\n- 治理措施：政策扶持（如西部大开发）、基础设施建设、对口支援机制。"
+  },
+  {
+    "knowledge_point": "​​区域可持续发展路径​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "环境与发展",
+    "theme": "人地协调",
+    "cultivated_abilities": "人地协调观、地理实践力",
+    "content_description": "- 核心原则：经济效益、生态效益、社会效益统一。\n- 实践路径：循环经济、生态农业、绿色城镇化。\n- 案例：浙江安吉“绿水青山就是金山银山”实践。"
+  },
+  {
+    "knowledge_point": "经济全球化的地理影响",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人文地理",
+    "theme": "全球化与区域发展",
+    "cultivated_abilities": "​​区域认知、综合思维​​",
+    "content_description": "分析全球化背景下产业转移（如制造业向发展中国家迁移）、跨国公司布局（区域总部与生产基地分离）对区域经济发展的影响，探讨技术、资本、劳动力等要素的全球流动如何重塑世界经济地理格局。"
+  },
+  {
+    "knowledge_point": "文化全球化与地方响应",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人文地理",
+    "theme": "文化扩散与地方认同",
+    "cultivated_abilities": "​​区域认知、综合思维​​",
+    "content_description": "以跨国品牌、流行文化传播为例，说明文化全球化的表现及其对地方文化（如饮食、语言）的冲击，分析地方采取的响应策略（文化保护政策、本土化创新），探讨全球化与地方特色的共存与冲突。"
+  },
+  {
+    "knowledge_point": "主要环境问题及成因",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "环境问题",
+    "theme": "环境问题分类与影响",
+    "cultivated_abilities": "人地协调观、综合思维",
+    "content_description": "结合实例说明人类活动导致的环境问题（如大气污染、水污染、土地退化、生物多样性减少等），分析其成因及对生态系统和人类社会的危害。"
+  },
+  {
+    "knowledge_point": "人地关系协调路径",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "可持续发展",
+    "theme": "可持续发展理论",
+    "cultivated_abilities": "人地协调观、区域认知",
+    "content_description": "阐述可持续发展的内涵（经济、社会、生态协调），提出解决环境问题的措施（如清洁能源、循环经济、生态修复），并解释其科学性和必要性。"
+  },
+  {
+    "knowledge_point": "自然地理观察与记录",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然地理实践",
+    "theme": "地貌识别",
+    "cultivated_abilities": "观察能力、描述能力",
+    "content_description": "通过野外观察或视频图像识别3-4种地貌（如喀斯特、冲积平原），描述其形态特征及形成条件。"
+  },
+  {
+    "knowledge_point": "实验设计与模拟",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然地理实践",
+    "theme": "水循环模拟",
+    "cultivated_abilities": "实验设计、数据分析能力",
+    "content_description": "设计模拟实验（如水土流失实验），观察并记录水循环过程，分析人类活动对水循环的影响。"
+  },
+  {
+    "knowledge_point": "社会调查与分析",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人文地理实践",
+    "theme": "人口与城镇化",
+    "cultivated_abilities": "数据收集、问题分析能力",
+    "content_description": "调查本地人口分布或城镇化现状，分析影响因素（如政策、经济），提出改进建议。"
+  },
+  {
+    "knowledge_point": "地理工具应用",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践",
+    "theme": "地图与遥感",
+    "cultivated_abilities": "工具使用、空间分析能力",
+    "content_description": "使用遥感影像或电子地图（如Google Earth）分析土地利用变化，绘制简单区域分布图。"
+  },
+  {
+    "knowledge_point": "土壤与植被调查",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然地理实践",
+    "theme": "自然环境要素分析",
+    "cultivated_abilities": "样本分析、分类能力",
+    "content_description": "采集土壤样本并检测pH值、含水量，观察植被类型与分布，分析其与气候、地形的关联性。"
+  },
+  {
+    "knowledge_point": "​​国家主权的内涵​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "政治地理",
+    "theme": "国家主权",
+    "cultivated_abilities": "区域认知、人地协调观",
+    "content_description": "- 国家主权是国家独立处理内外事务的最高权力，包括领土主权、领海主权、领空主权。\n- 领土主权是国家主权的重要组成部分，涵盖陆地、内水、领海及其底土、上空。"
+  },
+  {
+    "knowledge_point": "​​海洋权益的构成​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "必修地理2",
+    "theme": "海洋发展战略",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "- 海洋权益包括主权权利、管辖权、资源开发权、科学研究权等。\n- 根据《联合国海洋法公约》，海洋权益划分为：\n- ​​内水、领海​​（完全主权）；\n- ​​毗连区​​（部分管辖权）；\n- ​​专属经济区​​（资源开发权）；\n- ​​大陆架​​（自然资源主权权利）。"
+  },
+  {
+    "knowledge_point": "​​中国领海与主权主张​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "必修地理2",
+    "theme": "国家海洋权益",
+    "cultivated_abilities": "区域认知、人地协调观",
+    "content_description": "- 中国领海宽度为12海里，管辖海域包括渤海、黄海、东海、南海。\n- ​​南海诸岛、钓鱼岛及其附属岛屿​​是中国固有领土，主权依据包括历史证据、地理事实和国际法（《开罗宣言》《波茨坦公告》）。"
+  },
+  {
+    "knowledge_point": "​​国家版图意识教育​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "必修地理2",
+    "theme": "国家主权教育",
+    "cultivated_abilities": "区域认知、家国情怀",
+    "content_description": "- 国家版图是行使主权的疆域，包括领土、领海、领空。\n- 强化地图使用规范，抵制错误地图（如缺失南海九段线、台湾省标注错误）。\n- 案例：钓鱼岛、黄岩岛等标注体现国家主权完整性。"
+  },
+  {
+    "knowledge_point": "国家海洋权益与海洋发展战略",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "国家安全",
+    "theme": "海洋权益与主权",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "结合实例说明国家海洋权益的内涵（如领海、专属经济区等）及海洋发展战略（如建设海洋强国），理解维护海洋权益对国家资源开发、经济发展和安全的重要意义。"
+  },
+  {
+    "knowledge_point": "领土主权与区域争端",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "国家安全",
+    "theme": "领土主权",
+    "cultivated_abilities": "区域认知、人地协调观",
+    "content_description": "通过南海诸岛、钓鱼岛及其附属岛屿的案例分析，说明中国对其拥有无可争辩的主权，理解领土完整对国家安全的根本意义。"
+  },
+  {
+    "knowledge_point": "岩石圈物质循环",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地质过程",
+    "theme": "岩石循环",
+    "cultivated_abilities": "综合思维、地理实践力",
+    "content_description": "说明岩浆岩、沉积岩、变质岩的转化过程，结合板块运动解释地貌形成。"
+  },
+  {
+    "knowledge_point": "全球气压带与风带",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "气候系统",
+    "theme": "大气环流",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "绘制三圈环流模型，解释热带雨林气候、地中海气候的成因与分布规律。"
+  },
+  {
+    "knowledge_point": "洋流分布与影响",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "海洋系统",
+    "theme": "洋流运动",
+    "cultivated_abilities": "区域认知",
+    "content_description": "运用洋流模式图解释渔场分布（如秘鲁寒流）、气候影响（如西欧温带海洋性气候）。"
+  },
+  {
+    "knowledge_point": "自然地理整体性",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "综合规律",
+    "theme": "要素关联",
+    "cultivated_abilities": "综合思维",
+    "content_description": "以黄土高原为例，说明水土流失对地貌、水文、植被、土壤的连锁影响。"
+  },
+  {
+    "knowledge_point": "地域分异规律",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "空间分异",
+    "theme": "纬度地带性-垂直地带性",
+    "cultivated_abilities": "区域认知",
+    "content_description": "对比赤道到两极的植被变化（森林-草原-荒漠）、山地垂直自然带谱差异。"
+  },
+  {
+    "knowledge_point": "城乡规划与可持续发展",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "聚落",
+    "theme": "城乡规划",
+    "cultivated_abilities": "地理实践力、综合思维",
+    "content_description": "设计城乡土地利用方案（如生态城市、新农村建设），评价交通、产业布局对居民生活、环境的影响，强调保护传统文化景观。"
+  },
+  {
+    "knowledge_point": "人口政策与区域发展",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "人口",
+    "theme": "人口政策",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "结合中国“全面二孩”政策、人才引进计划，探讨人口数量、质量变化对区域经济、资源环境的长期影响。"
+  },
+  {
+    "knowledge_point": "区域产业结构变化",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域发展",
+    "theme": "区域经济",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "以某地区为例，分析产业结构从农业→工业→服务业的演变过程及原因（资源、技术、政策等）。"
+  },
+  {
+    "knowledge_point": "产业转移与区域发展",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域发展",
+    "theme": "区域经济",
+    "cultivated_abilities": "人地协调观、综合思维",
+    "content_description": "解释产业转移（如劳动密集型产业向东南亚转移）对转出区和承接区经济、环境、社会的影响。"
+  },
+  {
+    "knowledge_point": "资源跨区域调配",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域发展",
+    "theme": "区域经济",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "以西气东输、南水北调为例，分析资源调配对区域资源平衡、经济发展的意义及潜在问题。"
+  },
+  {
+    "knowledge_point": "区域可持续发展路径",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域发展",
+    "theme": "区域经济",
+    "cultivated_abilities": "人地协调观、地理实践力",
+    "content_description": "以生态脆弱区（如黄土高原）或资源枯竭型城市（如阜新）为例，提出产业转型、生态修复的具体措施。"
+  },
+  {
+    "knowledge_point": "旅游资源的分类与价值",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修（旅游地理）",
+    "theme": "旅游资源评价",
+    "cultivated_abilities": "综合思维、地理实践力",
+    "content_description": "描述自然旅游资源（如地貌、气候）与人文旅游资源（如遗址、节庆）的分类标准，分析某一旅游资源的历史文化价值、美学价值和经济价值。"
+  },
+  {
+    "knowledge_point": "旅游开发条件评价",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修（旅游地理）",
+    "theme": "旅游资源开发",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "从资源价值、地理位置、交通条件、客源市场、基础设施等方面评价某区域旅游资源的开发条件（如云南丽江、福建土楼），分析其开发潜力与限制因素。"
+  },
+  {
+    "knowledge_point": "旅游对区域发展的影响",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修（旅游地理）",
+    "theme": "旅游业与可持续发展",
+    "cultivated_abilities": "人地协调观、综合思维",
+    "content_description": "举例说明旅游业对区域经济（如就业、收入）、社会文化（如文化传播、传统保护）和生态环境（如资源消耗、污染）的积极与消极影响，提出可持续发展对策。"
+  },
+  {
+    "knowledge_point": "旅游线路设计",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修（旅游地理）",
+    "theme": "旅游规划与实践",
+    "cultivated_abilities": "地理实践力、区域认知",
+    "content_description": "根据时间、预算、兴趣等因素，设计合理的旅游线路（如“丝绸之路”文化游），分析交通方式、景点串联、安全保障的合理性，体现时空综合思维。"
+  },
+  {
+    "knowledge_point": "区域差异的成因",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域差异",
+    "theme": "区域发展差异",
+    "cultivated_abilities": "综合思维、人地协调观",
+    "content_description": "从自然（资源禀赋、地理位置）和人文（经济水平、政策）角度分析区域差异的成因（如东西部发展差异）。"
+  },
+  {
+    "knowledge_point": "区域比较方法",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域分析",
+    "theme": "区域关联与比较",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "运用比较法分析不同区域的自然环境、产业结构、文化习俗的异同（如长江三角洲与珠江三角洲）。"
+  },
+  {
+    "knowledge_point": "区域发展阶段与问题",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域发展",
+    "theme": "区域演化规律",
+    "cultivated_abilities": "综合思维、人地协调观",
+    "content_description": "结合案例（如资源型城市转型），说明区域发展的阶段性特征（初期、成长、衰退）及面临的问题（生态破坏、经济衰退）。"
+  },
+  {
+    "knowledge_point": "区域协调发展",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域政策",
+    "theme": "区域协作与治理",
+    "cultivated_abilities": "人地协调观、综合思维",
+    "content_description": "分析产业转移、资源跨区域调配（如南水北调）对区域协调发展的意义，探讨区域协作机制（如京津冀协同发展）。"
+  },
+  {
+    "knowledge_point": "生态脆弱区的特征与治理",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域生态",
+    "theme": "区域可持续发展",
+    "cultivated_abilities": "人地协调观、地理实践力",
+    "content_description": "以西北荒漠化或西南石漠化为例，说明生态脆弱区的环境特征，提出综合治理措施（退耕还林、生态移民）。"
+  },
+  {
+    "knowledge_point": "大都市区的辐射功能",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "城市与区域",
+    "theme": "区域空间组织",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "以上海、纽约为例，分析大都市对周边区域的辐射作用（技术扩散、产业转移、交通网络），说明区域空间组织模式。"
+  },
+  {
+    "knowledge_point": "区域差异对国家安全的影响",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域安全",
+    "theme": "资源环境与国家安全",
+    "cultivated_abilities": "人地协调观、综合思维",
+    "content_description": "分析资源分布不均（如能源、粮食）对国家安全的影响，提出保障策略（如战略储备、国际合作）。"
+  },
+  {
+    "knowledge_point": "国际合作的重要意义（以“一带一路”为例）",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域发展",
+    "theme": "国际合作与区域发展",
+    "cultivated_abilities": "​​综合思维、区域认知、人地协调观​​",
+    "content_description": "结合“一带一路”建设，分析其地理背景（跨洲际交通走廊、资源互补性），说明国际合作在促进沿线国家基础设施联通、贸易投资便利化、文化交流等方面的作用，理解其对区域经济一体化和全球化进程的推动作用。"
+  },
+  {
+    "knowledge_point": "区域经济一体化与地缘合作",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域发展",
+    "theme": "区域合作机制",
+    "cultivated_abilities": "​​区域认知、综合思维​​",
+    "content_description": "以欧盟、东盟、非洲联盟等区域组织为例，说明区域经济一体化的地理基础（地缘邻近性、资源互补性）及其对成员国产业分工、贸易壁垒削减、共同市场建设的作用，评价其对区域竞争力和全球地位的影响。"
+  },
+  {
+    "knowledge_point": "水资源利用与保护",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修4（环境保护）",
+    "theme": "资源管理与环境治理",
+    "cultivated_abilities": "人地协调观、地理实践力",
+    "content_description": "说明全球及中国水资源分布的不均衡性，分析水资源短缺的成因（如过度开采、污染），设计区域水资源保护方案（如节水技术、跨流域调水）。"
+  },
+  {
+    "knowledge_point": "资源开发中的环境问题与治理",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修4（环境保护）",
+    "theme": "环境治理",
+    "cultivated_abilities": "人地协调观、地理实践力",
+    "content_description": "解释矿产资源开发导致的环境问题（如土地塌陷、水污染），提出综合治理措施（如生态修复、循环经济）；通过实验检测土壤/水质污染，设计修复方案。"
+  },
+  {
+    "knowledge_point": "碳排放与全球气候变化",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "环境问题",
+    "theme": "全球变暖与碳减排",
+    "cultivated_abilities": "综合思维、地理实践力",
+    "content_description": "运用碳循环和温室效应原理，分析碳排放对气候的影响；说明国际合作减排的意义（如《巴黎协定》），探讨低碳生活、碳交易等应对措施。"
+  },
+  {
+    "knowledge_point": "污染物跨境转移与环境安全",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "环境问题",
+    "theme": "污染扩散与国际治理",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "举例说明污染物跨国转移（如电子垃圾、工业废水）对输入国环境安全的威胁，分析国际合作治理的必要性及国际法规的作用。"
+  },
+  {
+    "knowledge_point": "自然保护区与生态安全",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "可持续发展",
+    "theme": "生态保护与修复",
+    "cultivated_abilities": "人地协调观、区域认知",
+    "content_description": "以自然保护区为例，说明其对保护生物多样性、维持生态平衡的意义，评价保护政策（如退耕还林、湿地保护）的实施效果及挑战。"
+  },
+  {
+    "knowledge_point": "天气系统模拟",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然地理实践",
+    "theme": "天气现象分析",
+    "cultivated_abilities": "模型构建、逻辑推理能力",
+    "content_description": "通过天气图分析锋面、气旋等天气系统，模拟天气变化过程并预测其对区域的影响。"
+  },
+  {
+    "knowledge_point": "区域发展调查",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域地理实践",
+    "theme": "区域产业结构",
+    "cultivated_abilities": "实地调研、综合分析能力",
+    "content_description": "调查某区域产业结构演变（如资源型城市转型），结合自然与人文因素分析其发展路径。"
+  },
+  {
+    "knowledge_point": "资源开发评估",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "资源环境实践",
+    "theme": "资源与国家安全",
+    "cultivated_abilities": "风险评估、政策分析能力",
+    "content_description": "评估某战略性矿产资源（如稀土）的分布与开发现状，探讨其对国家安全的战略意义及可持续利用措施。"
+  },
+  {
+    "knowledge_point": "​​专属经济区与大陆架权益​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选择性必修3",
+    "theme": "资源与国家安全",
+    "cultivated_abilities": "综合思维、地理实践力",
+    "content_description": "- ​​专属经济区​​（200海里）：沿海国拥有资源勘探、开发、养护的主权权利。\n- ​​大陆架​​（可延伸至350海里）：沿海国对海底资源（油气、矿产等）的专属开发权。\n- 中国东海大陆架延伸至冲绳海槽，南海大陆架依据自然延伸原则主张权益。"
+  },
+  {
+    "knowledge_point": "​​海洋资源开发与国家安全​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选择性必修3",
+    "theme": "资源环境与国家安全",
+    "cultivated_abilities": "人地协调观、综合思维",
+    "content_description": "- 海洋资源（渔业、油气、矿产）是国家战略资源的重要组成部分。\n- 开发海洋资源需平衡经济发展与生态保护，维护国家能源安全（如南海油气田开发）。\n- 过度开发可能导致资源枯竭、生态破坏，需国际合作管理。"
+  },
+  {
+    "knowledge_point": "​​海洋环境保护与主权责任​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选择性必修3",
+    "theme": "资源环境与国家安全",
+    "cultivated_abilities": "人地协调观、地理实践力",
+    "content_description": "- 沿海国家需履行海洋环境保护责任，防止污染（如油轮泄漏、塑料垃圾）。\n- 中国参与全球海洋治理，推动《南海行为准则》制定，维护区域生态安全。"
+  },
+  {
+    "knowledge_point": "区域地理信息技术应用",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术实践",
+    "theme": "区域数据分析",
+    "cultivated_abilities": "地理实践力、区域认知",
+    "content_description": "利用GIS分析区域人口密度、土地利用变化，绘制区域专题地图，支持区域差异研究。"
+  },
+  {
+    "knowledge_point": "区域调查与方案设计",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "实践能力",
+    "theme": "区域问题解决",
+    "cultivated_abilities": "地理实践力、综合思维",
+    "content_description": "设计区域发展调查方案（如家乡特色产业），通过实地考察收集数据，提出区域发展建议。"
+  },
+  {
+    "knowledge_point": "世界遗产保护与旅游开发",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修（旅游地理）",
+    "theme": "文化遗产保护",
+    "cultivated_abilities": "人地协调观、区域认知",
+    "content_description": "区分自然遗产（如九寨沟）与文化遗产（如故宫），结合实例（如敦煌莫高窟）说明保护世界遗产的意义（文化传承、生态保护），探讨旅游开发与遗产保护的平衡措施（如限流、数字化展示）。"
+  },
+  {
+    "knowledge_point": "旅游安全与风险防范",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修（旅游地理）",
+    "theme": "旅游安全管理",
+    "cultivated_abilities": "地理实践力、综合思维",
+    "content_description": "分析自然条件（如山区暴雨、高原反应）与人为因素（如设施隐患）对旅游安全的影响，设计应急预案（如灾害逃生路线、医疗救援），强调安全意识与自救能力。"
+  },
+  {
+    "knowledge_point": "旅游与乡村振兴",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修（旅游地理）",
+    "theme": "区域协调发展",
+    "cultivated_abilities": "人地协调观、区域认知",
+    "content_description": "以乡村旅游为例（如浙江乌镇、云南元阳梯田），说明旅游业在促进农村产业结构调整、传统文化活化、基础设施改善中的作用，探讨“旅游+农业”融合发展模式。"
+  },
+  {
+    "knowledge_point": "智慧旅游与信息技术应用",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修（地理信息技术应用）",
+    "theme": "现代旅游技术",
+    "cultivated_abilities": "地理实践力、综合思维",
+    "content_description": "利用GIS（地理信息系统）、大数据分析游客流量与行为，通过虚拟现实（VR）技术展示旅游资源，说明数字化手段在旅游管理、营销与服务中的创新应用（如“一部手机游云南”）。"
+  },
+  {
+    "knowledge_point": "旅游环境保护与生态旅游",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修（旅游地理）",
+    "theme": "生态旅游",
+    "cultivated_abilities": "人地协调观、地理实践力",
+    "content_description": "分析旅游活动对生态环境（如水质、生物多样性）的破坏，提出保护措施（如垃圾分类、生态承载力评估），以案例（如三江源国家公园）说明生态旅游的理念与实践。"
+  },
+  {
+    "knowledge_point": "城乡规划与产业布局",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "城乡规划",
+    "theme": "区域经济",
+    "cultivated_abilities": "综合思维、地理实践力",
+    "content_description": "分析城乡规划中工业区、农业区、商业区的区位选择原则，及对区域协调发展的意义。"
+  },
+  {
+    "knowledge_point": "自然灾害类型与影响",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然灾害与防治",
+    "theme": "灾害基础认知",
+    "cultivated_abilities": "综合思维",
+    "content_description": "说明自然灾害的分类（地质、气象、生物等）及其对人类社会的影响（经济损失、生态破坏、人员伤亡），例如地震导致建筑倒塌、干旱引发粮食危机。"
+  },
+  {
+    "knowledge_point": "地质灾害成因与危害",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然灾害与防治",
+    "theme": "灾害成因分析",
+    "cultivated_abilities": "区域认知",
+    "content_description": "分析地震（板块运动）、滑坡（坡度、植被破坏）、泥石流（强降水、松散堆积物）的成因与危害，结合案例（如汶川地震、舟曲泥石流）说明致灾机制和破坏力。"
+  },
+  {
+    "knowledge_point": "气象灾害特征与应对",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然灾害与防治",
+    "theme": "灾害动态过程",
+    "cultivated_abilities": "地理实践力",
+    "content_description": "解释台风（热带气旋）、寒潮（冷空气南下）、洪涝（强降水/排水不畅）、干旱（降水异常）的成因与时空分布规律，设计应急预案（如台风预警疏散、农田防旱措施）。"
+  },
+  {
+    "knowledge_point": "生物灾害的危害",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然灾害与防治",
+    "theme": "生态灾害",
+    "cultivated_abilities": "人地协调观",
+    "content_description": "举例说明虫灾（蝗灾）、鼠灾对农业和生态系统的破坏，分析其爆发与气候、人类活动（如过度开垦）的关联，提出生物防治（天敌引入）等减灾手段。"
+  },
+  {
+    "knowledge_point": "人类活动与灾害关联",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然灾害与防治",
+    "theme": "人地关系",
+    "cultivated_abilities": "综合思维",
+    "content_description": "结合实例（如过度砍伐加剧滑坡、城市化加重内涝），说明人类活动对自然灾害的诱发或放大作用，强调可持续发展的重要性。"
+  },
+  {
+    "knowledge_point": "自然灾害空间分布规律",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然灾害与防治",
+    "theme": "区域差异",
+    "cultivated_abilities": "区域认知",
+    "content_description": "运用图表分析全球/中国自然灾害分布（如环太平洋地震带、季风区洪涝多发），比较同一灾害（如地震）在不同区域的危害差异（人口密度、经济水平）。"
+  },
+  {
+    "knowledge_point": "中国灾害多发区特征",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然灾害与防治",
+    "theme": "区域环境分析",
+    "cultivated_abilities": "区域认知",
+    "content_description": "以西南地区（地质灾害）、东南沿海（台风）、华北（干旱）为例，说明我国自然灾害多发区的环境特点（地形、气候、人类活动）及灾害链效应。"
+  },
+  {
+    "knowledge_point": "灾害预警与先兆识别",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然灾害与防治",
+    "theme": "灾害监测",
+    "cultivated_abilities": "地理实践力",
+    "content_description": "列举灾害先兆（如地震前动物异常、泥石流前山体裂缝），说明现代监测技术（地震台网、气象卫星）的应用，设计校园地震逃生演练方案。"
+  },
+  {
+    "knowledge_point": "防灾减灾措施",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然灾害与防治",
+    "theme": "减灾策略",
+    "cultivated_abilities": "人地协调观",
+    "content_description": "从工程措施（修建水库、加固堤坝）和非工程措施（立法管理、保险制度）两方面提出防灾对策，例如日本抗震建筑、荷兰防洪工程、社区应急物资储备。"
+  },
+  {
+    "knowledge_point": "地理信息技术应用",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然灾害与防治",
+    "theme": "技术实践",
+    "cultivated_abilities": "地理实践力",
+    "content_description": "说明GIS（灾情评估）、RS（灾害动态监测）、GNSS（精准定位救援）在灾害预测、灾情评估中的作用，模拟利用遥感图像分析洪水淹没范围。"
+  },
+  {
+    "knowledge_point": "灾害自救与互救",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然灾害与防治",
+    "theme": "生存技能",
+    "cultivated_abilities": "地理实践力",
+    "content_description": "学习地震“伏地、遮挡、手抓牢”，洪水“向高处转移”，火灾“湿毛巾捂口鼻”等应急技能，开展灾害情景模拟训练。"
+  },
+  {
+    "knowledge_point": "国际减灾合作",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然灾害与防治",
+    "theme": "全球治理",
+    "cultivated_abilities": "人地协调观",
+    "content_description": "以“联合国国际减灾战略”为例，说明国际合作在灾害预警、救援物资调配（如国际红十字会对海啸灾区的援助）、技术共享中的意义，理解构建人类命运共同体的必要性。"
+  },
+  {
+    "knowledge_point": "​​资源枯竭型城市转型​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域发展",
+    "theme": "区域可持续发展",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "- 问题：资源枯竭导致经济衰退、失业率上升、生态环境恶化。\n- 治理措施：发展替代产业（如旅游业、高新技术产业），修复生态环境，完善社会保障体系。\n- 案例：德国鲁尔区、中国阜新。"
+  },
+  {
+    "knowledge_point": "​​生态脆弱区综合治理​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域发展",
+    "theme": "生态环境修复",
+    "cultivated_abilities": "人地协调观、地理实践力",
+    "content_description": "- 问题：水土流失、荒漠化、生物多样性减少。\n- 治理措施：退耕还林（草）、水土保持工程、生态移民。\n- 案例：黄土高原水土流失治理、三江源生态保护。"
+  },
+  {
+    "knowledge_point": "​​流域协作开发与保护​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域发展",
+    "theme": "区域协调",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "- 问题：水资源分配不均、水污染、洪涝灾害。\n- 治理措施：统筹规划水资源利用（如梯级开发），建立生态补偿机制，跨区域合作治理。\n- 案例：长江经济带、田纳西河流域治理。"
+  },
+  {
+    "knowledge_point": "​​产业转移与区域发展​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域发展",
+    "theme": "经济结构调整",
+    "cultivated_abilities": "综合思维、人地协调观",
+    "content_description": "- 问题：产业转出区面临产业空心化，转入区可能引发环境污染。\n- 治理措施：优化产业布局，加强环境监管，推动技术升级。\n- 案例：珠三角产业向中西部转移。"
+  },
+  {
+    "knowledge_point": "​​国际合作与区域发展​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域发展",
+    "theme": "全球化与区域联动",
+    "cultivated_abilities": "区域认知、人地协调观",
+    "content_description": "- 问题：跨国资源争端、环境污染扩散。\n- 治理措施：签署国际协议（如《巴黎协定》），共建“一带一路”促进资源共享。\n- 案例：澜沧江-湄公河合作、北极环境保护。"
+  },
+  {
+    "knowledge_point": "​​城乡规划与环境保护​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "城乡规划",
+    "theme": "可持续发展",
+    "cultivated_abilities": "地理实践力、综合思维",
+    "content_description": "- 问题：城乡土地利用冲突、文化遗产破坏。\n- 治理措施：科学规划功能区（如生态保护区、文化景观区），推广绿色建筑和低碳交通。\n- 案例：苏州古城保护、雄安新区规划。"
+  },
+  {
+    "knowledge_point": "​​区域资源开发与国家安全​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "资源与国家安全",
+    "theme": "资源安全",
+    "cultivated_abilities": "综合思维、人地协调观",
+    "content_description": "- 问题：战略性资源（如稀土、石油）过度开发或依赖进口。\n- 治理措施：建立资源储备制度，开发替代资源，加强国际合作保障供给。"
+  },
+  {
+    "knowledge_point": "​​全球化背景下的区域风险​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "政治地理",
+    "theme": "全球治理",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "- 问题：经济全球化加剧区域不稳定（如金融危机、贸易冲突）。\n- 治理措施：完善国际金融监管体系，推动多边合作机制。\n- 案例：WTO改革、区域经济一体化（如欧盟）。"
+  },
+  {
+    "knowledge_point": "国际合作与冲突的背景及形式",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "政治地理",
+    "theme": "国际政治经济格局",
+    "cultivated_abilities": "​​区域认知、综合思维​​",
+    "content_description": "结合实例（如气候变化国际谈判、区域贸易协定），分析国际合作的背景（全球性问题需共同应对）及冲突根源（资源争夺、地缘政治），探讨合作形式（多边协议、国际组织）与冲突表现（贸易战、领土争端）。"
+  },
+  {
+    "knowledge_point": "国际组织与全球治理",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "政治地理",
+    "theme": "国际组织的作用",
+    "cultivated_abilities": "​​综合思维、人地协调观​​",
+    "content_description": "以联合国、世界贸易组织（WTO）、国际货币基金组织（IMF）等为例，说明国际组织在协调全球资源分配、制定国际规则、解决跨国问题（如环境、贫困）中的角色，评价其在促进公平发展与全球治理中的局限性。"
+  },
+  {
+    "knowledge_point": "全球性问题与跨国合作",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "资源环境与国家安全",
+    "theme": "全球环境治理",
+    "cultivated_abilities": "​​人地协调观、地理实践力​​",
+    "content_description": "针对气候变化、海洋污染、生物多样性保护等全球性环境问题，分析其跨国性特征（如碳排放无国界），探讨《巴黎协定》、国际绿色技术合作等治理措施，强调国际合作在实现可持续发展目标（SDGs）中的必要性。"
+  },
+  {
+    "knowledge_point": "数字技术与全球化新趋势",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地理信息技术应用",
+    "theme": "技术驱动的全球化",
+    "cultivated_abilities": "​​地理实践力、综合思维​​",
+    "content_description": "结合跨境电商、远程办公、数字货币等数字技术应用，分析信息技术如何突破地理空间限制，重塑全球生产、消费和社交网络，讨论“数字鸿沟”对发展中国家参与全球化的挑战。"
+  },
+  {
+    "knowledge_point": "自然资源与人类活动关系",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选择性必修3",
+    "theme": "资源开发与利用",
+    "cultivated_abilities": "综合思维、人地协调观",
+    "content_description": "结合实例，说明自然资源的数量、质量、空间分布与人类活动的关系，分析资源开发的区域条件及对经济发展的影响。"
+  },
+  {
+    "knowledge_point": "战略性矿产资源开发与国家安全",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选择性必修3",
+    "theme": "资源安全与战略",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "以某战略性矿产资源（如稀土、石油）为例，分析其全球分布特点、开发技术现状及对国家经济安全、国防安全的意义。"
+  },
+  {
+    "knowledge_point": "耕地资源与粮食安全",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选择性必修3",
+    "theme": "资源安全与可持续",
+    "cultivated_abilities": "综合思维、人地协调观",
+    "content_description": "运用图表解释中国耕地资源的分布特征及开发利用现状，说明耕地保护政策（如基本农田制度）对保障粮食安全的作用。"
+  },
+  {
+    "knowledge_point": "海洋空间资源开发与权益维护",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选择性必修3/选修2",
+    "theme": "海洋资源与国家安全",
+    "cultivated_abilities": "区域认知、地理实践力",
+    "content_description": "结合实例（如南海、东海开发），分析海洋空间资源（港口、油气、渔业）开发对国家经济发展的贡献，说明维护海洋权益的法律依据（《联合国海洋法公约》）及战略意义。"
+  },
+  {
+    "knowledge_point": "资源枯竭型城市转型",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选择性必修2",
+    "theme": "区域可持续发展",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "以某资源枯竭型城市（如大庆、阜新）为例，分析其产业结构转型路径，探讨资源开发与区域可持续发展的矛盾及解决措施。"
+  },
+  {
+    "knowledge_point": "新能源开发与低碳经济",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选择性必修3",
+    "theme": "可持续发展",
+    "cultivated_abilities": "综合思维、创新意识",
+    "content_description": "结合实例（如风能、太阳能），分析新能源开发的技术条件及对减少碳排放的作用，探讨能源结构调整对实现“碳中和”目标的支撑意义。"
+  },
+  {
+    "knowledge_point": "区域资源跨区域调配",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选择性必修2",
+    "theme": "区域协调",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "以“西气东输”“南水北调”为例，分析资源跨区域调配的背景（供需矛盾）、工程影响（经济、生态），评价其对区域协调发展的意义。"
+  },
+  {
+    "knowledge_point": "国际合作与全球资源治理",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选择性必修3",
+    "theme": "全球化与资源安全",
+    "cultivated_abilities": "全球视野、综合思维",
+    "content_description": "说明资源全球化背景下国际合作的重要性（如稀土贸易争端、碳减排协议），分析“一带一路”倡议在促进资源互补、技术共享中的作用，探讨构建人类命运共同体的资源治理路径。"
+  },
+  {
+    "knowledge_point": "水资源保护与可持续利用",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "可持续发展",
+    "theme": "水资源管理",
+    "cultivated_abilities": "综合思维、地理实践力",
+    "content_description": "分析我国水资源时空分布不均、水污染现状；设计区域水资源保护方案（如节水技术、跨流域调水、污水处理），强调循环利用和公众参与的重要性。"
+  },
+  {
+    "knowledge_point": "土壤污染与修复技术",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "环境问题",
+    "theme": "土壤保护",
+    "cultivated_abilities": "地理实践力、综合思维",
+    "content_description": "解释土壤污染的来源（农药、重金属）及危害；学习土壤采样与检测方法，提出修复措施（如生物修复、客土法），强调耕地保护与粮食安全的关系。"
+  },
+  {
+    "knowledge_point": "海洋环境保护与权益维护",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "可持续发展",
+    "theme": "海洋资源开发与保护",
+    "cultivated_abilities": "区域认知、人地协调观",
+    "content_description": "结合实例（如海洋石油泄漏、塑料污染），说明海洋空间资源开发对生态的影响；分析《联合国海洋法公约》对维护国家海洋权益和环境保护的作用。"
+  },
+  {
+    "knowledge_point": "绿色发展与国家战略",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "可持续发展",
+    "theme": "国家政策与全球合作",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "以“碳中和”“生态文明建设”等国家战略为例，说明绿色发展对经济转型的意义；探讨国际合作（如南南合作）在技术共享、资金支持中的角色。"
+  },
+  {
+    "knowledge_point": "环境管理政策与公众参与",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "可持续发展",
+    "theme": "环境治理机制",
+    "cultivated_abilities": "地理实践力、人地协调观",
+    "content_description": "分析环境管理的基本手段（法律、经济、教育）；设计公众参与方案（如垃圾分类、环保志愿活动），强调个人行为对可持续发展的贡献。"
+  },
+  {
+    "knowledge_point": "地理信息技术基本概念",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "GIS基础",
+    "cultivated_abilities": "信息处理能力",
+    "content_description": "描述地理信息系统（GIS）、遥感（RS）、全球卫星导航系统（GNSS）的定义、功能及相互关系，说明其在现代地理学中的作用。"
+  },
+  {
+    "knowledge_point": "数字地球与数字城市",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "数字化生存",
+    "cultivated_abilities": "数字化思维",
+    "content_description": "解释“数字地球”“数字城市”的概念，分析其对城市规划、资源管理、环境保护等领域的应用价值。"
+  },
+  {
+    "knowledge_point": "GIS软件操作基础",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "GIS应用",
+    "cultivated_abilities": "技术操作能力",
+    "content_description": "列举常见GIS软件（如ArcGIS、QGIS），学习数据导入、图层叠加、属性查询等基础操作，制作简单专题地图。"
+  },
+  {
+    "knowledge_point": "地图数字化与数据表建立",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "数据处理",
+    "cultivated_abilities": "数据管理能力",
+    "content_description": "理解地图数字化流程，通过GIS软件将纸质地图转化为数字地图，建立地理信息数据表，掌握字段定义与数据录入方法。"
+  },
+  {
+    "knowledge_point": "GIS条件查询与空间分析",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "空间分析",
+    "cultivated_abilities": "逻辑推理能力",
+    "content_description": "使用GIS软件进行条件查询（如筛选特定人口密度区域），分析地理要素分布规律（如交通网络与城市扩展的关系）。"
+  },
+  {
+    "knowledge_point": "专题地图制作",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "可视化表达",
+    "cultivated_abilities": "可视化表达能力",
+    "content_description": "根据需求选择符号、颜色、标签，制作人口密度、资源分布、环境质量等专题地图，并解释其地理意义。"
+  },
+  {
+    "knowledge_point": "遥感技术原理与类型",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "遥感基础",
+    "cultivated_abilities": "科学认知能力",
+    "content_description": "解释遥感技术基本原理（电磁波反射/辐射），区分可见光、红外、微波等遥感类型，说明不同传感器的适用场景。"
+  },
+  {
+    "knowledge_point": "遥感图像判读方法",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "遥感应用",
+    "cultivated_abilities": "图像分析能力",
+    "content_description": "学习遥感图像解译标志（形状、纹理、色调），判读土地利用类型、植被覆盖、自然灾害影响范围等，分析区域环境变化。"
+  },
+  {
+    "knowledge_point": "全球卫星导航系统（GNSS）原理",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "GNSS基础",
+    "cultivated_abilities": "技术理解能力",
+    "content_description": "说明GNSS（如GPS、北斗）的定位原理（卫星信号三角定位），比较不同卫星导航系统的特点及优势。"
+  },
+  {
+    "knowledge_point": "GNSS设备操作与路径规划",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "GNSS应用",
+    "cultivated_abilities": "实践操作能力",
+    "content_description": "使用GNSS手持设备进行定位、轨迹记录、路径查询，结合电子地图规划野外考察路线。"
+  },
+  {
+    "knowledge_point": "地理信息技术在环境保护中的应用",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "综合应用",
+    "cultivated_abilities": "问题解决能力",
+    "content_description": "分析GIS和遥感在环境监测（如水质污染、森林砍伐）中的应用案例，设计区域生态保护方案。"
+  },
+  {
+    "knowledge_point": "地理信息技术在城乡规划中的应用",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "综合应用",
+    "cultivated_abilities": "规划决策能力",
+    "content_description": "利用GIS空间分析功能评估土地适宜性，模拟城市扩展趋势，优化公共服务设施（学校、医院）布局。"
+  },
+  {
+    "knowledge_point": "地理信息技术在灾害监测中的应用",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "综合应用",
+    "cultivated_abilities": "应急响应能力",
+    "content_description": "结合遥感影像和GIS技术，监测地震、洪水、滑坡等灾害范围，评估灾情损失，辅助救援决策。"
+  },
+  {
+    "knowledge_point": "地理信息技术与社会调查结合",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "实践探究",
+    "cultivated_abilities": "跨学科整合能力",
+    "content_description": "设计社会调查项目（如社区垃圾分类），利用GNSS定位采集数据，GIS分析空间分布规律，撰写调查报告。"
+  },
+  {
+    "knowledge_point": "地理信息技术发展趋势",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践领域",
+    "theme": "前沿技术",
+    "cultivated_abilities": "创新意识",
+    "content_description": "探讨人工智能、大数据与地理信息技术的融合（如智慧城市、自动驾驶），展望未来地理信息技术对人类社会的影响。"
+  },
+  {
+    "knowledge_point": "天文观测技能",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践",
+    "theme": "天体观测",
+    "cultivated_abilities": "仪器操作、数据记录能力",
+    "content_description": "使用天文望远镜观测星座，记录月相变化规律，解释潮汐、日食等现象的成因。"
+  },
+  {
+    "knowledge_point": "海洋资源考察",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "自然地理实践",
+    "theme": "海洋地理",
+    "cultivated_abilities": "样本采集、环境分析能力",
+    "content_description": "模拟海洋资源（如渔业、油气）开发过程，分析其对海洋生态系统的影响及保护措施。"
+  },
+  {
+    "knowledge_point": "灾害应急演练",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "防灾实践",
+    "theme": "自然灾害应对",
+    "cultivated_abilities": "应急决策、团队协作能力",
+    "content_description": "设计地震或洪涝灾害的应急逃生方案，模拟救援行动，评估预案的可行性。"
+  },
+  {
+    "knowledge_point": "地理信息技术操作",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践",
+    "theme": "GIS与遥感应用",
+    "cultivated_abilities": "软件操作、空间建模能力",
+    "content_description": "使用GIS软件（如ArcGIS）分析城市交通网络，制作热力图或缓冲区分析，支持城乡规划决策。"
+  },
+  {
+    "knowledge_point": "野外定向与定位",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "技术与实践",
+    "theme": "地理工具应用",
+    "cultivated_abilities": "空间定位、路径规划能力",
+    "content_description": "使用罗盘、地图进行野外定向，结合GPS设备定位，记录坐标信息并绘制行进路线。"
+  },
+  {
+    "knowledge_point": "环境污染治理方案",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "资源环境实践",
+    "theme": "环境保护",
+    "cultivated_abilities": "问题诊断、方案设计能力",
+    "content_description": "调查本地水污染或空气污染现状，设计治理方案（如湿地修复、减排措施），评估实施效果。"
+  },
+  {
+    "knowledge_point": "区域规划模拟",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "区域地理实践",
+    "theme": "城乡规划",
+    "cultivated_abilities": "规划思维、综合决策能力",
+    "content_description": "模拟某城市新区规划，结合交通、生态、人口因素设计功能区布局，论证方案的合理性。"
+  },
+  {
+    "knowledge_point": "​​海洋争端与国际法依据​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修7（政治地理）",
+    "theme": "国际合作与冲突",
+    "cultivated_abilities": "区域认知、综合思维",
+    "content_description": "- 海洋争端的核心是主权和资源分配问题（如中菲南海争议）。\n- 《联合国海洋法公约》（UNCLOS）是解决争端的主要法律依据，强调和平解决、公平划界原则。\n- 中国主张通过双边谈判解决争议，反对域外势力干预。"
+  },
+  {
+    "knowledge_point": "​​海上丝绸之路与海洋合作​​",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "选修7（政治地理）",
+    "theme": "国际合作",
+    "cultivated_abilities": "区域认知、人地协调观",
+    "content_description": "- ​​21世纪海上丝绸之路​​倡议推动沿海国家在航运、资源开发、环境保护等领域的合作。\n- 合作案例：中国-东盟海洋合作、北极航道开发（“冰上丝绸之路”）。"
+  },
+  {
+    "knowledge_point": "战略性矿产资源与国家安全",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "国家安全",
+    "theme": "资源安全",
+    "cultivated_abilities": "综合思维、区域认知",
+    "content_description": "以稀土、石油等战略性资源为例，分析其全球分布特点、开发现状及对国家安全的影响，探讨资源储备与多元化供给策略。"
+  },
+  {
+    "knowledge_point": "耕地资源与粮食安全",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "国家安全",
+    "theme": "资源安全",
+    "cultivated_abilities": "人地协调观、综合思维",
+    "content_description": "结合中国耕地资源分布数据，说明耕地保护与粮食安全的关系，分析耕地减少的原因及应对措施（如土地整治、科技兴农）。"
+  },
+  {
+    "knowledge_point": "海洋空间开发与安全挑战",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "国家安全",
+    "theme": "海洋安全",
+    "cultivated_abilities": "区域认知、地理实践力",
+    "content_description": "分析海洋空间资源开发（如港口建设、海底资源开发）对国家安全的影响，探讨海洋环境污染、主权争议等问题的应对策略。"
+  },
+  {
+    "knowledge_point": "碳排放与国际合作",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "国家安全",
+    "theme": "环境安全",
+    "cultivated_abilities": "综合思维、人地协调观",
+    "content_description": "运用碳循环原理，说明碳排放对全球气候的影响，结合《巴黎协定》等案例，分析国际合作在碳减排中的必要性及中国的责任担当。"
+  },
+  {
+    "knowledge_point": "污染物跨境转移与环境安全",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "国家安全",
+    "theme": "环境安全",
+    "cultivated_abilities": "综合思维、区域关联分析",
+    "content_description": "以电子废弃物、大气污染跨境传输为例，说明污染物转移对输入国环境安全的危害，探讨国际环境治理的法律框架与责任分担机制。"
+  },
+  {
+    "knowledge_point": "国家领土与边界问题",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地缘政治",
+    "theme": "领土与主权",
+    "cultivated_abilities": "区域认知、批判性思维",
+    "content_description": "解释国家领土的概念及空间构成，结合中印边界、中俄边界等案例，分析边界纠纷的成因及和平解决途径（如外交谈判、国际仲裁）。"
+  },
+  {
+    "knowledge_point": "综合国力与国际竞争",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地缘政治",
+    "theme": "国际政治格局",
+    "cultivated_abilities": "综合思维、数据分析能力",
+    "content_description": "从经济、军事、科技、文化等角度分析综合国力的构成要素，结合中美综合国力对比，探讨提升国家竞争力的路径（如科技创新、软实力建设）。"
+  },
+  {
+    "knowledge_point": "世界政治多极化与人类命运共同体",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地缘政治",
+    "theme": "国际政治格局",
+    "cultivated_abilities": "全球视野、人地协调观",
+    "content_description": "描述当代世界政治多极化趋势，结合“一带一路”倡议，说明共建人类命运共同体对促进国际合作、减少地缘冲突的意义。"
+  },
+  {
+    "knowledge_point": "经济全球化与区域冲突",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地缘政治",
+    "theme": "经济与政治互动",
+    "cultivated_abilities": "区域关联分析、综合思维",
+    "content_description": "以中美贸易战、俄乌冲突为例，分析经济全球化背景下国家利益的博弈，探讨区域冲突对全球供应链、能源安全的影响及应对策略。"
+  },
+  {
+    "knowledge_point": "国际组织与全球治理",
+    "stage": "高中",
+    "subject": "Geography",
+    "category": "地缘政治",
+    "theme": "国际合作机制",
+    "cultivated_abilities": "批判性思维、全球视野",
+    "content_description": "结合联合国、上海合作组织等案例，说明国际组织在协调区域矛盾、维护全球安全中的作用，评价其应对全球性挑战（如气候变化、恐怖主义）的成效。"
+  }
+]
