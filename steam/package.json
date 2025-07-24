@@ -29,6 +29,7 @@
     "@prisma/client": "^6.11.1",
     "ai": "^4.3.18",
     "dotenv": "^17.2.0",
+    "serpapi": "^2.1.0",
     "zod": "^3"
   },
   "devDependencies": {

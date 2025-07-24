@@ -2,17 +2,16 @@ import { Mastra } from "@mastra/core";
 import { PinoLogger } from "@mastra/loggers";
 import { LibSQLStore } from "@mastra/libsql";
 
-import { generalAgent } from "./agents";
-import { generalWorkflow } from "./workflows";
-import { queryKnowledgeBase, graphRagTool } from "./tools";
+import { steamAgent } from "./agents";
+import { studyTourWorkflow } from "./workflows/study-tour";
 import { vectorStore } from "../rag/vector-store";
 
 export const mastra = new Mastra({
   agents: {
-    generalAgent,
+    steamAgent,
   },
   workflows: {
-    generalWorkflow,
+    studyTourWorkflow,
   },
   vectors: {
     postgres: vectorStore,

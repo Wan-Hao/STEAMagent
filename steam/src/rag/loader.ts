@@ -1,8 +1,13 @@
 import fs from "fs/promises";
 import path from "path";
+import { fileURLToPath } from "url";
 
-// Correct path assuming script is run from 'steam-agent' directory
-const dataDirectory = path.resolve(process.cwd(), "../dataset/knowledge-graph");
+// Get the directory name of the current module
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Path to the dataset directory, resolved from the current file's location.
+const dataDirectory = path.resolve(__dirname, "../../../dataset/knowledge-graph");
 
 const dataSummeryDir = path.join(dataDirectory, "data-summery");
 const graphDir = path.join(dataDirectory, "graph");
@@ -40,6 +45,15 @@ export interface KnowledgeGraph {
   edges: GraphEdge[];
 }
 
+export interface KnowledgeScenario {
+  province_city: string;
+  scenic_spot: string;
+  name: string;
+  stage: string;
+  subject: string;
+  knowledge_point: string;
+}
+
 export async function loadKnowledgePoints(): Promise<KnowledgePoint[]> {
   const allKnowledgePoints: KnowledgePoint[] = [];
 
@@ -63,6 +77,23 @@ export async function loadKnowledgePoints(): Promise<KnowledgePoint[]> {
 
 
   return allKnowledgePoints;
+}
+
+export async function loadKnowledgeScenarios(): Promise<KnowledgeScenario[]> {
+  const scenariosFilePath = path.resolve(
+    __dirname,
+    "../../../dataset/knowledge-scenarios/knowledge_scenarios.json"
+  );
+  try {
+    const fileContent = await fs.readFile(scenariosFilePath, "utf-8");
+    const scenarios = JSON.parse(fileContent) as KnowledgeScenario[];
+    return scenarios.filter(
+      (scenario) => scenario.knowledge_point !== "暂无收集整理相关知识点"
+    );
+  } catch (error) {
+    console.error(`Error reading knowledge scenarios from ${scenariosFilePath}:`, error);
+    throw new Error("Failed to load knowledge scenarios.");
+  }
 }
 
 export async function loadKnowledgeGraph(
